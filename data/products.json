@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "McDonald's F1 Promo Car",
-        "description": "Carro promocional de McDonald’s lanzado en conjunto con la película de la Fórmula 1. Una pieza de colección que mezcla el automovilismo con la cultura pop.",
+        "description": "Carro promocional de McDonald's lanzado en conjunto con la película de la Fórmula 1. Una pieza de colección que mezcla el automovilismo con la cultura pop.",
         "categories": ["mcdonalds", "scale-1-43"],
         "price": 525.00,
         "images": ["1.jpg", "2.jpg", "3.jpg"],
@@ -14,12 +14,41 @@
             "packaging": "Caja promocional McDonald's"
         },
         "features": ["Diseño inspirado en la F1", "Edición promocional limitada", "Detalles coleccionables"],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2025,
         "team": "Promotional",
         "manufacturer": "McDonald's",
         "scale": "1:43",
         "driver": "N/A"
+    },
+    {
+        "id": 2,
+        "name": "Ferrari SF-21 Carlos Sainz",
+        "description": "Réplica oficial del Ferrari SF-21 conducido por Carlos Sainz en la temporada 2021. Incluye revista coleccionable con información técnica y detalles del piloto español. Pieza de colección de la prestigiosa editorial Salvat.",
+        "categories": ["ferrari", "scale-1-43", "salvat-collection"],
+        "price": 275.00,
+        "images": ["2.jpg", "2.jpg"],
+        "imageFolder": "images/ferrari_sf21_sainz/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "372.5 km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Sainz (#55)",
+            "Patrocinadores y logos oficiales"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "Ferrari",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Carlos Sainz Jr."
     }
 ]
