@@ -84,8 +84,8 @@
         "id": 4,
         "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
         "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
-        "categories": ["mclaren", "scale-1-43", "salvat-collection", "monaco-edition"],
-        "price": 295.00,
+        "categories": ["mclaren", "limited", "scale-1-43", "salvat-collection"],
+        "price": 275.00,
         "images": ["1.jpg", "2.jpg", "3.jpg"],
         "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
         "specifications": {
