@@ -44,7 +44,7 @@
             "Patrocinadores y logos oficiales"
         ],
         "inStock": true,
-        "limitedEdition": true,
+        "limitedEdition": false,
         "year": 2021,
         "team": "Ferrari",
         "manufacturer": "Salvat",
