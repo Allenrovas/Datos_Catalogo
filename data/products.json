@@ -28,7 +28,7 @@
         "description": "Réplica oficial del Ferrari SF-21 conducido por Carlos Sainz en la temporada 2021. Incluye revista coleccionable con información técnica y detalles del piloto español. Pieza de colección de la prestigiosa editorial Salvat.",
         "categories": ["ferrari", "scale-1-43", "salvat-collection"],
         "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "images": ["1.jpg", "2.jpg", "3.jpg"],
         "imageFolder": "images/ferrari_sf21_sainz/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -50,5 +50,65 @@
         "manufacturer": "Salvat",
         "scale": "1:43",
         "driver": "Carlos Sainz Jr."
+    },
+    {
+        "id": 3,
+        "name": "Aston Martin AMR23 Fernando Alonso",
+        "description": "Réplica oficial del Aston Martin AMR23 de Fernando Alonso de la temporada 2023. El regreso del bicampeón español con el equipo británico en una temporada memorable. Incluye revista coleccionable con información técnica y la historia de Alonso en Aston Martin.",
+        "categories": ["aston-martin", "scale-1-43", "salvat-collection"],
+        "price": 275.00,
+        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "imageFolder": "images/aston_martin_amr23_alonso/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Alonso (#14)",
+            "Patrocinadores y logos oficiales de Aston Martin"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2023,
+        "team": "Aston Martin",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 4,
+        "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
+        "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
+        "categories": ["mclaren", "scale-1-43", "salvat-collection", "monaco-edition"],
+        "price": 295.00,
+        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Mónaco con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Mónaco",
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable edición Mónaco",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Norris (#4)",
+            "Livery especial para Mónaco",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "McLaren",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Lando Norris"
     }
 ]
