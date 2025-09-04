@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "McDonald's F1 Promo Car",
+        "description": "Carro promocional de McDonald’s lanzado en conjunto con la película de la Fórmula 1. Una pieza de colección que mezcla el automovilismo con la cultura pop.",
+        "categories": ["mcdonalds", "scale-1-43"],
+        "price": 525.00,
+        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "imageFolder": "images/mcd_f1/",
+        "specifications": {
+            "material": "Metal con llantas de goma",
+            "topSpeed": "Modelo promocional (sin especificación real)",
+            "scale": "1:43",
+            "packaging": "Caja promocional McDonald's"
+        },
+        "features": ["Diseño inspirado en la F1", "Edición promocional limitada", "Detalles coleccionables"],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Promotional",
+        "manufacturer": "McDonald's",
+        "scale": "1:43",
+        "driver": "N/A"
+    }
+]
