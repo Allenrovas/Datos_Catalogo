@@ -644,7 +644,7 @@
             "Modelo histórico de Ferrari",
             "Último título Ferrari de los 70"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1979,
         "team": "Ferrari",
@@ -677,7 +677,7 @@
             "Era turbo de los 80",
             "Modelo histórico de campeonato"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1983,
         "team": "Brabham",
