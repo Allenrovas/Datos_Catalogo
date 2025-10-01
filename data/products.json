@@ -413,7 +413,7 @@
             "Modelo clásico de los años 60",
             "Detalles auténticos de época"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1963,
         "team": "Lotus",
@@ -446,7 +446,7 @@
             "Modelo clásico de 1969",
             "Detalles auténticos franceses"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1969,
         "team": "Matra",
@@ -545,7 +545,7 @@
             "Modelo de campeonato histórico",
             "Detalles auténticos de época"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1973,
         "team": "Tyrrell",
@@ -611,7 +611,7 @@
             "Modelo de campeonato histórico",
             "Motor Repco australiano único"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1967,
         "team": "Brabham",
@@ -710,7 +710,7 @@
             "Primer título de Williams",
             "Era ground effect de los 80"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1980,
         "team": "Williams",
