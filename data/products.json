@@ -130,7 +130,7 @@
             "packaging": "Caja coleccionista IXO"
         },
         "features": ["Diseño de baja resistencia aerodinámica", "Motor turbo Honda RA168E", "Chasis monocasco de fibra de carbono"],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 1988,
         "team": "McLaren",
