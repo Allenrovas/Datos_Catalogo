@@ -612,7 +612,7 @@
             "Modelo de campeonato histórico",
             "Motor Repco australiano único"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1967,
         "team": "Brabham",
