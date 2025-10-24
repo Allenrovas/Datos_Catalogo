@@ -1,63 +1,19 @@
 [
     {
-        "id": 1,
-        "name": "McDonald's F1 Promo Car",
-        "description": "Carro promocional de McDonald's lanzado en conjunto con la película de la Fórmula 1. Una pieza de colección que mezcla el automovilismo con la cultura pop.",
-        "categories": ["mcdonalds", "scale-1-43"],
-        "price": 525.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg"],
-        "imageFolder": "images/mcd_f1/",
-        "specifications": {
-            "material": "Metal con llantas de goma",
-            "topSpeed": "Modelo promocional (sin especificación real)",
-            "scale": "1:43",
-            "packaging": "Caja promocional McDonald's"
-        },
-        "features": ["Diseño inspirado en la F1", "Edición promocional limitada", "Detalles coleccionables"],
-        "inStock": false,
-        "limitedEdition": true,
-        "year": 2025,
-        "team": "Promotional",
-        "manufacturer": "McDonald's",
-        "scale": "1:43",
-        "driver": "N/A"
-    },
-    {
-        "id": 2,
-        "name": "Ferrari SF-21 Carlos Sainz",
-        "description": "Réplica oficial del Ferrari SF-21 conducido por Carlos Sainz en la temporada 2021. Incluye revista coleccionable con información técnica y detalles del piloto español. Pieza de colección de la prestigiosa editorial Salvat.",
-        "categories": ["ferrari", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg"],
-        "imageFolder": "images/ferrari_sf21_sainz/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "372.5 km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista con revista"
-        },
-        "features": [
-            "Detalles auténticos del monoplaza original",
-            "Incluye revista coleccionable",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Sainz (#55)",
-            "Patrocinadores y logos oficiales"
-        ],
-        "inStock": false,
-        "limitedEdition": false,
-        "year": 2021,
-        "team": "Ferrari",
-        "manufacturer": "Salvat",
-        "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
-    },
-    {
         "id": 3,
         "name": "Aston Martin AMR23 Fernando Alonso",
         "description": "Réplica oficial del Aston Martin AMR23 de Fernando Alonso de la temporada 2023. El regreso del bicampeón español con el equipo británico en una temporada memorable. Incluye revista coleccionable con información técnica y la historia de Alonso en Aston Martin.",
-        "categories": ["aston-martin", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "categories": [
+            "aston-martin",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
         "imageFolder": "images/aston_martin_amr23_alonso/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -84,9 +40,18 @@
         "id": 4,
         "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
         "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
-        "categories": ["mclaren", "limited", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
         "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -115,9 +80,20 @@
         "id": 5,
         "name": "McLaren MP4/4 Ayrton Senna",
         "description": "El mítico McLaren MP4/4 de 1988, uno de los monoplazas más dominantes de la historia de la Fórmula 1, con el que Ayrton Senna conquistó su primer título mundial.",
-        "categories": ["championship", "mclaren", "senna", "ixo", "scale-1-43"],
-        "price": 475.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "categories": [
+            "championship",
+            "mclaren",
+            "senna",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 475.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
         "imageFolder": "images/mp44_senna/",
         "specifications": {
             "engine": "Honda RA168E V6 Turbo",
@@ -129,7 +105,11 @@
             "scale": "1:43",
             "packaging": "Caja coleccionista IXO"
         },
-        "features": ["Diseño de baja resistencia aerodinámica", "Motor turbo Honda RA168E", "Chasis monocasco de fibra de carbono"],
+        "features": [
+            "Diseño de baja resistencia aerodinámica",
+            "Motor turbo Honda RA168E",
+            "Chasis monocasco de fibra de carbono"
+        ],
         "inStock": true,
         "limitedEdition": true,
         "year": 1988,
@@ -139,74 +119,23 @@
         "driver": "Ayrton Senna"
     },
     {
-        "id": 6,
-        "name": "Ferrari SF-24 Charles Leclerc - Edición Especial Miami",
-        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Miami 2024. Una pieza única que conmemora una de las carreras más glamorosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
-        "categories": ["ferrari", "limited", "scale-1-43", "bburago"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
-        "imageFolder": "images/ferrari_sf24_leclerc_miami/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "340+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Miami"
-        },
-        "features": [
-            "Configuración especial del GP de Miami",
-            "Detalles auténticos del monoplaza original",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Leclerc (#16)",
-            "Livery especial para Miami",
-            "Patrocinadores y logos oficiales",
-            "Edición especial conmemorativa"
-        ],
-        "inStock": false,
-        "limitedEdition": true,
-        "year": 2024,
-        "team": "Ferrari",
-        "manufacturer": "Bburago",
-        "scale": "1:43",
-        "driver": "Charles Leclerc"
-    },
-    {
-        "id": 7,
-        "name": "Ferrari SF-24 Carlos Sainz - Edición Especial Miami",
-        "description": "Réplica oficial del Ferrari SF-24 de Carlos Sainz en su configuración especial para el Gran Premio de Miami 2024. Una pieza única que conmemora una de las carreras más glamorosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
-        "categories": ["ferrari", "limited", "scale-1-43", "bburago"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
-        "imageFolder": "images/ferrari_sf24_sainz_miami/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "340+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Miami"
-        },
-        "features": [
-            "Configuración especial del GP de Miami",
-            "Detalles auténticos del monoplaza original",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Sainz (#55)",
-            "Livery especial para Miami",
-            "Patrocinadores y logos oficiales",
-            "Edición especial conmemorativa"
-        ],
-        "inStock": false,
-        "limitedEdition": true,
-        "year": 2024,
-        "team": "Ferrari",
-        "manufacturer": "Bburago",
-        "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
-    },
-    {
         "id": 8,
         "name": "Red Bull RB19 Max Verstappen - Las Vegas GP",
         "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Las Vegas 2023. El monoplaza campeón del mundo en la ciudad del entretenimiento. Modelo de alta calidad Bburago con detalles premium.",
-        "categories": ["red-bull", "limited", "scale-1-43", "bburago", "championship"],
-        "price": 250.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
         "imageFolder": "images/rb19_verstappen_las_vegas/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -232,43 +161,23 @@
         "driver": "Max Verstappen"
     },
     {
-        "id": 9,
-        "name": "Red Bull RB19 Max Verstappen - Austin GP",
-        "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Austin 2023. El monoplaza campeón del mundo en el Circuito de las Américas. Modelo de alta calidad Bburago con detalles premium.",
-        "categories": ["red-bull", "limited", "scale-1-43", "bburago", "championship"],
-        "price": 250.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
-        "imageFolder": "images/rb19_verstappen_austin/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "365+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista edición Austin"
-        },
-        "features": [
-            "Configuración especial del GP de Austin",
-            "Detalles auténticos del monoplaza campeón",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Verstappen (#1)",
-            "Livery especial para Austin",
-            "Patrocinadores y logos oficiales",
-            "Edición especial conmemorativa"
-        ],
-        "inStock": false,
-        "limitedEdition": true,
-        "year": 2023,
-        "team": "Red Bull Racing",
-        "manufacturer": "Bburago",
-        "scale": "1:43",
-        "driver": "Max Verstappen"
-    },
-    {
         "id": 10,
         "name": "Ferrari 499P #51 Le Mans LMH",
         "description": "Réplica oficial del Ferrari 499P #51 que compitió en las 24 Horas de Le Mans en la categoría LMH (Le Mans Hypercar). El regreso triunfal de Ferrari a la máxima categoría de resistencia después de 50 años. Modelo de alta calidad Bburago con detalles de competición.",
-        "categories": ["ferrari", "endurance", "lemans", "scale-1-43", "bburago"],
-        "price": 250.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "categories": [
+            "ferrari",
+            "endurance",
+            "lemans",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
         "imageFolder": "images/ferrari_499p_lemans/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -297,9 +206,19 @@
         "id": 11,
         "name": "McLaren MCL38 Lando Norris - Monaco GP",
         "description": "Réplica oficial del McLaren MCL38 de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2024. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
-        "categories": ["mclaren", "limited", "scale-1-43", "bburago"],
-        "price": 250.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
         "imageFolder": "images/mclaren_mcl38_norris_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -328,9 +247,19 @@
         "id": 12,
         "name": "McLaren MCL38 Oscar Piastri - Monaco GP",
         "description": "Réplica oficial del McLaren MCL38 de Oscar Piastri en su configuración especial para el Gran Premio de Mónaco 2024. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
-        "categories": ["mclaren", "limited", "scale-1-43", "bburago"],
-        "price": 250.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
         "imageFolder": "images/mclaren_mcl38_piastri_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
@@ -356,12 +285,374 @@
         "driver": "Oscar Piastri"
     },
     {
+        "id": 20,
+        "name": "Brabham BT24 Denis Hulme",
+        "description": "El Brabham BT24 con el que Denis Hulme conquistó el campeonato mundial de 1967, convirtiéndose en el primer neozelandés en ganar un título de F1. El campeón kiwi.",
+        "categories": [
+            "championship",
+            "brabham",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "originalPrice": 295.0,
+        "price": 275.0,
+        "images": [
+            "3.jpg",
+            "4.jpg"
+        ],
+        "imageFolder": "images/brabham_bt24_hulme/",
+        "specifications": {
+            "engine": "Repco 620 V8",
+            "power": "330 HP",
+            "weight": "500 kg",
+            "topSpeed": "290 km/h",
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO con revista"
+        },
+        "features": [
+            "Diseño clásico de los años 60",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración histórica de Hulme",
+            "Modelo de campeonato histórico",
+            "Motor Repco australiano único"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1967,
+        "team": "Brabham",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Denis Hulme"
+    },
+    {
+        "id": 24,
+        "name": "Red Bull RB18 Max Verstappen - Japanese GP",
+        "description": "Réplica oficial del Red Bull RB18 de Max Verstappen en su configuración especial para el Gran Premio de Japón 2022, donde se coronó bicampeón mundial. Incluye revista coleccionable con información técnica y detalles de la coronación en Suzuka.",
+        "categories": [
+            "red-bull",
+            "championship",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
+        "imageFolder": "images/rb18_verstappen_japan/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Japón",
+            "Detalles auténticos del monoplaza campeón",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Verstappen (#1)",
+            "Celebración de la coronación mundial",
+            "Patrocinadores y logos oficiales"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2022,
+        "team": "Red Bull Racing",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 25,
+        "name": "Alpine A522 Esteban Ocon",
+        "description": "Réplica oficial del Alpine A522 de Esteban Ocon de la temporada 2022. El regreso de Alpine a la competitividad en la Fórmula 1 con el piloto francés. Incluye revista coleccionable con información técnica y la historia de Alpine en F1.",
+        "categories": [
+            "alpine",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
+        "imageFolder": "images/alpine_a522_ocon/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Ocon (#31)",
+            "Patrocinadores y logos oficiales de Alpine",
+            "Livery característica francesa"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2022,
+        "team": "Alpine",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Esteban Ocon"
+    },
+    {
+        "id": 26,
+        "name": "Mercedes W11 Lewis Hamilton",
+        "description": "El dominante Mercedes W11 con el que Lewis Hamilton conquistó su séptimo campeonato mundial en 2020, igualando el récord de Michael Schumacher. Uno de los monoplazas más exitosos de la historia. Incluye revista coleccionable con la historia del séptimo título de Hamilton.",
+        "categories": [
+            "championship",
+            "mercedes",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
+        "imageFolder": "images/mercedes_w11_hamilton/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Monoplaza más dominante de 2020",
+            "Detalles auténticos del W11 campeón",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Hamilton (#44)",
+            "Séptimo campeonato mundial",
+            "Patrocinadores y logos oficiales Mercedes"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2020,
+        "team": "Mercedes",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
+    },
+    {
+        "id": 1,
+        "name": "McDonald's F1 Promo Car",
+        "description": "Carro promocional de McDonald's lanzado en conjunto con la película de la Fórmula 1. Una pieza de colección que mezcla el automovilismo con la cultura pop.",
+        "categories": [
+            "mcdonalds",
+            "scale-1-43"
+        ],
+        "price": 525.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
+        "imageFolder": "images/mcd_f1/",
+        "specifications": {
+            "material": "Metal con llantas de goma",
+            "topSpeed": "Modelo promocional (sin especificación real)",
+            "scale": "1:43",
+            "packaging": "Caja promocional McDonald's"
+        },
+        "features": [
+            "Diseño inspirado en la F1",
+            "Edición promocional limitada",
+            "Detalles coleccionables"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Promotional",
+        "manufacturer": "McDonald's",
+        "scale": "1:43",
+        "driver": "N/A"
+    },
+    {
+        "id": 2,
+        "name": "Ferrari SF-21 Carlos Sainz",
+        "description": "Réplica oficial del Ferrari SF-21 conducido por Carlos Sainz en la temporada 2021. Incluye revista coleccionable con información técnica y detalles del piloto español. Pieza de colección de la prestigiosa editorial Salvat.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf21_sainz/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "372.5 km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Sainz (#55)",
+            "Patrocinadores y logos oficiales"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2021,
+        "team": "Ferrari",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Carlos Sainz Jr."
+    },
+    {
+        "id": 6,
+        "name": "Ferrari SF-24 Charles Leclerc - Edición Especial Miami",
+        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Miami 2024. Una pieza única que conmemora una de las carreras más glamorosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf24_leclerc_miami/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "340+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Miami"
+        },
+        "features": [
+            "Configuración especial del GP de Miami",
+            "Detalles auténticos del monoplaza original",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Leclerc (#16)",
+            "Livery especial para Miami",
+            "Patrocinadores y logos oficiales",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
+    },
+    {
+        "id": 7,
+        "name": "Ferrari SF-24 Carlos Sainz - Edición Especial Miami",
+        "description": "Réplica oficial del Ferrari SF-24 de Carlos Sainz en su configuración especial para el Gran Premio de Miami 2024. Una pieza única que conmemora una de las carreras más glamorosas del calendario de F1. Modelo de alta calidad Bburago con acabados premium.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf24_sainz_miami/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "340+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Miami"
+        },
+        "features": [
+            "Configuración especial del GP de Miami",
+            "Detalles auténticos del monoplaza original",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Sainz (#55)",
+            "Livery especial para Miami",
+            "Patrocinadores y logos oficiales",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Carlos Sainz Jr."
+    },
+    {
+        "id": 9,
+        "name": "Red Bull RB19 Max Verstappen - Austin GP",
+        "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Austin 2023. El monoplaza campeón del mundo en el Circuito de las Américas. Modelo de alta calidad Bburago con detalles premium.",
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
+        "imageFolder": "images/rb19_verstappen_austin/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición Austin"
+        },
+        "features": [
+            "Configuración especial del GP de Austin",
+            "Detalles auténticos del monoplaza campeón",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Verstappen (#1)",
+            "Livery especial para Austin",
+            "Patrocinadores y logos oficiales",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2023,
+        "team": "Red Bull Racing",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
         "id": 13,
         "name": "Renault R25 Fernando Alonso",
         "description": "El histórico Renault R25 con el que Fernando Alonso conquistó su primer título mundial en 2005, convirtiéndose en el piloto más joven en ganar un campeonato de F1 en ese momento. Incluye revista coleccionable con información técnica y la historia del primer título de Alonso.",
-        "categories": ["championship", "renault", "alonso", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "renault",
+            "alonso",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/renault_r25_alonso/",
         "specifications": {
             "engine": "Renault RS25 V8",
@@ -392,9 +683,18 @@
         "id": 14,
         "name": "Lotus 25 Jim Clark",
         "description": "El legendario Lotus 25 con el que Jim Clark dominó la Fórmula 1 en los años 60, ganando el campeonato mundial en 1963 y 1965. Un monoplaza revolucionario en su diseño y construcción. Incluye revista coleccionable con la historia de Clark y el Lotus 25.",
-        "categories": ["championship", "lotus", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "lotus",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/lotus_25_clark/",
         "specifications": {
             "engine": "Coventry Climax FWMV V8",
@@ -425,9 +725,18 @@
         "id": 15,
         "name": "Matra MS10 Jackie Stewart",
         "description": "El Matra MS10 con el que Jackie Stewart logró múltiples victorias en 1969, demostrando la excelencia de la ingeniería francesa en la Fórmula 1. Un monoplaza histórico de la época dorada del automovilismo. Incluye revista coleccionable con la historia de Stewart y Matra.",
-        "categories": ["championship", "matra", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "matra",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/matra_ms10_stewart/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -458,9 +767,18 @@
         "id": 16,
         "name": "Williams FW14B Nigel Mansell",
         "description": "El dominante Williams FW14B con el que Nigel Mansell conquistó el campeonato mundial de 1992 de manera arrolladora. Un monoplaza tecnológicamente avanzado con suspensión activa. Incluye revista coleccionable con la historia del título de Mansell. MODELO AGOTADO.",
-        "categories": ["championship", "williams", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "williams",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/williams_fw14b_mansell/",
         "specifications": {
             "engine": "Renault RS3C V10",
@@ -491,9 +809,17 @@
         "id": 17,
         "name": "Brawn GP 01 Jenson Button",
         "description": "El milagroso Brawn GP 01 con el que Jenson Button conquistó el campeonato mundial de 2009 en la temporada más improbable de la F1. El equipo que surgió de las cenizas de Honda. Incluye revista coleccionable con la increíble historia de Brawn GP. MODELO AGOTADO.",
-        "categories": ["championship", "brawn", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "brawn",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brawn_gp01_button/",
         "specifications": {
             "engine": "Mercedes FO 108W V8",
@@ -524,9 +850,18 @@
         "id": 18,
         "name": "Tyrrell 006 Jackie Stewart",
         "description": "El elegante Tyrrell 006 con el que Jackie Stewart conquistó su tercer y último campeonato mundial en 1973. Un monoplaza clásico de la era dorada de Stewart. Incluye revista coleccionable con la historia del tercer título del escocés volador.",
-        "categories": ["championship", "tyrrell", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "tyrrell",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/tyrrell_006_stewart/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -557,9 +892,17 @@
         "id": 19,
         "name": "Williams FW19 Jacques Villeneuve",
         "description": "El Williams FW19 con el que Jacques Villeneuve conquistó el campeonato mundial de 1997 en una emocionante batalla final contra Michael Schumacher. Incluye revista coleccionable con la historia del título del canadiense.",
-        "categories": ["championship", "williams", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "williams",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/williams_fw19_villeneuve/",
         "specifications": {
             "engine": "Renault RS9 V10",
@@ -587,46 +930,21 @@
         "driver": "Jacques Villeneuve"
     },
     {
-        "id": 20,
-        "name": "Brabham BT24 Denis Hulme",
-        "description": "El Brabham BT24 con el que Denis Hulme conquistó el campeonato mundial de 1967, convirtiéndose en el primer neozelandés en ganar un título de F1. El campeón kiwi.",
-        "categories": ["championship", "brabham", "classic", "ixo", "scale-1-43"],
-        "originalPrice": 295.00,
-        "price": 275.00,
-        "images": ["3.jpg", "4.jpg"],
-        "imageFolder": "images/brabham_bt24_hulme/",
-        "specifications": {
-            "engine": "Repco 620 V8",
-            "power": "330 HP",
-            "weight": "500 kg",
-            "topSpeed": "290 km/h",
-            "material": "Metal fundido a presión con detalles en plástico",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista IXO con revista"
-        },
-        "features": [
-            "Diseño clásico de los años 60",
-            "Incluye revista coleccionable",
-            "Acabados en acrílico de alta calidad",
-            "Numeración histórica de Hulme",
-            "Modelo de campeonato histórico",
-            "Motor Repco australiano único"
-        ],
-        "inStock": true,
-        "limitedEdition": false,
-        "year": 1967,
-        "team": "Brabham",
-        "manufacturer": "IXO",
-        "scale": "1:43",
-        "driver": "Denis Hulme"
-    },
-    {
         "id": 21,
         "name": "Ferrari 312 T3 Jody Scheckter",
         "description": "El Ferrari 312 T3 con el que Jody Scheckter conquistó el campeonato mundial de 1979, siendo el último título de Ferrari hasta 2000. Incluye revista coleccionable con la historia del sudafricano y Ferrari en los 70.",
-        "categories": ["championship", "ferrari", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "ferrari",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/ferrari_312t3_scheckter/",
         "specifications": {
             "engine": "Ferrari 015 Flat-12",
@@ -657,9 +975,17 @@
         "id": 22,
         "name": "Brabham BT52B Nelson Piquet",
         "description": "El Brabham BT52B con el que Nelson Piquet conquistó su segundo campeonato mundial en 1983. Un monoplaza innovador de la era turbo. Incluye revista coleccionable con la historia del bicampeón brasileño.",
-        "categories": ["championship", "brabham", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "brabham",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brabham_bt52b_piquet/",
         "specifications": {
             "engine": "BMW M12/13 4-cylinder Turbo",
@@ -690,9 +1016,18 @@
         "id": 23,
         "name": "Williams FW07 Alan Jones",
         "description": "El Williams FW07 con el que Alan Jones conquistó el campeonato mundial de 1980, marcando el inicio de la era dorada de Williams. Incluye revista coleccionable con la historia del australiano y el resurgimiento de Williams.",
-        "categories": ["championship", "williams", "classic", "ixo", "scale-1-43"],
-        "price": 295.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "williams",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/williams_fw07_jones/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -720,104 +1055,20 @@
         "driver": "Alan Jones"
     },
     {
-        "id": 24,
-        "name": "Red Bull RB18 Max Verstappen - Japanese GP",
-        "description": "Réplica oficial del Red Bull RB18 de Max Verstappen en su configuración especial para el Gran Premio de Japón 2022, donde se coronó bicampeón mundial. Incluye revista coleccionable con información técnica y detalles de la coronación en Suzuka.",
-        "categories": ["red-bull", "championship", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
-        "imageFolder": "images/rb18_verstappen_japan/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "365+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista con revista"
-        },
-        "features": [
-            "Configuración especial del GP de Japón",
-            "Detalles auténticos del monoplaza campeón",
-            "Incluye revista coleccionable",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Verstappen (#1)",
-            "Celebración de la coronación mundial",
-            "Patrocinadores y logos oficiales"
-        ],
-        "inStock": true,
-        "limitedEdition": false,
-        "year": 2022,
-        "team": "Red Bull Racing",
-        "manufacturer": "Salvat",
-        "scale": "1:43",
-        "driver": "Max Verstappen"
-    },
-    {
-        "id": 25,
-        "name": "Alpine A522 Esteban Ocon",
-        "description": "Réplica oficial del Alpine A522 de Esteban Ocon de la temporada 2022. El regreso de Alpine a la competitividad en la Fórmula 1 con el piloto francés. Incluye revista coleccionable con información técnica y la historia de Alpine en F1.",
-        "categories": ["alpine", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
-        "imageFolder": "images/alpine_a522_ocon/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "350+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista con revista"
-        },
-        "features": [
-            "Detalles auténticos del monoplaza original",
-            "Incluye revista coleccionable",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Ocon (#31)",
-            "Patrocinadores y logos oficiales de Alpine",
-            "Livery característica francesa"
-        ],
-        "inStock": true,
-        "limitedEdition": false,
-        "year": 2022,
-        "team": "Alpine",
-        "manufacturer": "Salvat",
-        "scale": "1:43",
-        "driver": "Esteban Ocon"
-    },
-    {
-        "id": 26,
-        "name": "Mercedes W11 Lewis Hamilton",
-        "description": "El dominante Mercedes W11 con el que Lewis Hamilton conquistó su séptimo campeonato mundial en 2020, igualando el récord de Michael Schumacher. Uno de los monoplazas más exitosos de la historia. Incluye revista coleccionable con la historia del séptimo título de Hamilton.",
-        "categories": ["championship", "mercedes", "scale-1-43", "salvat-collection"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
-        "imageFolder": "images/mercedes_w11_hamilton/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "370+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista con revista"
-        },
-        "features": [
-            "Monoplaza más dominante de 2020",
-            "Detalles auténticos del W11 campeón",
-            "Incluye revista coleccionable",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Hamilton (#44)",
-            "Séptimo campeonato mundial",
-            "Patrocinadores y logos oficiales Mercedes"
-        ],
-        "inStock": true,
-        "limitedEdition": false,
-        "year": 2020,
-        "team": "Mercedes",
-        "manufacturer": "Salvat",
-        "scale": "1:43",
-        "driver": "Lewis Hamilton"
-    },
-    {
         "id": 27,
         "name": "Brabham BT45 Carlos Reutemann",
         "description": "El Brabham BT45 con el que Carlos Reutemann compitió en la temporada 1976. Un diseño innovador de Gordon Murray con el motor Alfa Romeo.",
-        "categories": ["brabham", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "brabham",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brabham_bt45_reutemann/",
         "specifications": {
             "engine": "Alfa Romeo Flat-12",
@@ -847,9 +1098,18 @@
         "id": 28,
         "name": "McLaren M23 James Hunt",
         "description": "El legendario McLaren M23 con el que James Hunt conquistó el dramático campeonato mundial de 1976 ante Niki Lauda. Un momento icónico de la historia de la F1.",
-        "categories": ["championship", "mclaren", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "mclaren",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/mclaren_m23_hunt/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -879,9 +1139,17 @@
         "id": 29,
         "name": "Vanwall VW57 Stirling Moss",
         "description": "El histórico Vanwall VW57 con el que Stirling Moss ayudó a Vanwall a ganar el primer campeonato de constructores en 1958. El primer equipo británico en conquistar un título mundial.",
-        "categories": ["vanwall", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "vanwall",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/vanwall_57_moss/",
         "specifications": {
             "engine": "Vanwall 4-cylinder",
@@ -911,9 +1179,18 @@
         "id": 30,
         "name": "Lotus 72D Emerson Fittipaldi",
         "description": "El icónico Lotus 72D con el que Emerson Fittipaldi conquistó su primer campeonato mundial en 1972, convirtiéndose en el campeón más joven de la historia en ese momento.",
-        "categories": ["championship", "lotus", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "lotus",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/lotus_72d_fittipaldi/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -943,9 +1220,17 @@
         "id": 31,
         "name": "Brabham BT44B Carlos Pace - Brazilian GP",
         "description": "El Brabham BT44B con el que Carlos Pace logró su única victoria en F1 en el Gran Premio de Brasil 1975, en su país natal. Un momento histórico para el automovilismo brasileño.",
-        "categories": ["brabham", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "brabham",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brabham_bt44b_pace/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -975,9 +1260,17 @@
         "id": 32,
         "name": "March 751 Vittorio Brambilla - Austrian GP",
         "description": "El March 751 con el que Vittorio Brambilla logró su única victoria en F1 en el caótico Gran Premio de Austria 1975. Una carrera memorable bajo la lluvia.",
-        "categories": ["march", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "march",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/march_751_brambilla/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -1007,9 +1300,17 @@
         "id": 33,
         "name": "McLaren M23 Gilles Villeneuve - British GP",
         "description": "El McLaren M23 con el que Gilles Villeneuve hizo su debut en Fórmula 1 en el Gran Premio de Gran Bretaña 1977. El inicio de la leyenda del piloto canadiense.",
-        "categories": ["mclaren", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "mclaren",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/mclaren_m23_villeneuve/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -1039,9 +1340,16 @@
         "id": 34,
         "name": "Ferrari 126 C3 René Arnoux",
         "description": "El Ferrari 126 C3 con el que René Arnoux compitió en la temporada 1983. Un monoplaza de la era turbo con el característico motor V6 turbo de Ferrari.",
-        "categories": ["ferrari", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "ferrari",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/ferrari_126c3_arnoux/",
         "specifications": {
             "engine": "Ferrari 021 V6 Turbo",
@@ -1071,9 +1379,17 @@
         "id": 35,
         "name": "Politoys FX3 Henri Pescarolo",
         "description": "El Politoys FX3 con el que Henri Pescarolo compitió en la temporada 1972. Un monoplaza del equipo privado británico-francés con diseño de Robin Herd.",
-        "categories": ["politoys", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "politoys",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/politoys_fx3_pescarolo/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -1103,9 +1419,17 @@
         "id": 36,
         "name": "Williams FW08 Keke Rosberg",
         "description": "El Williams FW08 con el que Keke Rosberg conquistó el campeonato mundial de 1982 en una de las temporadas más impredecibles de la historia.",
-        "categories": ["championship", "williams", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "championship",
+            "williams",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/williams_fw08_rosberg/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -1135,9 +1459,17 @@
         "id": 37,
         "name": "Brabham BT26A Jacky Ickx",
         "description": "El Brabham BT26A con el que Jacky Ickx compitió en la temporada 1969, logrando victorias memorables. Un monoplaza elegante de la era clásica.",
-        "categories": ["brabham", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "brabham",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brabham_bt26a_ickx/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
@@ -1167,9 +1499,18 @@
         "id": 38,
         "name": "Ferrari 312 T2 Gilles Villeneuve - Canadian GP",
         "description": "El Ferrari 312 T2 con el que Gilles Villeneuve logró su primera victoria en F1 en el Gran Premio de Canadá 1977, en su país natal. Un momento histórico para el automovilismo canadiense.",
-        "categories": ["ferrari", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg", "3.jpg"],
+        "categories": [
+            "ferrari",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
         "imageFolder": "images/ferrari_312t2_villeneuve/",
         "specifications": {
             "engine": "Ferrari 015 Flat-12",
@@ -1199,9 +1540,17 @@
         "id": 39,
         "name": "BRM P160B Jean-Pierre Beltoise - Monaco GP",
         "description": "El BRM P160B con el que Jean-Pierre Beltoise logró una victoria épica en el Gran Premio de Mónaco 1972 bajo lluvia torrencial. Una de las actuaciones más memorables en la historia de Mónaco.",
-        "categories": ["brm", "classic", "ixo", "scale-1-43"],
-        "price": 275.00,
-        "images": ["1.jpg", "2.jpg"],
+        "categories": [
+            "brm",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg"
+        ],
         "imageFolder": "images/brm_p160b_beltoise/",
         "specifications": {
             "engine": "BRM P160 V12",
