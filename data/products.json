@@ -37,88 +37,6 @@
         "driver": "Fernando Alonso"
     },
     {
-        "id": 4,
-        "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
-        "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
-        "categories": [
-            "mclaren",
-            "limited",
-            "scale-1-43",
-            "salvat-collection"
-        ],
-        "price": 275.0,
-        "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
-        ],
-        "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "topSpeed": "360+ km/h",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Mónaco con revista"
-        },
-        "features": [
-            "Configuración especial del GP de Mónaco",
-            "Detalles auténticos del monoplaza original",
-            "Incluye revista coleccionable edición Mónaco",
-            "Acabados en acrílico de alta calidad",
-            "Numeración oficial de Norris (#4)",
-            "Livery especial para Mónaco",
-            "Edición especial conmemorativa"
-        ],
-        "inStock": true,
-        "limitedEdition": true,
-        "year": 2021,
-        "team": "McLaren",
-        "manufacturer": "Salvat",
-        "scale": "1:43",
-        "driver": "Lando Norris"
-    },
-    {
-        "id": 5,
-        "name": "McLaren MP4/4 Ayrton Senna",
-        "description": "El mítico McLaren MP4/4 de 1988, uno de los monoplazas más dominantes de la historia de la Fórmula 1, con el que Ayrton Senna conquistó su primer título mundial.",
-        "categories": [
-            "championship",
-            "mclaren",
-            "senna",
-            "ixo",
-            "scale-1-43"
-        ],
-        "price": 475.0,
-        "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
-        ],
-        "imageFolder": "images/mp44_senna/",
-        "specifications": {
-            "engine": "Honda RA168E V6 Turbo",
-            "power": "650–700 HP",
-            "weight": "540 kg",
-            "topSpeed": "330 km/h",
-            "acceleration": "0-100 km/h en 2.6s",
-            "material": "Metal fundido a presión con detalles en plástico",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista IXO"
-        },
-        "features": [
-            "Diseño de baja resistencia aerodinámica",
-            "Motor turbo Honda RA168E",
-            "Chasis monocasco de fibra de carbono"
-        ],
-        "inStock": true,
-        "limitedEdition": true,
-        "year": 1988,
-        "team": "McLaren",
-        "manufacturer": "IXO",
-        "scale": "1:43",
-        "driver": "Ayrton Senna"
-    },
-    {
         "id": 8,
         "name": "Red Bull RB19 Max Verstappen - Las Vegas GP",
         "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Las Vegas 2023. El monoplaza campeón del mundo en la ciudad del entretenimiento. Modelo de alta calidad Bburago con detalles premium.",
@@ -197,7 +115,7 @@
         "inStock": true,
         "limitedEdition": false,
         "year": 2023,
-        "team": "Ferrari AF Corse",
+        "team": "Ferrari",
         "manufacturer": "Bburago",
         "scale": "1:43",
         "driver": "Alessandro Pier Guidi / James Calado / Antonio Giovinazzi"
@@ -367,6 +285,88 @@
         "driver": "Max Verstappen"
     },
     {
+        "id": 4,
+        "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
+        "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
+        "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Mónaco con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Mónaco",
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable edición Mónaco",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Norris (#4)",
+            "Livery especial para Mónaco",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "McLaren",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Lando Norris"
+    },
+    {
+        "id": 5,
+        "name": "McLaren MP4/4 Ayrton Senna",
+        "description": "El mítico McLaren MP4/4 de 1988, uno de los monoplazas más dominantes de la historia de la Fórmula 1, con el que Ayrton Senna conquistó su primer título mundial.",
+        "categories": [
+            "championship",
+            "mclaren",
+            "senna",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 475.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ],
+        "imageFolder": "images/mp44_senna/",
+        "specifications": {
+            "engine": "Honda RA168E V6 Turbo",
+            "power": "650–700 HP",
+            "weight": "540 kg",
+            "topSpeed": "330 km/h",
+            "acceleration": "0-100 km/h en 2.6s",
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño de baja resistencia aerodinámica",
+            "Motor turbo Honda RA168E",
+            "Chasis monocasco de fibra de carbono"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1988,
+        "team": "McLaren",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
         "id": 25,
         "name": "Alpine A522 Esteban Ocon",
         "description": "Réplica oficial del Alpine A522 de Esteban Ocon de la temporada 2022. El regreso de Alpine a la competitividad en la Fórmula 1 con el piloto francés. Incluye revista coleccionable con información técnica y la historia de Alpine en F1.",
@@ -395,7 +395,7 @@
             "Patrocinadores y logos oficiales de Alpine",
             "Livery característica francesa"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2022,
         "team": "Alpine",
@@ -434,7 +434,7 @@
             "Séptimo campeonato mundial",
             "Patrocinadores y logos oficiales Mercedes"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2020,
         "team": "Mercedes",
