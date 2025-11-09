@@ -285,6 +285,129 @@
         "driver": "Max Verstappen"
     },
     {
+        "id": 40,
+        "name": "Lotus 99T Ayrton Senna",
+        "description": "Réplica oficial del legendario Lotus 99T con el que Ayrton Senna logró dos victorias memorables en la temporada 1987, incluyendo su triunfo bajo la lluvia en Mónaco. El icónico monoplaza amarillo y azul de uno de los mejores pilotos de la historia. Incluye revista coleccionable con información técnica y la historia de Senna en Lotus.",
+        "categories": [
+            "lotus",
+            "classic",
+            "scale-1-43",
+            "salvat-collection",
+            "championship"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.png"
+        ],
+        "imageFolder": "images/lotus_99t_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "320+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza histórico",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Senna (#12)",
+            "Livery clásica amarilla de Lotus",
+            "Patrocinadores y logos oficiales de la época",
+            "Motor Honda turbo de 1987"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1987,
+        "team": "Lotus",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 41,
+        "name": "Renault R24 Fernando Alonso",
+        "description": "Réplica oficial del Renault R24 con el que Fernando Alonso compitió en la temporada 2004, año previo a su primer campeonato mundial. El monoplaza que marcó el inicio de la era dorada del piloto asturiano con Renault. Incluye revista coleccionable con información técnica y la historia de Alonso en Renault.",
+        "categories": [
+            "renault",
+            "classic",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.png"
+        ],
+        "imageFolder": "images/renault_r24_alonso/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Alonso (#8)",
+            "Livery clásica azul y amarilla de Mild Seven Renault",
+            "Patrocinadores y logos oficiales de 2004",
+            "Temporada previa al primer campeonato"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2004,
+        "team": "Renault",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 42,
+        "name": "Red Bull RB19 Sergio Pérez - Canadian GP",
+        "description": "Réplica oficial del Red Bull RB19 de Sergio Pérez en su configuración especial para el Gran Premio de Canadá 2023. El monoplaza del piloto mexicano en una temporada dominante de Red Bull Racing. Incluye revista coleccionable con información técnica y detalles de la carrera en Montreal.",
+        "categories": [
+            "red-bull",
+            "scale-1-43",
+            "salvat-collection",
+            "championship"
+        ],
+        "price": 275.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ],
+        "imageFolder": "images/rb19_perez_canada/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Canadá",
+            "Detalles auténticos del monoplaza campeón",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Pérez (#11)",
+            "Patrocinadores y logos oficiales",
+            "Temporada récord de Red Bull Racing"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2023,
+        "team": "Red Bull Racing",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Sergio Pérez"
+    },
+    {
         "id": 4,
         "name": "McLaren MCL35M Lando Norris - Edición Especial Mónaco",
         "description": "Réplica oficial del McLaren MCL35M de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2021. Una pieza única que conmemora una de las carreras más prestigiosas del calendario de F1. Incluye revista coleccionable con detalles exclusivos del GP de Mónaco.",
