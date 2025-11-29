@@ -237,7 +237,7 @@
             "Modelo de campeonato histórico",
             "Motor Repco australiano único"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1967,
         "team": "Brabham",
@@ -359,7 +359,7 @@
             "Patrocinadores y logos oficiales de 2004",
             "Temporada previa al primer campeonato"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2004,
         "team": "Renault",
@@ -406,6 +406,87 @@
         "manufacturer": "Salvat",
         "scale": "1:43",
         "driver": "Sergio Pérez"
+    },
+    {
+        "id": 43,
+        "name": "Red Bull RB9 Sebastian Vettel",
+        "description": "Réplica oficial del Red Bull RB9 con el que Sebastian Vettel conquistó su cuarto campeonato mundial consecutivo en la temporada 2013. El monoplaza dominador que estableció récords con 13 victorias en una temporada. Incluye revista coleccionable con información técnica y la historia de la temporada récord de Vettel.",
+        "categories": [
+            "red-bull",
+            "championship",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "imageFolder": "images/rb9_vettel/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza tetracampeón",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Vettel (#1)",
+            "Livery del cuarto campeonato consecutivo",
+            "Patrocinadores y logos oficiales",
+            "Temporada récord con 13 victorias"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2013,
+        "team": "Red Bull",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sebastian Vettel"
+    },
+    {
+        "id": 44,
+        "name": "Benetton B194 Michael Schumacher",
+        "description": "Réplica oficial del legendario Benetton B194 con el que Michael Schumacher conquistó su primer campeonato mundial en la controvertida temporada de 1994. El icónico monoplaza verde y azul que marcó el inicio de la era Schumacher en la Fórmula 1. Incluye revista coleccionable con información técnica y la historia del primer título del Kaiser.",
+        "categories": [
+            "benetton",
+            "championship",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png"
+        ],
+        "imageFolder": "images/benetton_b194_schumacher/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "340+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO con revista"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza histórico",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Schumacher (#5)",
+            "Livery clásica Mild Seven Benetton",
+            "Patrocinadores y logos oficiales de 1994",
+            "Primer campeonato mundial de Schumacher"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1994,
+        "team": "Benetton",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
     },
     {
         "id": 4,

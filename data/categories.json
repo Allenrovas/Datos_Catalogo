@@ -230,5 +230,13 @@
     "variant": "variant-filled-primary",
     "icon": "lucide:trophy",
     "type": "team"
+  },
+  {
+    "id": "benetton",
+    "name": "Benetton F1",
+    "description": "El equipo que reveló a Schumacher",
+    "variant": "variant-filled-success",
+    "icon": "lucide:sparkles",
+    "type": "team"
   }
 ]
