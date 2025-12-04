@@ -276,7 +276,7 @@
             "Celebración de la coronación mundial",
             "Patrocinadores y logos oficiales"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2022,
         "team": "Red Bull",
@@ -398,7 +398,7 @@
             "Patrocinadores y logos oficiales",
             "Temporada récord de Red Bull Racing"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2023,
         "team": "Red Bull",
