@@ -1978,6 +1978,7 @@
         "description": "Réplica oficial del McLaren MCL39 de Lando Norris para la temporada 2025. Modelo de alta calidad Bburago con acabados premium y detalles auténticos del monoplaza del equipo McLaren.",
         "categories": [
             "mclaren",
+            "championship",
             "scale-1-43",
             "bburago"
         ],
@@ -2235,7 +2236,6 @@
         "description": "Réplica oficial del legendario Williams FW07B de Carlos Reutemann de la temporada 1980. Monoplaza con el que el piloto argentino peleó por el campeonato mundial. Modelo de la colección Salvat con revista coleccionable y acabados premium.",
         "categories": [
             "williams",
-            "championship",
             "scale-1-43",
             "salvat-collection"
         ],
