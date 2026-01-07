@@ -1587,7 +1587,7 @@
             "salvat-collection",
             "championship"
         ],
-        "price": 275.0,
+        "price": 285.0,
         "images": [
             "1.jpg",
             "2.jpg",
@@ -1610,7 +1610,7 @@
             "Patrocinadores y logos oficiales de la época",
             "Motor Honda turbo de 1987"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1987,
         "team": "Lotus",
@@ -1885,7 +1885,7 @@
             "Patrocinadores y logos oficiales",
             "Edición especial conmemorativa"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2023,
         "team": "Ferrari",
