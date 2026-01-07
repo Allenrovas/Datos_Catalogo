@@ -7,21 +7,21 @@ def create_image_folders():
     """ 
      
     # Lista de carpetas a crear (solo nombres de carpetas) 
-    folders = [ 
-        "brabham_bt45_reutemann",
-        "mclaren_m23_hunt",
-        "vanwall_57_moss",
-        "lotus_72d_fittipaldi",
-        "brabham_bt44b_pace",
-        "march_751_brambilla",
-        "mclaren_m23_villeneuve",
-        "ferrari_126c3_arnoux",
-        "politoys_fx3_pescarolo",
-        "williams_fw08_rosberg",
-        "brabham_bt26a_ickx",
-        "ferrari_312t2_villeneuve",
-        "brm_p160b_beltoise"
-    ] 
+    folders = [
+        "ferrari_sf25_leclerc",
+        "ferrari_sf25_hamilton",
+        "ferrari_sf23_sainz_lasvegas",
+        "redbull_rb21_verstappen_japan",
+        "redbull_rb21_tsunoda_japan",
+        "mclaren_mcl39_norris",
+        "mclaren_mcl39_piastri",
+        "mercedes_w16_antonelli",
+        "mercedes_w16_russell",
+        "alpine_a525_colapinto",
+        "alpine_a525_gasly",
+        "astonmartin_amr21_vettel",
+        "williams_fw07b_reutemann"
+    ]
      
     print("Creando carpetas de imágenes...") 
     print("-" * 50) 
