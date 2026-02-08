@@ -45,29 +45,9 @@ def create_image_folders_and_rename():
     """
 
     folders = [
-        "bar_002_villeneuve",
-        "lotus_72e_peterson",
-        "mercedes_w07_rosberg",
-        "ferrari_f2001_schumacher_italiangp",
-        "ligier_js11_laffite",
-        "march_judd_881_capelli",
-        "minardi_m191_martini",
-        "mercedes_w05_hamilton",
-        "benetton_b186_berger",
-        "williams_fw23_ralf_schumacher",
-        "eifelland_e21_stommelen",
-        "renault_rs10_jabouille",
-        "lotus_72d_fittipaldi",
-        "surtees_ts98_de_adamich",
-        "williams_fw15c_prost",
-        "mclaren_mp4_23_hamilton",
-        "brabham_bt49_piquet",
-        "lotus_79_andretti",
-        "benetton_b194_schumacher_panini",
-        "ferrari_312t2_lauda_braziliangp",
-        "bmw_sauber_f1_08_kubica",
-        "williams_fw45_albon_singaporegp",
-        "ferrari_sf1000_leclerc_tuscangp"
+        "ferrari_sf25_leclerc_miami",
+        "ferrari_sf24_leclerc_monaco",
+        "ferrari_sf24_leclerc_italy"
     ]
 
     print("Procesando carpetas de imágenes...")
