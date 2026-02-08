@@ -1933,7 +1933,7 @@
             "Patrocinadores y logos oficiales",
             "Edición especial conmemorativa"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2025,
         "team": "Red Bull Racing",
