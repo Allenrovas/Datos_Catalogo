@@ -2838,564 +2838,127 @@
     "scale": "1:43",
     "driver": "Charles Leclerc"
   },
-  {
-    "id": 58,
-    "name": "BAR 002 Jacques Villeneuve",
-    "description": "Réplica a escala 1:43 del BAR 002 pilotado por Jacques Villeneuve durante la temporada 2000 de Fórmula 1. Este modelo representa una etapa de transición del equipo BAR, combinando innovación técnica con la experiencia de un campeón mundial.",
-    "categories": ["bar", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/bar_002_villeneuve/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 79,
+        "name": "Ferrari SF-25 Charles Leclerc - Miami GP",
+        "description": "Réplica oficial del Ferrari SF-25 pilotado por Charles Leclerc en su configuración especial para el Gran Premio de Miami. Este modelo representa la estética moderna y vibrante del evento más glamoroso del calendario de Fórmula 1, combinando innovación técnica con un livery exclusivo. Una pieza imprescindible para coleccionistas de Ferrari y seguidores de Leclerc.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf25_leclerc_miami/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "340+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Miami"
+        },
+        "features": [
+            "Configuración especial del GP de Miami",
+            "Livery exclusivo del evento",
+            "Detalles fieles al monoplaza real",
+            "Acabados de alta calidad Bburago",
+            "Numeración oficial de Leclerc (#16)",
+            "Edición especial para coleccionistas"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
     },
-    "features": [
-      "Detalles fieles al monoplaza original",
-      "Acabados de alta calidad",
-      "Numeración oficial de Villeneuve"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2000,
-    "team": "BAR",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jacques Villeneuve"
-  },
-  {
-    "id": 59,
-    "name": "Lotus 72E Ronnie Peterson",
-    "description": "El icónico Lotus 72E pilotado por Ronnie Peterson, uno de los monoplazas más influyentes en la historia de la Fórmula 1. Su diseño revolucionario marcó un antes y un después en aerodinámica y concepto técnico.",
-    "categories": ["lotus", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/lotus_72e_peterson/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 80,
+        "name": "Ferrari SF-24 Charles Leclerc - Monaco GP",
+        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Mónaco. Un modelo que rinde homenaje al circuito urbano más icónico de la Fórmula 1 y a la conexión única entre Leclerc y su carrera de casa. Ideal para cualquier colección dedicada a Ferrari o a las ediciones especiales de F1.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf24_leclerc_monaco/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "335+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Monaco"
+        },
+        "features": [
+            "Configuración especial del GP de Mónaco",
+            "Livery conmemorativo del circuito urbano",
+            "Detalles auténticos del Ferrari SF-24",
+            "Acabados premium Bburago",
+            "Numeración oficial de Leclerc (#16)",
+            "Modelo de edición especial"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
     },
-    "features": [
-      "Diseño histórico de Lotus",
-      "Era clásica de la F1",
-      "Piloto legendario"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1973,
-    "team": "Lotus",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ronnie Peterson"
-  },
-  {
-    "id": 60,
-    "name": "Mercedes W07 Nico Rosberg",
-    "description": "Réplica del Mercedes W07, considerado uno de los monoplazas más dominantes de la era híbrida. Con este coche, Nico Rosberg logró el campeonato mundial de 2016 tras una histórica rivalidad interna.",
-    "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/mercedes_w07_rosberg/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Era híbrida dominante",
-      "Campeón mundial 2016",
-      "Detalles aerodinámicos precisos"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2016,
-    "team": "Mercedes",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Nico Rosberg"
-  },
-  {
-    "id": 61,
-    "name": "Ferrari F2001 Michael Schumacher - Italian GP",
-    "description": "Ferrari F2001 de Michael Schumacher en configuración del Gran Premio de Italia 2001. Uno de los Ferrari más exitosos de la historia, símbolo absoluto de la era dorada de Schumacher en Maranello.",
-    "categories": ["ferrari", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/ferrari_f2001_schumacher_italiangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Configuración específica GP",
-      "Ferrari campeón",
-      "Piloto legendario"
-    ],
-    "inStock": true,
-    "limitedEdition": true,
-    "year": 2001,
-    "team": "Ferrari",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Michael Schumacher"
-  },
-  {
-    "id": 62,
-    "name": "Ligier JS11 Jacques Laffite",
-    "description": "El Ligier JS11 pilotado por Jacques Laffite representa uno de los mejores momentos del equipo francés en la Fórmula 1, siendo protagonista en varias carreras a finales de los años 70.",
-    "categories": ["ligier", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/ligier_js11_laffite/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Diseño francés icónico",
-      "Era ground effect",
-      "Modelo histórico"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1979,
-    "team": "Ligier",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jacques Laffite"
-  },
-  {
-    "id": 63,
-    "name": "March Judd 881 Ivan Capelli",
-    "description": "El March 881 de Ivan Capelli es recordado por su innovador diseño aerodinámico de 1988, siendo uno de los monoplazas más estilizados de su época.",
-    "categories": ["march", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/march_judd_881_capelli/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Diseño aerodinámico innovador",
-      "Era atmosférica",
-      "Modelo muy valorado"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1988,
-    "team": "March",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ivan Capelli"
-  },
-  {
-    "id": 64,
-    "name": "Minardi M191 Pierluigi Martini",
-    "description": "El Minardi M191 pilotado por Pierluigi Martini simboliza el espíritu de los equipos pequeños de Fórmula 1, luchadores y muy queridos por los aficionados.",
-    "categories": ["minardi", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/minardi_m191_martini/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Equipo histórico independiente",
-      "Livery clásica Minardi",
-      "Gran nivel de detalle"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1991,
-    "team": "Minardi",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Pierluigi Martini"
-  },
-
-  {
-    "id": 65,
-    "name": "Mercedes W05 Lewis Hamilton",
-    "description": "Mercedes W05 de Lewis Hamilton, el monoplaza que marcó el inicio de la era dominante de Mercedes en la Fórmula 1 híbrida y devolvió a Hamilton al campeonato mundial.",
-    "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/mercedes_w05_hamilton/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Inicio de la era híbrida",
-      "Campeón mundial",
-      "Modelo histórico"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2014,
-    "team": "Mercedes",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Lewis Hamilton"
-  },
-
-  {
-    "id": 66,
-    "name": "Williams FW23 Ralf Schumacher",
-    "description": "Williams FW23 pilotado por Ralf Schumacher durante la temporada 2001, una etapa sólida del equipo Williams con motor BMW.",
-    "categories": ["williams", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/williams_fw23_ralf_schumacher/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Era BMW-Williams",
-      "Diseño aerodinámico",
-      "Piloto ganador de GPs"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2001,
-    "team": "Williams",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ralf Schumacher"
-  },
-
-  {
-    "id": 67,
-    "name": "Eifelland E21 Rolf Stommelen",
-    "description": "El Eifelland E21 pilotado por Rolf Stommelen es uno de los monoplazas más curiosos y raros de la historia de la Fórmula 1.",
-    "categories": ["eifelland", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/eifelland_e21_stommelen/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Diseño único",
-      "Modelo poco común",
-      "Alto valor histórico"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1972,
-    "team": "Eifelland",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Rolf Stommelen"
-  },
-
-  {
-    "id": 68,
-    "name": "Renault RS10 Jean-Pierre Jabouille",
-    "description": "Renault RS10 de Jean-Pierre Jabouille, el primer monoplaza turbo en ganar una carrera de Fórmula 1, marcando el inicio de una nueva era tecnológica.",
-    "categories": ["renault", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/renault_rs10_jabouille/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Primer ganador turbo",
-      "Hito histórico",
-      "Modelo imprescindible"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1979,
-    "team": "Renault",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jean-Pierre Jabouille"
-  },
-
-  {
-    "id": 69,
-    "name": "Surtees TS9B Andrea de Adamich",
-    "description": "Surtees TS9B pilotado por Andrea de Adamich, reflejo del legado de John Surtees como constructor y campeón del mundo.",
-    "categories": ["surtees", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/surtees_ts98_de_adamich/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Equipo histórico",
-      "Modelo poco común",
-      "Diseño clásico"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1971,
-    "team": "Surtees",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Andrea de Adamich"
-  },
-
-  {
-    "id": 70,
-    "name": "Williams FW15C Alain Prost",
-    "description": "Williams FW15C con el que Alain Prost logró su cuarto campeonato mundial en 1993, considerado uno de los monoplazas más avanzados técnicamente de la historia.",
-    "categories": ["williams", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/williams_fw15c_prost/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Campeón mundial",
-      "Tecnología activa",
-      "Modelo legendario"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1993,
-    "team": "Williams",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Alain Prost"
-  },
-
-  {
-    "id": 71,
-    "name": "McLaren MP4-23 Lewis Hamilton",
-    "description": "McLaren MP4-23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
-    "categories": ["mclaren", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/mclaren_mp4_23_hamilton/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Primer título de Hamilton",
-      "Final histórico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2008,
-    "team": "McLaren",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Lewis Hamilton"
-  },
-
-  {
-    "id": 72,
-    "name": "Brabham BT49 Nelson Piquet",
-    "description": "Brabham BT49 con el que Nelson Piquet consiguió el campeonato mundial de 1981, destacando por su fiabilidad y eficiencia.",
-    "categories": ["brabham", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/brabham_bt49_piquet/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Campeón mundial",
-      "Era Cosworth",
-      "Diseño clásico"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1981,
-    "team": "Brabham",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Nelson Piquet"
-  },
-
-  {
-    "id": 73,
-    "name": "Lotus 79 Mario Andretti",
-    "description": "Lotus 79 con el que Mario Andretti dominó la temporada 1978, considerado el máximo exponente del efecto suelo.",
-    "categories": ["lotus", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/lotus_79_andretti/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Ground effect dominante",
-      "Campeón mundial",
-      "Icono de la F1"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1978,
-    "team": "Lotus",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Mario Andretti"
-  },
-
-  {
-    "id": 74,
-    "name": "Benetton B194 Michael Schumacher",
-    "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
-    "categories": ["benetton", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/benetton_b194_schumacher_panini/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Primer título de Schumacher",
-      "Modelo histórico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1994,
-    "team": "Benetton",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Michael Schumacher"
-  },
-
-  {
-    "id": 75,
-    "name": "Ferrari 312 T2 Niki Lauda - Brazilian GP",
-    "description": "Ferrari 312 T2 de Niki Lauda en configuración del Gran Premio de Brasil, representando la era clásica de Ferrari y uno de sus pilotos más emblemáticos.",
-    "categories": ["ferrari", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/ferrari_312t2_lauda_braziliangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Configuración GP",
-      "Piloto legendario",
-      "Modelo clásico Ferrari"
-    ],
-    "inStock": true,
-    "limitedEdition": true,
-    "year": 1977,
-    "team": "Ferrari",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Niki Lauda"
-  },
-
-  {
-    "id": 76,
-    "name": "BMW Sauber F1.08 Robert Kubica",
-    "description": "BMW Sauber F1.08 pilotado por Robert Kubica, recordado por lograr la única victoria del equipo en Fórmula 1.",
-    "categories": ["bmw-sauber", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/bmw_sauber_f1_08_kubica/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
-    },
-    "features": [
-      "Única victoria del equipo",
-      "Modelo moderno clásico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 2008,
-    "team": "BMW Sauber",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Robert Kubica"
-  },
-
-  {
-    "id": 77,
-    "name": "Williams FW45 Alex Albon - Singapore GP",
-    "description": "Williams FW45 pilotado por Alex Albon en el Gran Premio de Singapur. Esta edición especial reproduce una destacada actuación en un exigente circuito urbano. Incluye revista coleccionable oficial.",
-    "categories": ["williams", "scale-1-43", "salvat-collection"],
-    "price": 285.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/williams_fw45_albon_singaporegp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista Salvat con revista"
-    },
-    "features": [
-      "Configuración específica GP",
-      "Incluye revista coleccionable",
-      "Detalles actuales"
-    ],
-    "inStock": true,
-    "limitedEdition": true,
-    "year": 2023,
-    "team": "Williams",
-    "manufacturer": "Salvat",
-    "scale": "1:43",
-    "driver": "Alex Albon"
-  },
-
-  {
-    "id": 78,
-    "name": "Ferrari SF1000 Charles Leclerc - Tuscan GP",
-    "description": "Ferrari SF1000 de Charles Leclerc en el Gran Premio de Toscana 2020, celebrado como el GP número 1000 de Ferrari en Fórmula 1. Edición especial que incluye revista coleccionable oficial.",
-    "categories": ["ferrari", "scale-1-43", "salvat-collection"],
-    "price": 285.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
-    "imageFolder": "images/ferrari_sf1000_leclerc_tuscangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista Salvat con revista"
-    },
-    "features": [
-      "Edición conmemorativa",
-      "Incluye revista coleccionable",
-      "Livery histórico"
-    ],
-    "inStock": true,
-    "limitedEdition": true,
-    "year": 2020,
-    "team": "Ferrari",
-    "manufacturer": "Salvat",
-    "scale": "1:43",
-    "driver": "Charles Leclerc"
-  } 
+    {
+        "id": 81,
+        "name": "Ferrari SF-24 Charles Leclerc - Italian GP",
+        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Italia en Monza. Un modelo cargado de historia y emoción, representando a Ferrari en su casa y frente a los tifosi. Esta edición especial destaca por su significado simbólico y su cuidada ejecución.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+        ],
+        "imageFolder": "images/ferrari_sf24_leclerc_italy/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Italian GP"
+        },
+        "features": [
+            "Configuración especial del GP de Italia",
+            "Representación del Ferrari en Monza",
+            "Detalles fieles al monoplaza original",
+            "Acabados de alta calidad Bburago",
+            "Numeración oficial de Leclerc (#16)",
+            "Edición especial para tifosi y coleccionistas"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
+    }
 ]
