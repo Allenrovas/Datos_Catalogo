@@ -2614,7 +2614,7 @@
       "Tecnología activa",
       "Modelo legendario"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1993,
     "team": "Williams",
@@ -2641,7 +2641,7 @@
       "Final histórico",
       "Gran nivel de detalle"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2008,
     "team": "McLaren",
@@ -2749,7 +2749,7 @@
       "Piloto legendario",
       "Modelo clásico Ferrari"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": true,
     "year": 1977,
     "team": "Ferrari",
@@ -2871,7 +2871,7 @@
             "Numeración oficial de Leclerc (#16)",
             "Edición especial para coleccionistas"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2025,
         "team": "Ferrari",
