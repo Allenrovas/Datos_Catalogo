@@ -2625,8 +2625,8 @@
 
   {
     "id": 71,
-    "name": "McLaren MP4-23 Lewis Hamilton",
-    "description": "McLaren MP4-23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
+    "name": "McLaren MP4/23 Lewis Hamilton",
+    "description": "McLaren MP4/23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
     "categories": ["mclaren", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
     "images": ["1.jpg", "2.jpg", "3.jpg"],
