@@ -2960,5 +2960,31 @@
         "manufacturer": "Bburago",
         "scale": "1:43",
         "driver": "Charles Leclerc"
-    }
+    },
+    {
+  "id": 82,
+  "name": "Benetton B186 Gerhard Berger",
+  "description": "Réplica del Benetton B186, el monoplaza con el que Gerhard Berger logró su primera victoria en Fórmula 1 durante el Gran Premio de México de 1986. Este coche marcó una etapa clave para Benetton y el inicio del ascenso de Berger en la categoría reina.",
+  "categories": ["benetton", "turbo-era", "ixo", "scale-1-43"],
+  "price": 250.0,
+  "images": ["1.jpg", "2.jpg", "3.jpg"],
+  "imageFolder": "images/benetton_b186_berger/",
+  "specifications": {
+    "material": "Metal fundido a presión con detalles en plástico",
+    "scale": "1:43",
+    "packaging": "Caja coleccionista IXO"
+  },
+  "features": [
+    "Primera victoria de Gerhard Berger en F1",
+    "Era turbo de los años 80",
+    "Decoración clásica de Benetton"
+  ],
+  "inStock": false,
+  "limitedEdition": false,
+  "year": 1986,
+  "team": "Benetton",
+  "manufacturer": "IXO",
+  "scale": "1:43",
+  "driver": "Gerhard Berger"
+}
 ]
