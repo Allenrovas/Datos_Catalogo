@@ -820,7 +820,7 @@
     {
         "id": 21,
         "name": "Ferrari 312 T3 Jody Scheckter",
-        "description": "El Ferrari 312 T3 con el que Jody Scheckter conquistó el campeonato mundial de 1979, siendo el último título de Ferrari hasta 2000. Incluye revista coleccionable con la historia del sudafricano y Ferrari en los 70.",
+        "description": "El Ferrari 312 T3 con el que Jody Scheckter conquistó el campeonato mundial de 1979, siendo el último título de Ferrari hasta 2000.",
         "categories": [
             "championship",
             "ferrari",
@@ -828,7 +828,7 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 295.0,
+        "price": 250.0,
         "images": [
             "1.jpg",
             "2.jpg",
@@ -854,7 +854,7 @@
             "Modelo histórico de Ferrari",
             "Último título Ferrari de los 70"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1979,
         "team": "Ferrari",
@@ -1192,7 +1192,7 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 275.0,
+        "price": 250.0,
         "images": [
             "1.jpg",
             "2.jpg",
@@ -1215,7 +1215,7 @@
             "Livery John Player Special clásica",
             "Primer título brasileño en F1"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1972,
         "team": "Lotus",
@@ -2296,7 +2296,7 @@
       "Acabados de alta calidad",
       "Numeración oficial de Villeneuve"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2000,
     "team": "BAR",
@@ -2322,7 +2322,7 @@
       "Era clásica de la F1",
       "Piloto legendario"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1973,
     "team": "Lotus",
@@ -2348,7 +2348,7 @@
       "Campeón mundial 2016",
       "Detalles aerodinámicos precisos"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2016,
     "team": "Mercedes",
@@ -2400,7 +2400,7 @@
       "Era ground effect",
       "Modelo histórico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1979,
     "team": "Ligier",
@@ -2426,7 +2426,7 @@
       "Era atmosférica",
       "Modelo muy valorado"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1988,
     "team": "March",
@@ -2452,7 +2452,7 @@
       "Livery clásica Minardi",
       "Gran nivel de detalle"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1991,
     "team": "Minardi",
@@ -2506,7 +2506,7 @@
       "Diseño aerodinámico",
       "Piloto ganador de GPs"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2001,
     "team": "Williams",
@@ -2533,7 +2533,7 @@
       "Modelo poco común",
       "Alto valor histórico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1972,
     "team": "Eifelland",
@@ -2560,7 +2560,7 @@
       "Hito histórico",
       "Modelo imprescindible"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1979,
     "team": "Renault",
@@ -2587,7 +2587,7 @@
       "Modelo poco común",
       "Diseño clásico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1971,
     "team": "Surtees",
@@ -2668,7 +2668,7 @@
       "Era Cosworth",
       "Diseño clásico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1981,
     "team": "Brabham",
@@ -2776,7 +2776,7 @@
       "Modelo moderno clásico",
       "Gran nivel de detalle"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2008,
     "team": "BMW Sauber",
