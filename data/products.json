@@ -854,7 +854,7 @@
             "Modelo histórico de Ferrari",
             "Último título Ferrari de los 70"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1979,
         "team": "Ferrari",
@@ -2479,7 +2479,7 @@
       "Campeón mundial",
       "Modelo histórico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 2014,
     "team": "Mercedes",
@@ -2695,7 +2695,7 @@
       "Campeón mundial",
       "Icono de la F1"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1978,
     "team": "Lotus",
