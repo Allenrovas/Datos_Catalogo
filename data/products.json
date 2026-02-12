@@ -1215,7 +1215,7 @@
             "Livery John Player Special clásica",
             "Primer título brasileño en F1"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1972,
         "team": "Lotus",
@@ -2803,7 +2803,7 @@
       "Incluye revista coleccionable",
       "Detalles actuales"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": true,
     "year": 2023,
     "team": "Williams",
