@@ -389,7 +389,7 @@
             "Patrocinadores y logos de competición",
             "Modelo de resistencia premium"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2023,
         "team": "Ferrari",

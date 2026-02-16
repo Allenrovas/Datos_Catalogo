@@ -1,12 +1,19 @@
 [
   {
+    "id": "alonso",
+    "name": "Fernando Alonso",
+    "description": "El bicampeón español, leyenda de la F1",
+    "variant": "variant-soft-success",
+    "icon": "lucide:medal",
+    "type": "driver"
+  },
+  {
     "id": "alpine",
     "name": "BWT Alpine F1 Team",
     "description": "El azul francés de Enstone",
     "variant": "variant-filled-secondary",
     "icon": "lucide:mountain",
-    "type": "team",
-    "imagePath": "images/teams/alpine.svg"
+    "type": "team"
   },
   {
     "id": "aston-martin",
@@ -14,62 +21,7 @@
     "description": "El verde británico de Silverstone",
     "variant": "variant-filled-success",
     "icon": "lucide:shield",
-    "type": "team",
-    "imagePath": "images/teams/aston-martin.svg"
-  },
-  {
-    "id": "mercedes",
-    "name": "Mercedes-AMG Petronas",
-    "description": "Las flechas plateadas de Brackley",
-    "variant": "variant-filled-surface",
-    "icon": "lucide:star",
-    "type": "team",
-    "imagePath": "images/teams/mercedes.svg"
-  },
-  {
-    "id": "williams",
-    "name": "Williams Racing",
-    "description": "La leyenda británica de Grove",
-    "variant": "variant-filled-primary",
-    "icon": "lucide:trophy",
-    "type": "team",
-    "imagePath": "images/teams/williams.svg"
-  },
-  {
-    "id": "ferrari",
-    "name": "Scuderia Ferrari",
-    "description": "El cavallino rampante de Maranello",
-    "variant": "variant-filled-error",
-    "icon": "lucide:heart",
-    "type": "team",
-    "imagePath": "images/teams/ferrari.svg"
-  },
-  {
-    "id": "mclaren",
-    "name": "McLaren F1 Team",
-    "description": "El naranja papaya de Woking",
-    "variant": "variant-filled-warning",
-    "icon": "lucide:rocket",
-    "type": "team",
-    "imagePath": "images/teams/mclaren.svg"
-  },
-  {
-    "id": "red-bull",
-    "name": "Red Bull Racing",
-    "description": "Los toros voladores de Milton Keynes",
-    "variant": "variant-filled-primary",
-    "icon": "lucide:zap",
-    "type": "team",
-    "imagePath": "images/teams/red-bull.svg"
-  },
-  {
-    "id": "benetton",
-    "name": "Benetton F1",
-    "description": "El equipo que reveló a Schumacher",
-    "variant": "variant-filled-success",
-    "icon": "lucide:sparkles",
-    "type": "team",
-    "imagePath": "images/teams/benetton.svg"
+    "type": "team"
   },
   {
     "id": "bburago",
@@ -128,6 +80,14 @@
     "type": "general"
   },
   {
+    "id": "ferrari",
+    "name": "Scuderia Ferrari",
+    "description": "El cavallino rampante de Maranello",
+    "variant": "variant-filled-error",
+    "icon": "lucide:heart",
+    "type": "team"
+  },
+  {
     "id": "ixo",
     "name": "IXO Models",
     "description": "Calidad portuguesa en miniatura",
@@ -184,11 +144,35 @@
     "type": "general"
   },
   {
+    "id": "mclaren",
+    "name": "McLaren F1 Team",
+    "description": "El naranja papaya de Woking",
+    "variant": "variant-filled-warning",
+    "icon": "lucide:rocket",
+    "type": "team"
+  },
+  {
+    "id": "mercedes",
+    "name": "Mercedes-AMG Petronas",
+    "description": "Las flechas plateadas de Brackley",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:star",
+    "type": "team"
+  },
+  {
     "id": "politoys",
     "name": "Politoys",
     "description": "Clásicos italianos de los años 60-70",
     "variant": "variant-filled-error",
     "icon": "lucide:package",
+    "type": "manufacturer"
+  },
+  {
+    "id": "red-bull",
+    "name": "Red Bull Racing",
+    "description": "Los toros voladores de Milton Keynes",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:zap",
     "type": "team"
   },
   {
@@ -237,6 +221,22 @@
     "description": "Los pioneros británicos de los años 50",
     "variant": "variant-filled-success",
     "icon": "lucide:flag-triangle-right",
+    "type": "team"
+  },
+  {
+    "id": "williams",
+    "name": "Williams Racing",
+    "description": "La leyenda británica de Grove",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:trophy",
+    "type": "team"
+  },
+  {
+    "id": "benetton",
+    "name": "Benetton F1",
+    "description": "El equipo que reveló a Schumacher",
+    "variant": "variant-filled-success",
+    "icon": "lucide:sparkles",
     "type": "team"
   }
 ]
