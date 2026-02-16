@@ -1,41 +1,5 @@
 [
   {
-    "id": "alpine",
-    "name": "BWT Alpine F1 Team",
-    "description": "El azul francés de Enstone",
-    "variant": "variant-filled-secondary",
-    "icon": "lucide:mountain",
-    "type": "team",
-    "imagePath": "images/teams/alpine.svg"
-  },
-  {
-    "id": "aston-martin",
-    "name": "Aston Martin Aramco",
-    "description": "El verde británico de Silverstone",
-    "variant": "variant-filled-success",
-    "icon": "lucide:shield",
-    "type": "team",
-    "imagePath": "images/teams/aston-martin.svg"
-  },
-  {
-    "id": "mercedes",
-    "name": "Mercedes-AMG Petronas",
-    "description": "Las flechas plateadas de Brackley",
-    "variant": "variant-filled-surface",
-    "icon": "lucide:star",
-    "type": "team",
-    "imagePath": "images/teams/mercedes.svg"
-  },
-  {
-    "id": "williams",
-    "name": "Williams Racing",
-    "description": "La leyenda británica de Grove",
-    "variant": "variant-filled-primary",
-    "icon": "lucide:trophy",
-    "type": "team",
-    "imagePath": "images/teams/williams.svg"
-  },
-  {
     "id": "ferrari",
     "name": "Scuderia Ferrari",
     "description": "El cavallino rampante de Maranello",
@@ -61,6 +25,42 @@
     "icon": "lucide:zap",
     "type": "team",
     "imagePath": "images/teams/red-bull.svg"
+  },
+  {
+    "id": "williams",
+    "name": "Williams Racing",
+    "description": "La leyenda británica de Grove",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:trophy",
+    "type": "team",
+    "imagePath": "images/teams/williams.svg"
+  },
+  {
+    "id": "alpine",
+    "name": "BWT Alpine F1 Team",
+    "description": "El azul francés de Enstone",
+    "variant": "variant-filled-secondary",
+    "icon": "lucide:mountain",
+    "type": "team",
+    "imagePath": "images/teams/alpine.svg"
+  },
+  {
+    "id": "aston-martin",
+    "name": "Aston Martin Aramco",
+    "description": "El verde británico de Silverstone",
+    "variant": "variant-filled-success",
+    "icon": "lucide:shield",
+    "type": "team",
+    "imagePath": "images/teams/aston-martin.svg"
+  },
+  {
+    "id": "mercedes",
+    "name": "Mercedes-AMG Petronas",
+    "description": "Las flechas plateadas de Brackley",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:star",
+    "type": "team",
+    "imagePath": "images/teams/mercedes.svg"
   },
   {
     "id": "benetton",
