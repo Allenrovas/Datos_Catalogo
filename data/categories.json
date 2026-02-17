@@ -95,7 +95,7 @@
     "variant": "variant-filled-success",
     "icon": "lucide:sparkles",
     "type": "team",
-    "imagePath": "images/teams/brawn-gp.svg"
+    "imagePath": "images/teams/brawn.svg"
   },
   {
     "id": "brm",
@@ -196,7 +196,7 @@
     "variant": "variant-filled-error",
     "icon": "lucide:package",
     "type": "team",
-    "imagePath": "images/teams/frank-williams.svg"
+    "imagePath": "images/teams/frank-williams-racing-cars.svg"
   },
   {
     "id": "renault",
