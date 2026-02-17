@@ -486,7 +486,6 @@
         "categories": [
             "championship",
             "renault",
-            "alonso",
             "ixo",
             "scale-1-43"
         ],
@@ -1387,7 +1386,7 @@
         "name": "Politoys FX3 Henri Pescarolo",
         "description": "El Politoys FX3 con el que Henri Pescarolo compitió en la temporada 1972. Un monoplaza del equipo privado británico-francés con diseño de Robin Herd.",
         "categories": [
-            "politoys",
+            "frank-williams-racing-cars",
             "classic",
             "ixo",
             "scale-1-43"
@@ -2762,7 +2761,7 @@
     "id": 76,
     "name": "BMW Sauber F1.08 Robert Kubica",
     "description": "BMW Sauber F1.08 pilotado por Robert Kubica, recordado por lograr la única victoria del equipo en Fórmula 1.",
-    "categories": ["bmw-sauber", "ixo", "scale-1-43"],
+    "categories": ["sauber", "ixo", "scale-1-43"],
     "price": 250.0,
     "images": ["1.jpg", "2.jpg", "3.jpg"],
     "imageFolder": "images/bmw_sauber_f1_08_kubica/",
@@ -2965,7 +2964,7 @@
   "id": 82,
   "name": "Benetton B186 Gerhard Berger",
   "description": "Réplica del Benetton B186, el monoplaza con el que Gerhard Berger logró su primera victoria en Fórmula 1 durante el Gran Premio de México de 1986. Este coche marcó una etapa clave para Benetton y el inicio del ascenso de Berger en la categoría reina.",
-  "categories": ["benetton", "turbo-era", "ixo", "scale-1-43"],
+  "categories": ["benetton", "ixo", "scale-1-43"],
   "price": 250.0,
   "images": ["1.jpg", "2.jpg", "3.jpg"],
   "imageFolder": "images/benetton_b186_berger/",

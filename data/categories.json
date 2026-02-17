@@ -85,7 +85,8 @@
     "description": "La leyenda británica de los años 60-80",
     "variant": "variant-filled-tertiary",
     "icon": "lucide:award",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/brabham.svg"
   },
   {
     "id": "brawn",
@@ -93,7 +94,8 @@
     "description": "El milagro de 2009",
     "variant": "variant-filled-success",
     "icon": "lucide:sparkles",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/brawn-gp.svg"
   },
   {
     "id": "brm",
@@ -101,7 +103,8 @@
     "description": "El orgullo británico de la F1 clásica",
     "variant": "variant-filled-primary",
     "icon": "lucide:wrench",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/brm.svg"
   },
   {
     "id": "championship",
@@ -157,7 +160,8 @@
     "description": "Los innovadores británicos de Chapman",
     "variant": "variant-filled-success",
     "icon": "lucide:flower",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/lotus.svg"
   },
   {
     "id": "march",
@@ -165,7 +169,8 @@
     "description": "Los innovadores británicos de los 70",
     "variant": "variant-filled-tertiary",
     "icon": "lucide:cog",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/march.svg"
   },
   {
     "id": "matra",
@@ -173,7 +178,8 @@
     "description": "La excelencia francesa en F1",
     "variant": "variant-filled-secondary",
     "icon": "lucide:flag",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/matra.svg"
   },
   {
     "id": "mcdonalds",
@@ -184,12 +190,13 @@
     "type": "general"
   },
   {
-    "id": "politoys",
-    "name": "Politoys",
-    "description": "Clásicos italianos de los años 60-70",
+    "id": "frank-williams-racing-cars",
+    "name": "Frank Williams Racing Cars",
+    "description": "Clásicos de los años 60-70",
     "variant": "variant-filled-error",
     "icon": "lucide:package",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/frank-williams.svg"
   },
   {
     "id": "renault",
@@ -197,7 +204,8 @@
     "description": "El legado amarillo y negro francés",
     "variant": "variant-filled-warning",
     "icon": "lucide:zap",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/renault.svg"
   },
   {
     "id": "salvat-collection",
@@ -229,7 +237,8 @@
     "description": "El equipo histórico de Ken Tyrrell",
     "variant": "variant-filled-secondary",
     "icon": "lucide:shield",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/tyrrell.svg"
   },
   {
     "id": "vanwall",
@@ -237,6 +246,61 @@
     "description": "Los pioneros británicos de los años 50",
     "variant": "variant-filled-success",
     "icon": "lucide:flag-triangle-right",
-    "type": "team"
+    "type": "team",
+    "imagePath": "images/teams/vanwall.svg"
+  },
+  {
+    "id": "sauber",
+    "name": "Sauber",
+    "description": "La estructura suiza que compitió como Sauber, BMW Sauber y Alfa Romeo",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:circle",
+    "type": "team",
+    "imagePath": "images/teams/sauber.svg"
+  },
+  {
+    "id": "surtees",
+    "name": "Surtees",
+    "description": "El equipo fundado por el campeón John Surtees",
+    "variant": "variant-filled-success",
+    "icon": "lucide:award",
+    "type": "team",
+    "imagePath": "images/teams/surtees.svg"
+  },
+  {
+    "id": "eifelland",
+    "name": "Eifelland",
+    "description": "El singular equipo alemán de 1972",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:sparkles",
+    "type": "team",
+    "imagePath": "images/teams/eifelland.svg"
+  },
+  {
+    "id": "minardi",
+    "name": "Minardi",
+    "description": "El equipo italiano que dio oportunidades a jóvenes talentos",
+    "variant": "variant-filled-warning",
+    "icon": "lucide:zap",
+    "type": "team",
+    "imagePath": "images/teams/minardi.svg"
+  },
+    {
+    "id": "ligier",
+    "name": "Ligier",
+    "description": "El histórico equipo francés de F1",
+    "variant": "variant-filled-secondary",
+    "icon": "lucide:shield",
+    "type": "team",
+    "imagePath": "images/teams/ligier.svg"
+  },
+  {
+    "id": "bar",
+    "name": "BAR (British American Racing)",
+    "description": "El equipo anglo-estadounidense de finales de los 90 y 2000",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:flag",
+    "type": "team",
+    "imagePath": "images/teams/bar.svg"
   }
 ]
