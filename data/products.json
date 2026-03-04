@@ -68,7 +68,7 @@
         "team": "Ferrari",
         "manufacturer": "Salvat",
         "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
+        "driver": "Carlos Sainz"
     },
     {
         "id": 3,
@@ -269,7 +269,7 @@
         "team": "Ferrari",
         "manufacturer": "Bburago",
         "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
+        "driver": "Carlos Sainz"
     },
     {
         "id": 8,
@@ -1815,7 +1815,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo temporada 2025"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "Ferrari",
@@ -2269,7 +2269,7 @@
             "Modelo histórico temporada 1980",
             "Monoplaza candidato al campeonato mundial"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1980,
         "team": "Williams",
