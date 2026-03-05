@@ -2191,7 +2191,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo temporada 2025"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "Alpine",
