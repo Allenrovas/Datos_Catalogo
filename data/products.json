@@ -2707,7 +2707,7 @@
     "id": 74,
     "name": "Benetton B194 Michael Schumacher",
     "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
-    "categories": ["benetton", "championship", "ixo", "scale-1-43"],
+    "categories": ["benetton", "championship", "ixo", "classic", "scale-1-43"],
     "price": 250.0,
     "images": ["1.jpg", "2.jpg", "3.jpg"],
     "imageFolder": "images/benetton_b194_schumacher_panini/",
