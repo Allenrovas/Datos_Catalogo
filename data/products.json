@@ -68,7 +68,7 @@
         "team": "Ferrari",
         "manufacturer": "Salvat",
         "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
+        "driver": "Carlos Sainz"
     },
     {
         "id": 3,
@@ -269,7 +269,7 @@
         "team": "Ferrari",
         "manufacturer": "Bburago",
         "scale": "1:43",
-        "driver": "Carlos Sainz Jr."
+        "driver": "Carlos Sainz"
     },
     {
         "id": 8,
@@ -1815,7 +1815,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo temporada 2025"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "Ferrari",
@@ -1932,7 +1932,7 @@
             "Patrocinadores y logos oficiales",
             "Edición especial conmemorativa"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2025,
         "team": "Red Bull Racing",
@@ -2191,7 +2191,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo temporada 2025"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "Alpine",
@@ -2230,7 +2230,7 @@
             "Modelo temporada 2021",
             "Regreso de Aston Martin a F1"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2021,
         "team": "Aston Martin",
@@ -2269,7 +2269,7 @@
             "Modelo histórico temporada 1980",
             "Monoplaza candidato al campeonato mundial"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1980,
         "team": "Williams",
@@ -2707,7 +2707,7 @@
     "id": 74,
     "name": "Benetton B194 Michael Schumacher",
     "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
-    "categories": ["benetton", "championship", "ixo", "scale-1-43"],
+    "categories": ["benetton", "championship", "ixo", "classic", "scale-1-43"],
     "price": 250.0,
     "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/benetton_b194_schumacher_panini/",
@@ -2911,7 +2911,7 @@
             "Numeración oficial de Leclerc (#16)",
             "Modelo de edición especial"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2024,
         "team": "Ferrari",
