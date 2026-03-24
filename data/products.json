@@ -9,9 +9,9 @@
         ],
         "price": 525.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/mcd_f1/",
         "specifications": {
@@ -44,9 +44,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/ferrari_sf21_sainz/",
         "specifications": {
@@ -81,9 +81,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/aston_martin_amr23_alonso/",
         "specifications": {
@@ -119,9 +119,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
         "specifications": {
@@ -160,10 +160,10 @@
         ],
         "price": 475.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/mp44_senna/",
         "specifications": {
@@ -201,10 +201,10 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/ferrari_sf24_leclerc_miami/",
         "specifications": {
@@ -242,10 +242,10 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/ferrari_sf24_sainz_miami/",
         "specifications": {
@@ -284,10 +284,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/rb19_verstappen_las_vegas/",
         "specifications": {
@@ -326,10 +326,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/rb19_verstappen_austin/",
         "specifications": {
@@ -368,10 +368,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/ferrari_499p_lemans/",
         "specifications": {
@@ -409,10 +409,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/mclaren_mcl38_norris_monaco/",
         "specifications": {
@@ -450,10 +450,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/mclaren_mcl38_piastri_monaco/",
         "specifications": {
@@ -491,8 +491,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/renault_r25_alonso/",
         "specifications": {
@@ -533,8 +533,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/lotus_25_clark/",
         "specifications": {
@@ -575,8 +575,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/matra_ms10_stewart/",
         "specifications": {
@@ -617,8 +617,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/williams_fw14b_mansell/",
         "specifications": {
@@ -658,8 +658,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brawn_gp01_button/",
         "specifications": {
@@ -700,11 +700,11 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/tyrrell_006_stewart/",
         "specifications": {
@@ -744,8 +744,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/williams_fw19_villeneuve/",
         "specifications": {
@@ -787,8 +787,8 @@
         "originalPrice": 295.0,
         "price": 275.0,
         "images": [
-            "3.jpg",
-            "4.jpg"
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/brabham_bt24_hulme/",
         "specifications": {
@@ -829,11 +829,11 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/ferrari_312t3_scheckter/",
         "specifications": {
@@ -873,8 +873,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brabham_bt52b_piquet/",
         "specifications": {
@@ -915,8 +915,8 @@
         ],
         "price": 295.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/williams_fw07_jones/",
         "specifications": {
@@ -956,8 +956,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/rb18_verstappen_japan/",
         "specifications": {
@@ -994,8 +994,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/alpine_a522_ocon/",
         "specifications": {
@@ -1032,8 +1032,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mercedes_w11_hamilton/",
         "specifications": {
@@ -1071,8 +1071,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brabham_bt45_reutemann/",
         "specifications": {
@@ -1112,8 +1112,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mclaren_m23_hunt/",
         "specifications": {
@@ -1152,8 +1152,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/vanwall_57_moss/",
         "specifications": {
@@ -1193,9 +1193,9 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/lotus_72d_fittipaldi/",
         "specifications": {
@@ -1234,8 +1234,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brabham_bt44b_pace/",
         "specifications": {
@@ -1274,8 +1274,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/march_751_brambilla/",
         "specifications": {
@@ -1314,8 +1314,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mclaren_m23_villeneuve/",
         "specifications": {
@@ -1353,8 +1353,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/ferrari_126c3_arnoux/",
         "specifications": {
@@ -1393,8 +1393,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/politoys_fx3_pescarolo/",
         "specifications": {
@@ -1433,11 +1433,11 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/williams_fw08_rosberg/",
         "specifications": {
@@ -1476,8 +1476,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brabham_bt26a_ickx/",
         "specifications": {
@@ -1516,9 +1516,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/ferrari_312t2_villeneuve/",
         "specifications": {
@@ -1557,8 +1557,8 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/brm_p160b_beltoise/",
         "specifications": {
@@ -1597,9 +1597,9 @@
         ],
         "price": 285.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
+            "1.webp",
+            "2.webp",
+            "3.webp",
             "4.png"
         ],
         "imageFolder": "images/lotus_99t_senna/",
@@ -1638,9 +1638,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
+            "1.webp",
+            "2.webp",
+            "3.webp",
             "4.png"
         ],
         "imageFolder": "images/renault_r24_alonso/",
@@ -1678,9 +1678,9 @@
         ],
         "price": 275.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/rb19_perez_canada/",
         "specifications": {
@@ -1798,8 +1798,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/ferrari_sf25_leclerc/",
         "specifications": {
@@ -1834,8 +1834,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/ferrari_sf25_hamilton/",
         "specifications": {
@@ -1872,10 +1872,10 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/ferrari_sf23_sainz_lasvegas/",
         "specifications": {
@@ -1913,8 +1913,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/redbull_rb21_verstappen_japan/",
         "specifications": {
@@ -1952,8 +1952,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/redbull_rb21_tsunoda_japan/",
         "specifications": {
@@ -1992,8 +1992,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mclaren_mcl39_norris/",
         "specifications": {
@@ -2028,8 +2028,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mclaren_mcl39_piastri/",
         "specifications": {
@@ -2064,8 +2064,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mercedes_w16_antonelli/",
         "specifications": {
@@ -2101,8 +2101,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/mercedes_w16_russell/",
         "specifications": {
@@ -2137,8 +2137,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/alpine_a525_colapinto/",
         "specifications": {
@@ -2174,8 +2174,8 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.webp",
+            "2.webp"
         ],
         "imageFolder": "images/alpine_a525_gasly/",
         "specifications": {
@@ -2210,9 +2210,9 @@
         ],
         "price": 285.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/astonmartin_amr21_vettel/",
         "specifications": {
@@ -2249,9 +2249,9 @@
         ],
         "price": 285.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp"
         ],
         "imageFolder": "images/williams_fw07b_reutemann/",
         "specifications": {
@@ -2283,7 +2283,7 @@
     "description": "Réplica a escala 1:43 del BAR 002 pilotado por Jacques Villeneuve durante la temporada 2000 de Fórmula 1. Este modelo representa una etapa de transición del equipo BAR, combinando innovación técnica con la experiencia de un campeón mundial.",
     "categories": ["bar", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/bar_002_villeneuve/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2309,7 +2309,7 @@
     "description": "El icónico Lotus 72E pilotado por Ronnie Peterson, uno de los monoplazas más influyentes en la historia de la Fórmula 1. Su diseño revolucionario marcó un antes y un después en aerodinámica y concepto técnico.",
     "categories": ["lotus", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/lotus_72e_peterson/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2335,7 +2335,7 @@
     "description": "Réplica del Mercedes W07, considerado uno de los monoplazas más dominantes de la era híbrida. Con este coche, Nico Rosberg logró el campeonato mundial de 2016 tras una histórica rivalidad interna.",
     "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/mercedes_w07_rosberg/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2361,7 +2361,7 @@
     "description": "Ferrari F2001 de Michael Schumacher en configuración del Gran Premio de Italia 2001. Uno de los Ferrari más exitosos de la historia, símbolo absoluto de la era dorada de Schumacher en Maranello.",
     "categories": ["ferrari", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/ferrari_f2001_schumacher_italiangp/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2387,7 +2387,7 @@
     "description": "El Ligier JS11 pilotado por Jacques Laffite representa uno de los mejores momentos del equipo francés en la Fórmula 1, siendo protagonista en varias carreras a finales de los años 70.",
     "categories": ["ligier", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/ligier_js11_laffite/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2413,7 +2413,7 @@
     "description": "El March 881 de Ivan Capelli es recordado por su innovador diseño aerodinámico de 1988, siendo uno de los monoplazas más estilizados de su época.",
     "categories": ["march", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/march_judd_881_capelli/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2439,7 +2439,7 @@
     "description": "El Minardi M191 pilotado por Pierluigi Martini simboliza el espíritu de los equipos pequeños de Fórmula 1, luchadores y muy queridos por los aficionados.",
     "categories": ["minardi", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/minardi_m191_martini/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2466,7 +2466,7 @@
     "description": "Mercedes W05 de Lewis Hamilton, el monoplaza que marcó el inicio de la era dominante de Mercedes en la Fórmula 1 híbrida y devolvió a Hamilton al campeonato mundial.",
     "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/mercedes_w05_hamilton/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2493,7 +2493,7 @@
     "description": "Williams FW23 pilotado por Ralf Schumacher durante la temporada 2001, una etapa sólida del equipo Williams con motor BMW.",
     "categories": ["williams", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/williams_fw23_ralf_schumacher/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2520,7 +2520,7 @@
     "description": "El Eifelland E21 pilotado por Rolf Stommelen es uno de los monoplazas más curiosos y raros de la historia de la Fórmula 1.",
     "categories": ["eifelland", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/eifelland_e21_stommelen/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2547,7 +2547,7 @@
     "description": "Renault RS10 de Jean-Pierre Jabouille, el primer monoplaza turbo en ganar una carrera de Fórmula 1, marcando el inicio de una nueva era tecnológica.",
     "categories": ["renault", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/renault_rs10_jabouille/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2574,7 +2574,7 @@
     "description": "Surtees TS9B pilotado por Andrea de Adamich, reflejo del legado de John Surtees como constructor y campeón del mundo.",
     "categories": ["surtees", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/surtees_ts98_de_adamich/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2601,7 +2601,7 @@
     "description": "Williams FW15C con el que Alain Prost logró su cuarto campeonato mundial en 1993, considerado uno de los monoplazas más avanzados técnicamente de la historia.",
     "categories": ["williams", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/williams_fw15c_prost/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2628,7 +2628,7 @@
     "description": "McLaren MP4/23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
     "categories": ["mclaren", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/mclaren_mp4_23_hamilton/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2655,7 +2655,7 @@
     "description": "Brabham BT49 con el que Nelson Piquet consiguió el campeonato mundial de 1981, destacando por su fiabilidad y eficiencia.",
     "categories": ["brabham", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/brabham_bt49_piquet/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2682,7 +2682,7 @@
     "description": "Lotus 79 con el que Mario Andretti dominó la temporada 1978, considerado el máximo exponente del efecto suelo.",
     "categories": ["lotus", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/lotus_79_andretti/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2709,7 +2709,7 @@
     "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
     "categories": ["benetton", "championship", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/benetton_b194_schumacher_panini/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2736,7 +2736,7 @@
     "description": "Ferrari 312 T2 de Niki Lauda en configuración del Gran Premio de Brasil, representando la era clásica de Ferrari y uno de sus pilotos más emblemáticos.",
     "categories": ["ferrari", "classic", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/ferrari_312t2_lauda_braziliangp/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2763,7 +2763,7 @@
     "description": "BMW Sauber F1.08 pilotado por Robert Kubica, recordado por lograr la única victoria del equipo en Fórmula 1.",
     "categories": ["sauber", "ixo", "scale-1-43"],
     "price": 250.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/bmw_sauber_f1_08_kubica/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2790,7 +2790,7 @@
     "description": "Williams FW45 pilotado por Alex Albon en el Gran Premio de Singapur. Esta edición especial reproduce una destacada actuación en un exigente circuito urbano. Incluye revista coleccionable oficial.",
     "categories": ["williams", "scale-1-43", "salvat-collection"],
     "price": 285.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/williams_fw45_albon_singaporegp/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2817,7 +2817,7 @@
     "description": "Ferrari SF1000 de Charles Leclerc en el Gran Premio de Toscana 2020, celebrado como el GP número 1000 de Ferrari en Fórmula 1. Edición especial que incluye revista coleccionable oficial.",
     "categories": ["ferrari", "scale-1-43", "salvat-collection"],
     "price": 285.0,
-    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "images": ["1.webp", "2.webp", "3.webp"],
     "imageFolder": "images/ferrari_sf1000_leclerc_tuscangp/",
     "specifications": {
       "material": "Metal fundido a presión con detalles en plástico",
@@ -2849,11 +2849,11 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/ferrari_sf25_leclerc_miami/",
         "specifications": {
@@ -2890,11 +2890,11 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/ferrari_sf24_leclerc_monaco/",
         "specifications": {
@@ -2931,11 +2931,11 @@
         ],
         "price": 250.0,
         "images": [
-            "1.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg"
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
         ],
         "imageFolder": "images/ferrari_sf24_leclerc_italy/",
         "specifications": {
@@ -2966,7 +2966,7 @@
   "description": "Réplica del Benetton B186, el monoplaza con el que Gerhard Berger logró su primera victoria en Fórmula 1 durante el Gran Premio de México de 1986. Este coche marcó una etapa clave para Benetton y el inicio del ascenso de Berger en la categoría reina.",
   "categories": ["benetton", "ixo", "scale-1-43"],
   "price": 250.0,
-  "images": ["1.jpg", "2.jpg", "3.jpg"],
+  "images": ["1.webp", "2.webp", "3.webp"],
   "imageFolder": "images/benetton_b186_berger/",
   "specifications": {
     "material": "Metal fundido a presión con detalles en plástico",
