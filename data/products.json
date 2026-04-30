@@ -1852,7 +1852,7 @@
             "Modelo temporada 2025",
             "Primera temporada de Hamilton en Ferrari"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "Ferrari",
@@ -2721,7 +2721,7 @@
       "Modelo histórico",
       "Gran nivel de detalle"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": false,
     "year": 1994,
     "team": "Benetton",
@@ -2829,7 +2829,7 @@
       "Incluye revista coleccionable",
       "Livery histórico"
     ],
-    "inStock": true,
+    "inStock": false,
     "limitedEdition": true,
     "year": 2020,
     "team": "Ferrari",
@@ -2952,7 +2952,7 @@
             "Numeración oficial de Leclerc (#16)",
             "Edición especial para tifosi y coleccionistas"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2024,
         "team": "Ferrari",
