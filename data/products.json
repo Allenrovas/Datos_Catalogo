@@ -2802,7 +2802,7 @@
       "Incluye revista coleccionable",
       "Detalles actuales"
     ],
-    "inStock": false,
+    "inStock": true,
     "limitedEdition": true,
     "year": 2023,
     "team": "Williams",
