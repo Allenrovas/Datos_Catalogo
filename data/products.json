@@ -13,7 +13,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/mcd_f1/",
+        "imageFolder": "images/1_mcd_f1/",
         "specifications": {
             "material": "Metal con llantas de goma",
             "topSpeed": "Modelo promocional (sin especificación real)",
@@ -48,7 +48,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/ferrari_sf21_sainz/",
+        "imageFolder": "images/2_ferrari_sf21_sainz/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "372.5 km/h",
@@ -85,7 +85,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/aston_martin_amr23_alonso/",
+        "imageFolder": "images/3_aston_martin_amr23_alonso/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -123,7 +123,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/mclaren_mcl35m_norris_monaco/",
+        "imageFolder": "images/4_mclaren_mcl35m_norris_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "360+ km/h",
@@ -165,7 +165,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/mp44_senna/",
+        "imageFolder": "images/5_mp44_senna/",
         "specifications": {
             "engine": "Honda RA168E V6 Turbo",
             "power": "650–700 HP",
@@ -206,7 +206,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/ferrari_sf24_leclerc_miami/",
+        "imageFolder": "images/6_ferrari_sf24_leclerc_miami/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -247,7 +247,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/ferrari_sf24_sainz_miami/",
+        "imageFolder": "images/7_ferrari_sf24_sainz_miami/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -289,7 +289,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/rb19_verstappen_las_vegas/",
+        "imageFolder": "images/8_rb19_verstappen_las_vegas/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -331,7 +331,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/rb19_verstappen_austin/",
+        "imageFolder": "images/9_rb19_verstappen_austin/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "365+ km/h",
@@ -373,7 +373,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/ferrari_499p_lemans/",
+        "imageFolder": "images/10_ferrari_499p_lemans/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "330+ km/h",
@@ -414,7 +414,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/mclaren_mcl38_norris_monaco/",
+        "imageFolder": "images/11_mclaren_mcl38_norris_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "360+ km/h",
@@ -455,7 +455,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/mclaren_mcl38_piastri_monaco/",
+        "imageFolder": "images/12_mclaren_mcl38_piastri_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "360+ km/h",
@@ -494,7 +494,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/renault_r25_alonso/",
+        "imageFolder": "images/13_renault_r25_alonso/",
         "specifications": {
             "engine": "Renault RS25 V8",
             "power": "900+ HP",
@@ -536,7 +536,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/lotus_25_clark/",
+        "imageFolder": "images/14_lotus_25_clark/",
         "specifications": {
             "engine": "Coventry Climax FWMV V8",
             "power": "210 HP",
@@ -578,7 +578,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/matra_ms10_stewart/",
+        "imageFolder": "images/15_matra_ms10_stewart/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "430 HP",
@@ -620,7 +620,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/williams_fw14b_mansell/",
+        "imageFolder": "images/16_williams_fw14b_mansell/",
         "specifications": {
             "engine": "Renault RS3C V10",
             "power": "750 HP",
@@ -661,7 +661,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brawn_gp01_button/",
+        "imageFolder": "images/17_brawn_gp01_button/",
         "specifications": {
             "engine": "Mercedes FO 108W V8",
             "power": "750 HP",
@@ -706,7 +706,7 @@
             "4.webp",
             "5.webp"
         ],
-        "imageFolder": "images/tyrrell_006_stewart/",
+        "imageFolder": "images/18_tyrrell_006_stewart/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "465 HP",
@@ -747,7 +747,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/williams_fw19_villeneuve/",
+        "imageFolder": "images/19_williams_fw19_villeneuve/",
         "specifications": {
             "engine": "Renault RS9 V10",
             "power": "780 HP",
@@ -790,7 +790,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/brabham_bt24_hulme/",
+        "imageFolder": "images/20_brabham_bt24_hulme/",
         "specifications": {
             "engine": "Repco 620 V8",
             "power": "330 HP",
@@ -835,7 +835,7 @@
             "4.webp",
             "5.webp"
         ],
-        "imageFolder": "images/ferrari_312t3_scheckter/",
+        "imageFolder": "images/21_ferrari_312t3_scheckter/",
         "specifications": {
             "engine": "Ferrari 015 Flat-12",
             "power": "515 HP",
@@ -876,7 +876,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brabham_bt52b_piquet/",
+        "imageFolder": "images/22_brabham_bt52b_piquet/",
         "specifications": {
             "engine": "BMW M12/13 4-cylinder Turbo",
             "power": "650 HP (en clasificación)",
@@ -918,7 +918,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/williams_fw07_jones/",
+        "imageFolder": "images/23_williams_fw07_jones/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "485 HP",
@@ -959,7 +959,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/rb18_verstappen_japan/",
+        "imageFolder": "images/24_rb18_verstappen_japan/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "365+ km/h",
@@ -997,7 +997,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/alpine_a522_ocon/",
+        "imageFolder": "images/25_alpine_a522_ocon/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1035,7 +1035,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mercedes_w11_hamilton/",
+        "imageFolder": "images/26_mercedes_w11_hamilton/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "370+ km/h",
@@ -1074,7 +1074,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brabham_bt45_reutemann/",
+        "imageFolder": "images/27_brabham_bt45_reutemann/",
         "specifications": {
             "engine": "Alfa Romeo Flat-12",
             "power": "510 HP",
@@ -1115,7 +1115,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mclaren_m23_hunt/",
+        "imageFolder": "images/28_mclaren_m23_hunt/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "465 HP",
@@ -1155,7 +1155,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/vanwall_57_moss/",
+        "imageFolder": "images/29_vanwall_57_moss/",
         "specifications": {
             "engine": "Vanwall 4-cylinder",
             "power": "285 HP",
@@ -1197,7 +1197,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/lotus_72d_fittipaldi/",
+        "imageFolder": "images/30_lotus_72d_fittipaldi/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "465 HP",
@@ -1237,7 +1237,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brabham_bt44b_pace/",
+        "imageFolder": "images/31_brabham_bt44b_pace/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "480 HP",
@@ -1277,7 +1277,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/march_751_brambilla/",
+        "imageFolder": "images/32_march_751_brambilla/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "475 HP",
@@ -1317,7 +1317,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mclaren_m23_villeneuve/",
+        "imageFolder": "images/33_mclaren_m23_villeneuve/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "475 HP",
@@ -1356,7 +1356,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/ferrari_126c3_arnoux/",
+        "imageFolder": "images/34_ferrari_126c3_arnoux/",
         "specifications": {
             "engine": "Ferrari 021 V6 Turbo",
             "power": "620 HP",
@@ -1396,7 +1396,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/politoys_fx3_pescarolo/",
+        "imageFolder": "images/35_politoys_fx3_pescarolo/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "465 HP",
@@ -1435,11 +1435,9 @@
         "images": [
             "1.webp",
             "2.webp",
-            "3.webp",
-            "4.webp",
-            "5.webp"
+            "3.webp"
         ],
-        "imageFolder": "images/williams_fw08_rosberg/",
+        "imageFolder": "images/36_williams_fw08_rosberg/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "510 HP",
@@ -1479,7 +1477,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brabham_bt26a_ickx/",
+        "imageFolder": "images/37_brabham_bt26a_ickx/",
         "specifications": {
             "engine": "Ford Cosworth DFV V8",
             "power": "430 HP",
@@ -1520,7 +1518,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/ferrari_312t2_villeneuve/",
+        "imageFolder": "images/38_ferrari_312t2_villeneuve/",
         "specifications": {
             "engine": "Ferrari 015 Flat-12",
             "power": "510 HP",
@@ -1560,7 +1558,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/brm_p160b_beltoise/",
+        "imageFolder": "images/39_brm_p160b_beltoise/",
         "specifications": {
             "engine": "BRM P160 V12",
             "power": "460 HP",
@@ -1602,7 +1600,7 @@
             "3.webp",
             "4.png"
         ],
-        "imageFolder": "images/lotus_99t_senna/",
+        "imageFolder": "images/40_lotus_99t_senna/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "320+ km/h",
@@ -1643,7 +1641,7 @@
             "3.webp",
             "4.png"
         ],
-        "imageFolder": "images/renault_r24_alonso/",
+        "imageFolder": "images/41_renault_r24_alonso/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1682,7 +1680,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/rb19_perez_canada/",
+        "imageFolder": "images/42_rb19_perez_canada/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1722,7 +1720,7 @@
             "1.png",
             "2.png"
         ],
-        "imageFolder": "images/rb9_vettel/",
+        "imageFolder": "images/43_rb9_vettel/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1763,7 +1761,7 @@
             "2.png",
             "3.png"
         ],
-        "imageFolder": "images/benetton_b194_schumacher/",
+        "imageFolder": "images/44_benetton_b194_schumacher/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -1801,7 +1799,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/ferrari_sf25_leclerc/",
+        "imageFolder": "images/45_ferrari_sf25_leclerc/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -1837,7 +1835,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/ferrari_sf25_hamilton/",
+        "imageFolder": "images/46_ferrari_sf25_hamilton/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -1877,7 +1875,7 @@
             "3.webp",
             "4.webp"
         ],
-        "imageFolder": "images/ferrari_sf23_sainz_lasvegas/",
+        "imageFolder": "images/47_ferrari_sf23_sainz_lasvegas/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -1916,7 +1914,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/redbull_rb21_verstappen_japan/",
+        "imageFolder": "images/48_redbull_rb21_verstappen_japan/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1955,7 +1953,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/redbull_rb21_tsunoda_japan/",
+        "imageFolder": "images/49_redbull_rb21_tsunoda_japan/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -1995,7 +1993,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mclaren_mcl39_norris/",
+        "imageFolder": "images/50_mclaren_mcl39_norris/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -2031,7 +2029,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mclaren_mcl39_piastri/",
+        "imageFolder": "images/51_mclaren_mcl39_piastri/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -2067,7 +2065,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mercedes_w16_antonelli/",
+        "imageFolder": "images/52_mercedes_w16_antonelli/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -2104,7 +2102,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/mercedes_w16_russell/",
+        "imageFolder": "images/53_mercedes_w16_russell/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -2140,7 +2138,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/alpine_a525_colapinto/",
+        "imageFolder": "images/54_alpine_a525_colapinto/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "335+ km/h",
@@ -2177,7 +2175,7 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/alpine_a525_gasly/",
+        "imageFolder": "images/55_alpine_a525_gasly/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "335+ km/h",
@@ -2214,7 +2212,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/astonmartin_amr21_vettel/",
+        "imageFolder": "images/56_astonmartin_amr21_vettel/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "330+ km/h",
@@ -2253,7 +2251,7 @@
             "2.webp",
             "3.webp"
         ],
-        "imageFolder": "images/williams_fw07b_reutemann/",
+        "imageFolder": "images/57_williams_fw07b_reutemann/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "310+ km/h",
@@ -2277,566 +2275,737 @@
         "scale": "1:43",
         "driver": "Carlos Reutemann"
     },
- { 
-    "id": 58,
-    "name": "BAR 002 Jacques Villeneuve",
-    "description": "Réplica a escala 1:43 del BAR 002 pilotado por Jacques Villeneuve durante la temporada 2000 de Fórmula 1. Este modelo representa una etapa de transición del equipo BAR, combinando innovación técnica con la experiencia de un campeón mundial.",
-    "categories": ["bar", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/bar_002_villeneuve/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 58,
+        "name": "BAR 002 Jacques Villeneuve",
+        "description": "Réplica a escala 1:43 del BAR 002 pilotado por Jacques Villeneuve durante la temporada 2000 de Fórmula 1. Este modelo representa una etapa de transición del equipo BAR, combinando innovación técnica con la experiencia de un campeón mundial.",
+        "categories": [
+            "bar",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/58_bar_002_villeneuve/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles fieles al monoplaza original",
+            "Acabados de alta calidad",
+            "Numeración oficial de Villeneuve"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2000,
+        "team": "BAR",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jacques Villeneuve"
     },
-    "features": [
-      "Detalles fieles al monoplaza original",
-      "Acabados de alta calidad",
-      "Numeración oficial de Villeneuve"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2000,
-    "team": "BAR",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jacques Villeneuve"
-  },
-  {
-    "id": 59,
-    "name": "Lotus 72E Ronnie Peterson",
-    "description": "El icónico Lotus 72E pilotado por Ronnie Peterson, uno de los monoplazas más influyentes en la historia de la Fórmula 1. Su diseño revolucionario marcó un antes y un después en aerodinámica y concepto técnico.",
-    "categories": ["lotus", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/lotus_72e_peterson/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 59,
+        "name": "Lotus 72E Ronnie Peterson",
+        "description": "El icónico Lotus 72E pilotado por Ronnie Peterson, uno de los monoplazas más influyentes en la historia de la Fórmula 1. Su diseño revolucionario marcó un antes y un después en aerodinámica y concepto técnico.",
+        "categories": [
+            "lotus",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/59_lotus_72e_peterson/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño histórico de Lotus",
+            "Era clásica de la F1",
+            "Piloto legendario"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1973,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ronnie Peterson"
     },
-    "features": [
-      "Diseño histórico de Lotus",
-      "Era clásica de la F1",
-      "Piloto legendario"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1973,
-    "team": "Lotus",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ronnie Peterson"
-  },
-  {
-    "id": 60,
-    "name": "Mercedes W07 Nico Rosberg",
-    "description": "Réplica del Mercedes W07, considerado uno de los monoplazas más dominantes de la era híbrida. Con este coche, Nico Rosberg logró el campeonato mundial de 2016 tras una histórica rivalidad interna.",
-    "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/mercedes_w07_rosberg/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 60,
+        "name": "Mercedes W07 Nico Rosberg",
+        "description": "Réplica del Mercedes W07, considerado uno de los monoplazas más dominantes de la era híbrida. Con este coche, Nico Rosberg logró el campeonato mundial de 2016 tras una histórica rivalidad interna.",
+        "categories": [
+            "mercedes",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/60_mercedes_w07_rosberg/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Era híbrida dominante",
+            "Campeón mundial 2016",
+            "Detalles aerodinámicos precisos"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2016,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nico Rosberg"
     },
-    "features": [
-      "Era híbrida dominante",
-      "Campeón mundial 2016",
-      "Detalles aerodinámicos precisos"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2016,
-    "team": "Mercedes",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Nico Rosberg"
-  },
-  {
-    "id": 61,
-    "name": "Ferrari F2001 Michael Schumacher - Italian GP",
-    "description": "Ferrari F2001 de Michael Schumacher en configuración del Gran Premio de Italia 2001. Uno de los Ferrari más exitosos de la historia, símbolo absoluto de la era dorada de Schumacher en Maranello.",
-    "categories": ["ferrari", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/ferrari_f2001_schumacher_italiangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 61,
+        "name": "Ferrari F2001 Michael Schumacher - Italian GP",
+        "description": "Ferrari F2001 de Michael Schumacher en configuración del Gran Premio de Italia 2001. Uno de los Ferrari más exitosos de la historia, símbolo absoluto de la era dorada de Schumacher en Maranello.",
+        "categories": [
+            "ferrari",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/61_ferrari_f2001_schumacher_italiangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración específica GP",
+            "Ferrari campeón",
+            "Piloto legendario"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2001,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
     },
-    "features": [
-      "Configuración específica GP",
-      "Ferrari campeón",
-      "Piloto legendario"
-    ],
-    "inStock": false,
-    "limitedEdition": true,
-    "year": 2001,
-    "team": "Ferrari",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Michael Schumacher"
-  },
-  {
-    "id": 62,
-    "name": "Ligier JS11 Jacques Laffite",
-    "description": "El Ligier JS11 pilotado por Jacques Laffite representa uno de los mejores momentos del equipo francés en la Fórmula 1, siendo protagonista en varias carreras a finales de los años 70.",
-    "categories": ["ligier", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/ligier_js11_laffite/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 62,
+        "name": "Ligier JS11 Jacques Laffite",
+        "description": "El Ligier JS11 pilotado por Jacques Laffite representa uno de los mejores momentos del equipo francés en la Fórmula 1, siendo protagonista en varias carreras a finales de los años 70.",
+        "categories": [
+            "ligier",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/62_ligier_js11_laffite/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño francés icónico",
+            "Era ground effect",
+            "Modelo histórico"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Ligier",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jacques Laffite"
     },
-    "features": [
-      "Diseño francés icónico",
-      "Era ground effect",
-      "Modelo histórico"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1979,
-    "team": "Ligier",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jacques Laffite"
-  },
-  {
-    "id": 63,
-    "name": "March Judd 881 Ivan Capelli",
-    "description": "El March 881 de Ivan Capelli es recordado por su innovador diseño aerodinámico de 1988, siendo uno de los monoplazas más estilizados de su época.",
-    "categories": ["march", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/march_judd_881_capelli/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 63,
+        "name": "March Judd 881 Ivan Capelli",
+        "description": "El March 881 de Ivan Capelli es recordado por su innovador diseño aerodinámico de 1988, siendo uno de los monoplazas más estilizados de su época.",
+        "categories": [
+            "march",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/63_march_judd_881_capelli/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño aerodinámico innovador",
+            "Era atmosférica",
+            "Modelo muy valorado"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1988,
+        "team": "March",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ivan Capelli"
     },
-    "features": [
-      "Diseño aerodinámico innovador",
-      "Era atmosférica",
-      "Modelo muy valorado"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1988,
-    "team": "March",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ivan Capelli"
-  },
-  {
-    "id": 64,
-    "name": "Minardi M191 Pierluigi Martini",
-    "description": "El Minardi M191 pilotado por Pierluigi Martini simboliza el espíritu de los equipos pequeños de Fórmula 1, luchadores y muy queridos por los aficionados.",
-    "categories": ["minardi", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/minardi_m191_martini/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 64,
+        "name": "Minardi M191 Pierluigi Martini",
+        "description": "El Minardi M191 pilotado por Pierluigi Martini simboliza el espíritu de los equipos pequeños de Fórmula 1, luchadores y muy queridos por los aficionados.",
+        "categories": [
+            "minardi",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/64_minardi_m191_martini/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Equipo histórico independiente",
+            "Livery clásica Minardi",
+            "Gran nivel de detalle"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1991,
+        "team": "Minardi",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Pierluigi Martini"
     },
-    "features": [
-      "Equipo histórico independiente",
-      "Livery clásica Minardi",
-      "Gran nivel de detalle"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1991,
-    "team": "Minardi",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Pierluigi Martini"
-  },
-
-  {
-    "id": 65,
-    "name": "Mercedes W05 Lewis Hamilton",
-    "description": "Mercedes W05 de Lewis Hamilton, el monoplaza que marcó el inicio de la era dominante de Mercedes en la Fórmula 1 híbrida y devolvió a Hamilton al campeonato mundial.",
-    "categories": ["mercedes", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/mercedes_w05_hamilton/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 65,
+        "name": "Mercedes W05 Lewis Hamilton",
+        "description": "Mercedes W05 de Lewis Hamilton, el monoplaza que marcó el inicio de la era dominante de Mercedes en la Fórmula 1 híbrida y devolvió a Hamilton al campeonato mundial.",
+        "categories": [
+            "mercedes",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/65_mercedes_w05_hamilton/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Inicio de la era híbrida",
+            "Campeón mundial",
+            "Modelo histórico"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2014,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
     },
-    "features": [
-      "Inicio de la era híbrida",
-      "Campeón mundial",
-      "Modelo histórico"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2014,
-    "team": "Mercedes",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Lewis Hamilton"
-  },
-
-  {
-    "id": 66,
-    "name": "Williams FW23 Ralf Schumacher",
-    "description": "Williams FW23 pilotado por Ralf Schumacher durante la temporada 2001, una etapa sólida del equipo Williams con motor BMW.",
-    "categories": ["williams", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/williams_fw23_ralf_schumacher/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 66,
+        "name": "Williams FW23 Ralf Schumacher",
+        "description": "Williams FW23 pilotado por Ralf Schumacher durante la temporada 2001, una etapa sólida del equipo Williams con motor BMW.",
+        "categories": [
+            "williams",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/66_williams_fw23_ralf_schumacher/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Era BMW-Williams",
+            "Diseño aerodinámico",
+            "Piloto ganador de GPs"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2001,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ralf Schumacher"
     },
-    "features": [
-      "Era BMW-Williams",
-      "Diseño aerodinámico",
-      "Piloto ganador de GPs"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2001,
-    "team": "Williams",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Ralf Schumacher"
-  },
-
-  {
-    "id": 67,
-    "name": "Eifelland E21 Rolf Stommelen",
-    "description": "El Eifelland E21 pilotado por Rolf Stommelen es uno de los monoplazas más curiosos y raros de la historia de la Fórmula 1.",
-    "categories": ["eifelland", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/eifelland_e21_stommelen/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 67,
+        "name": "Eifelland E21 Rolf Stommelen",
+        "description": "El Eifelland E21 pilotado por Rolf Stommelen es uno de los monoplazas más curiosos y raros de la historia de la Fórmula 1.",
+        "categories": [
+            "eifelland",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/67_eifelland_e21_stommelen/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño único",
+            "Modelo poco común",
+            "Alto valor histórico"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1972,
+        "team": "Eifelland",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Rolf Stommelen"
     },
-    "features": [
-      "Diseño único",
-      "Modelo poco común",
-      "Alto valor histórico"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1972,
-    "team": "Eifelland",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Rolf Stommelen"
-  },
-
-  {
-    "id": 68,
-    "name": "Renault RS10 Jean-Pierre Jabouille",
-    "description": "Renault RS10 de Jean-Pierre Jabouille, el primer monoplaza turbo en ganar una carrera de Fórmula 1, marcando el inicio de una nueva era tecnológica.",
-    "categories": ["renault", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/renault_rs10_jabouille/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 68,
+        "name": "Renault RS10 Jean-Pierre Jabouille",
+        "description": "Renault RS10 de Jean-Pierre Jabouille, el primer monoplaza turbo en ganar una carrera de Fórmula 1, marcando el inicio de una nueva era tecnológica.",
+        "categories": [
+            "renault",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/68_renault_rs10_jabouille/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer ganador turbo",
+            "Hito histórico",
+            "Modelo imprescindible"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Renault",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jean-Pierre Jabouille"
     },
-    "features": [
-      "Primer ganador turbo",
-      "Hito histórico",
-      "Modelo imprescindible"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1979,
-    "team": "Renault",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Jean-Pierre Jabouille"
-  },
-
-  {
-    "id": 69,
-    "name": "Surtees TS9B Andrea de Adamich",
-    "description": "Surtees TS9B pilotado por Andrea de Adamich, reflejo del legado de John Surtees como constructor y campeón del mundo.",
-    "categories": ["surtees", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/surtees_ts98_de_adamich/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 69,
+        "name": "Surtees TS9B Andrea de Adamich",
+        "description": "Surtees TS9B pilotado por Andrea de Adamich, reflejo del legado de John Surtees como constructor y campeón del mundo.",
+        "categories": [
+            "surtees",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/69_surtees_ts98_de_adamich/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Equipo histórico",
+            "Modelo poco común",
+            "Diseño clásico"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1972,
+        "team": "Surtees",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Andrea de Adamich"
     },
-    "features": [
-      "Equipo histórico",
-      "Modelo poco común",
-      "Diseño clásico"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1972,
-    "team": "Surtees",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Andrea de Adamich"
-  },
-
-  {
-    "id": 70,
-    "name": "Williams FW15C Alain Prost",
-    "description": "Williams FW15C con el que Alain Prost logró su cuarto campeonato mundial en 1993, considerado uno de los monoplazas más avanzados técnicamente de la historia.",
-    "categories": ["williams", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/williams_fw15c_prost/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 70,
+        "name": "Williams FW15C Alain Prost",
+        "description": "Williams FW15C con el que Alain Prost logró su cuarto campeonato mundial en 1993, considerado uno de los monoplazas más avanzados técnicamente de la historia.",
+        "categories": [
+            "williams",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/70_williams_fw15c_prost/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Campeón mundial",
+            "Tecnología activa",
+            "Modelo legendario"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1993,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Alain Prost"
     },
-    "features": [
-      "Campeón mundial",
-      "Tecnología activa",
-      "Modelo legendario"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1993,
-    "team": "Williams",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Alain Prost"
-  },
-
-  {
-    "id": 71,
-    "name": "McLaren MP4/23 Lewis Hamilton",
-    "description": "McLaren MP4/23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
-    "categories": ["mclaren", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/mclaren_mp4_23_hamilton/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 71,
+        "name": "McLaren MP4/23 Lewis Hamilton",
+        "description": "McLaren MP4/23 con el que Lewis Hamilton ganó su primer campeonato mundial en 2008, en uno de los finales de temporada más recordados.",
+        "categories": [
+            "mclaren",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/71_mclaren_mp4_23_hamilton/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer título de Hamilton",
+            "Final histórico",
+            "Gran nivel de detalle"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2008,
+        "team": "McLaren",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
     },
-    "features": [
-      "Primer título de Hamilton",
-      "Final histórico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2008,
-    "team": "McLaren",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Lewis Hamilton"
-  },
-
-  {
-    "id": 72,
-    "name": "Brabham BT49 Nelson Piquet",
-    "description": "Brabham BT49 con el que Nelson Piquet consiguió el campeonato mundial de 1981, destacando por su fiabilidad y eficiencia.",
-    "categories": ["brabham", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/brabham_bt49_piquet/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 72,
+        "name": "Brabham BT49 Nelson Piquet",
+        "description": "Brabham BT49 con el que Nelson Piquet consiguió el campeonato mundial de 1981, destacando por su fiabilidad y eficiencia.",
+        "categories": [
+            "brabham",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/72_brabham_bt49_piquet/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Campeón mundial",
+            "Era Cosworth",
+            "Diseño clásico"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1981,
+        "team": "Brabham",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nelson Piquet"
     },
-    "features": [
-      "Campeón mundial",
-      "Era Cosworth",
-      "Diseño clásico"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1981,
-    "team": "Brabham",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Nelson Piquet"
-  },
-
-  {
-    "id": 73,
-    "name": "Lotus 79 Mario Andretti",
-    "description": "Lotus 79 con el que Mario Andretti dominó la temporada 1978, considerado el máximo exponente del efecto suelo.",
-    "categories": ["lotus", "championship", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/lotus_79_andretti/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 73,
+        "name": "Lotus 79 Mario Andretti",
+        "description": "Lotus 79 con el que Mario Andretti dominó la temporada 1978, considerado el máximo exponente del efecto suelo.",
+        "categories": [
+            "lotus",
+            "championship",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/73_lotus_79_andretti/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Ground effect dominante",
+            "Campeón mundial",
+            "Icono de la F1"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1978,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mario Andretti"
     },
-    "features": [
-      "Ground effect dominante",
-      "Campeón mundial",
-      "Icono de la F1"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 1978,
-    "team": "Lotus",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Mario Andretti"
-  },
-
-  {
-    "id": 74,
-    "name": "Benetton B194 Michael Schumacher",
-    "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
-    "categories": ["benetton", "championship", "ixo", "classic", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/benetton_b194_schumacher_panini/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 74,
+        "name": "Benetton B194 Michael Schumacher",
+        "description": "Benetton B194 con el que Michael Schumacher logró su primer campeonato mundial, marcando el inicio de una leyenda.",
+        "categories": [
+            "benetton",
+            "championship",
+            "ixo",
+            "classic",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/74_benetton_b194_schumacher_panini/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer título de Schumacher",
+            "Modelo histórico",
+            "Gran nivel de detalle"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1994,
+        "team": "Benetton",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
     },
-    "features": [
-      "Primer título de Schumacher",
-      "Modelo histórico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": true,
-    "limitedEdition": false,
-    "year": 1994,
-    "team": "Benetton",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Michael Schumacher"
-  },
-
-  {
-    "id": 75,
-    "name": "Ferrari 312 T2 Niki Lauda - Brazilian GP",
-    "description": "Ferrari 312 T2 de Niki Lauda en configuración del Gran Premio de Brasil, representando la era clásica de Ferrari y uno de sus pilotos más emblemáticos.",
-    "categories": ["ferrari", "classic", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/ferrari_312t2_lauda_braziliangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 75,
+        "name": "Ferrari 312 T2 Niki Lauda - Brazilian GP",
+        "description": "Ferrari 312 T2 de Niki Lauda en configuración del Gran Premio de Brasil, representando la era clásica de Ferrari y uno de sus pilotos más emblemáticos.",
+        "categories": [
+            "ferrari",
+            "classic",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/75_ferrari_312t2_lauda_braziliangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración GP",
+            "Piloto legendario",
+            "Modelo clásico Ferrari"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1977,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Niki Lauda"
     },
-    "features": [
-      "Configuración GP",
-      "Piloto legendario",
-      "Modelo clásico Ferrari"
-    ],
-    "inStock": false,
-    "limitedEdition": true,
-    "year": 1977,
-    "team": "Ferrari",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Niki Lauda"
-  },
-
-  {
-    "id": 76,
-    "name": "BMW Sauber F1.08 Robert Kubica",
-    "description": "BMW Sauber F1.08 pilotado por Robert Kubica, recordado por lograr la única victoria del equipo en Fórmula 1.",
-    "categories": ["sauber", "ixo", "scale-1-43"],
-    "price": 250.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/bmw_sauber_f1_08_kubica/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista IXO"
+    {
+        "id": 76,
+        "name": "BMW Sauber F1.08 Robert Kubica",
+        "description": "BMW Sauber F1.08 pilotado por Robert Kubica, recordado por lograr la única victoria del equipo en Fórmula 1.",
+        "categories": [
+            "sauber",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/76_bmw_sauber_f1_08_kubica/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Única victoria del equipo",
+            "Modelo moderno clásico",
+            "Gran nivel de detalle"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2008,
+        "team": "BMW Sauber",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Robert Kubica"
     },
-    "features": [
-      "Única victoria del equipo",
-      "Modelo moderno clásico",
-      "Gran nivel de detalle"
-    ],
-    "inStock": false,
-    "limitedEdition": false,
-    "year": 2008,
-    "team": "BMW Sauber",
-    "manufacturer": "IXO",
-    "scale": "1:43",
-    "driver": "Robert Kubica"
-  },
-
-  {
-    "id": 77,
-    "name": "Williams FW45 Alex Albon - Singapore GP",
-    "description": "Williams FW45 pilotado por Alex Albon en el Gran Premio de Singapur. Esta edición especial reproduce una destacada actuación en un exigente circuito urbano. Incluye revista coleccionable oficial.",
-    "categories": ["williams", "scale-1-43", "salvat-collection"],
-    "price": 285.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/williams_fw45_albon_singaporegp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista Salvat con revista"
+    {
+        "id": 77,
+        "name": "Williams FW45 Alex Albon - Singapore GP",
+        "description": "Williams FW45 pilotado por Alex Albon en el Gran Premio de Singapur. Esta edición especial reproduce una destacada actuación en un exigente circuito urbano. Incluye revista coleccionable oficial.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/77_williams_fw45_albon_singaporegp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Configuración específica GP",
+            "Incluye revista coleccionable",
+            "Detalles actuales"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2023,
+        "team": "Williams",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Alex Albon"
     },
-    "features": [
-      "Configuración específica GP",
-      "Incluye revista coleccionable",
-      "Detalles actuales"
-    ],
-    "inStock": false,
-    "limitedEdition": true,
-    "year": 2023,
-    "team": "Williams",
-    "manufacturer": "Salvat",
-    "scale": "1:43",
-    "driver": "Alex Albon"
-  },
-
-  {
-    "id": 78,
-    "name": "Ferrari SF1000 Charles Leclerc - Tuscan GP",
-    "description": "Ferrari SF1000 de Charles Leclerc en el Gran Premio de Toscana 2020, celebrado como el GP número 1000 de Ferrari en Fórmula 1. Edición especial que incluye revista coleccionable oficial.",
-    "categories": ["ferrari", "scale-1-43", "salvat-collection"],
-    "price": 285.0,
-    "images": ["1.webp", "2.webp", "3.webp"],
-    "imageFolder": "images/ferrari_sf1000_leclerc_tuscangp/",
-    "specifications": {
-      "material": "Metal fundido a presión con detalles en plástico",
-      "scale": "1:43",
-      "packaging": "Caja coleccionista Salvat con revista"
+    {
+        "id": 78,
+        "name": "Ferrari SF1000 Charles Leclerc - Tuscan GP",
+        "description": "Ferrari SF1000 de Charles Leclerc en el Gran Premio de Toscana 2020, celebrado como el GP número 1000 de Ferrari en Fórmula 1. Edición especial que incluye revista coleccionable oficial.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/78_ferrari_sf1000_leclerc_tuscangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Edición conmemorativa",
+            "Incluye revista coleccionable",
+            "Livery histórico"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2020,
+        "team": "Ferrari",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
     },
-    "features": [
-      "Edición conmemorativa",
-      "Incluye revista coleccionable",
-      "Livery histórico"
-    ],
-    "inStock": true,
-    "limitedEdition": true,
-    "year": 2020,
-    "team": "Ferrari",
-    "manufacturer": "Salvat",
-    "scale": "1:43",
-    "driver": "Charles Leclerc"
-  },
     {
         "id": 79,
         "name": "Ferrari SF-25 Charles Leclerc - Miami GP",
@@ -2855,7 +3024,7 @@
             "4.webp",
             "5.webp"
         ],
-        "imageFolder": "images/ferrari_sf25_leclerc_miami/",
+        "imageFolder": "images/79_ferrari_sf25_leclerc_miami/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "340+ km/h",
@@ -2896,7 +3065,7 @@
             "4.webp",
             "5.webp"
         ],
-        "imageFolder": "images/ferrari_sf24_leclerc_monaco/",
+        "imageFolder": "images/80_ferrari_sf24_leclerc_monaco/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "335+ km/h",
@@ -2937,7 +3106,7 @@
             "4.webp",
             "5.webp"
         ],
-        "imageFolder": "images/ferrari_sf24_leclerc_italy/",
+        "imageFolder": "images/81_ferrari_sf24_leclerc_italy/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "350+ km/h",
@@ -2961,29 +3130,1802 @@
         "driver": "Charles Leclerc"
     },
     {
-  "id": 82,
-  "name": "Benetton B186 Gerhard Berger",
-  "description": "Réplica del Benetton B186, el monoplaza con el que Gerhard Berger logró su primera victoria en Fórmula 1 durante el Gran Premio de México de 1986. Este coche marcó una etapa clave para Benetton y el inicio del ascenso de Berger en la categoría reina.",
-  "categories": ["benetton", "ixo", "scale-1-43"],
-  "price": 250.0,
-  "images": ["1.webp", "2.webp", "3.webp"],
-  "imageFolder": "images/benetton_b186_berger/",
-  "specifications": {
-    "material": "Metal fundido a presión con detalles en plástico",
-    "scale": "1:43",
-    "packaging": "Caja coleccionista IXO"
-  },
-  "features": [
-    "Primera victoria de Gerhard Berger en F1",
-    "Era turbo de los años 80",
-    "Decoración clásica de Benetton"
-  ],
-  "inStock": false,
-  "limitedEdition": false,
-  "year": 1986,
-  "team": "Benetton",
-  "manufacturer": "IXO",
-  "scale": "1:43",
-  "driver": "Gerhard Berger"
-}
+        "id": 82,
+        "name": "Benetton B186 Gerhard Berger",
+        "description": "Réplica del Benetton B186, el monoplaza con el que Gerhard Berger logró su primera victoria en Fórmula 1 durante el Gran Premio de México de 1986. Este coche marcó una etapa clave para Benetton y el inicio del ascenso de Berger en la categoría reina.",
+        "categories": [
+            "benetton",
+            "ixo",
+            "scale-1-43"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/82_benetton_b186_berger/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primera victoria de Gerhard Berger en F1",
+            "Era turbo de los años 80",
+            "Decoración clásica de Benetton"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1986,
+        "team": "Benetton",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Gerhard Berger"
+    },
+    {
+        "id": 83,
+        "name": "Lotus 78 Hector Rebaque",
+        "description": "Réplica del Lotus 78, el innovador monoplaza con efecto suelo que revolucionó la Fórmula 1. Pilotado por Hector Rebaque en la temporada 1978. Incluye revista coleccionable con información técnica y detalles del piloto. Pieza de la colección editorial Salvat.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "salvat-collection",
+            "classic"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/83_lotus_78_rebaque/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Monoplaza de efecto suelo de Colin Chapman",
+            "Incluye revista coleccionable oficial",
+            "Edición de la colección Salvat"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1978,
+        "team": "Lotus",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Hector Rebaque"
+    },
+    {
+        "id": 84,
+        "name": "Ferrari F2008 Felipe Massa",
+        "description": "Réplica oficial del Ferrari F2008, el monoplaza con el que Felipe Massa estuvo a punto de conquistar el Campeonato del Mundo de 2008 en una dramática última vuelta en Brasil. Incluye revista coleccionable con información técnica y detalles del piloto. Pieza de la colección editorial Salvat.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/84_ferrari_f2008_massa/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Monoplaza subcampeón del mundo 2008",
+            "Incluye revista coleccionable oficial",
+            "Edición de la colección Salvat"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2008,
+        "team": "Ferrari",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Felipe Massa"
+    },
+    {
+        "id": 85,
+        "name": "Arrows A18 Damon Hill",
+        "description": "Réplica del Arrows A18, el monoplaza del campeón del mundo Damon Hill en su única temporada con el equipo Arrows en 1997. Incluye revista coleccionable con información técnica y detalles del piloto. Pieza de la colección editorial Salvat.",
+        "categories": [
+            "arrows",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/85_arrows_a18_hill/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Monoplaza del campeón del mundo Damon Hill",
+            "Incluye revista coleccionable oficial",
+            "Edición de la colección Salvat"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1997,
+        "team": "Arrows",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Damon Hill"
+    },
+    {
+        "id": 86,
+        "name": "McLaren MCL33 Fernando Alonso - Abu Dhabi GP",
+        "description": "Réplica oficial del McLaren MCL33 de Fernando Alonso en su configuración especial para el Gran Premio de Abu Dhabi 2018, última carrera del bicampeón español con McLaren. Incluye revista coleccionable con información técnica. Pieza de la colección editorial Salvat.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/86_mclaren_mcl33_alonso_abudhabi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Abu Dhabi",
+            "Última carrera de Alonso con McLaren",
+            "Incluye revista coleccionable oficial"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2018,
+        "team": "McLaren",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 87,
+        "name": "Mercedes W11 Valtteri Bottas - Abu Dhabi GP",
+        "description": "Réplica oficial del Mercedes W11 de Valtteri Bottas en el Gran Premio de Abu Dhabi 2020, último GP de la temporada del monoplaza campeón del mundo. Incluye revista coleccionable con información técnica. Pieza de la colección editorial Salvat.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 285.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/87_mercedes_w11_bottas_abudhabi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Salvat con revista"
+        },
+        "features": [
+            "Configuración especial del GP de Abu Dhabi",
+            "Monoplaza del dominador año 2020",
+            "Incluye revista coleccionable oficial"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2020,
+        "team": "Mercedes",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Valtteri Bottas"
+    },
+    {
+        "id": 88,
+        "name": "Force India VJM09 Sergio Pérez",
+        "description": "Réplica del Force India VJM09, el monoplaza con el que Sergio 'Checo' Pérez demostró su enorme talento en la temporada 2016, logrando destacadas actuaciones con el equipo Force India y situándolo en el radar de los grandes equipos.",
+        "categories": [
+            "force-india",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 375.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/88_force_india_vjm09_perez/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO",
+            "Monoplaza de Checo Pérez temporada 2016"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2016,
+        "team": "Force India",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sergio Pérez"
+    },
+    {
+        "id": 89,
+        "name": "Benetton B196 Jean Alesi",
+        "description": "Réplica del Benetton B196 de Jean Alesi en la temporada 1996, año en que el carismático piloto franco-italiano continuó su etapa en Benetton tras su famosa victoria en el Gran Premio de Canadá con Ferrari.",
+        "categories": [
+            "benetton",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/89_benetton_b196_alesi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO",
+            "Monoplaza de Jean Alesi en Benetton"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1996,
+        "team": "Benetton",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jean Alesi"
+    },
+    {
+        "id": 90,
+        "name": "ATS PC4 Jean-Pierre Jarier",
+        "description": "Réplica del ATS PC4 de Jean-Pierre Jarier, el monoplaza del equipo alemán ATS (Auto Technisches Spezialzubehör) con el que el veloz piloto francés conocido como 'Monsieur Belle Humeur' compitió en la temporada 1977.",
+        "categories": [
+            "ats",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/90_ats_pc4_jarier/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza clásico",
+            "Acabados de alta calidad IXO",
+            "Pieza de colección de los años 70"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1977,
+        "team": "ATS",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jean-Pierre Jarier"
+    },
+    {
+        "id": 91,
+        "name": "McLaren MP4/14 Mika Häkkinen",
+        "description": "Réplica oficial del McLaren MP4/14, el monoplaza con el que Mika Häkkinen se proclamó Campeón del Mundo de Fórmula 1 por segundo año consecutivo en 1999, confirmando el dominio del finlandés y del equipo McLaren-Mercedes.",
+        "categories": [
+            "mclaren",
+            "championship",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/91_mclaren_mp414_hakkinen/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza campeón del mundo 1999",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1999,
+        "team": "McLaren",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mika Häkkinen"
+    },
+    {
+        "id": 92,
+        "name": "Ferrari 312 B2 Mario Andretti",
+        "description": "Réplica del clásico Ferrari 312 B2 de Mario Andretti en la temporada 1972. Un monoplaza icónico de la era clásica de Ferrari, representante del gran progreso técnico del equipo de Maranello a principios de los años 70.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/92_ferrari_312b2_andretti/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza clásico Ferrari de los años 70",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1972,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mario Andretti"
+    },
+    {
+        "id": 93,
+        "name": "Renault R31 Vitaly Petrov",
+        "description": "Réplica del Renault R31 de Vitaly Petrov en la temporada 2011, año en que el piloto ruso logró destacadas actuaciones con el equipo francés, siendo uno de los representantes del resurgir de Renault en la Fórmula 1.",
+        "categories": [
+            "renault",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/93_renault_r31_petrov/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO",
+            "Monoplaza Renault temporada 2011"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2011,
+        "team": "Renault",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Vitaly Petrov"
+    },
+    {
+        "id": 94,
+        "name": "McLaren MP4/4 Ayrton Senna",
+        "description": "Réplica del icónico McLaren MP4/4 de Ayrton Senna, el coche más dominante de la historia de la Fórmula 1. En 1988 ganó 15 de 16 carreras con este monoplaza, temporada en que Senna conquistó su primer título mundial. Una pieza de colección imprescindible.",
+        "categories": [
+            "mclaren",
+            "senna",
+            "championship",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/94_mclaren_mp44_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza campeón del mundo 1988",
+            "El McLaren más dominante de la historia",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1988,
+        "team": "McLaren",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 95,
+        "name": "Lotus 56B Emerson Fittipaldi",
+        "description": "Réplica del revolucionario Lotus 56B de Emerson Fittipaldi, el innovador monoplaza turbina de gas de Colin Chapman que corrió en la temporada 1971. Una pieza única y singular de la historia de la Fórmula 1.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/95_lotus_56b_fittipaldi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Innovador monoplaza de turbina de gas",
+            "Diseño revolucionario de Colin Chapman",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1971,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Emerson Fittipaldi"
+    },
+    {
+        "id": 96,
+        "name": "BRM P153 Jackie Oliver",
+        "description": "Réplica del BRM P153 de Jackie Oliver en la temporada 1970, el monoplaza del célebre equipo británico British Racing Motors en la era clásica de la Fórmula 1, conocido por sus potentes motores de 12 cilindros.",
+        "categories": [
+            "brm",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/96_brm_p153_oliver/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Motor BRM V12 clásico",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1970,
+        "team": "BRM",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jackie Oliver"
+    },
+    {
+        "id": 97,
+        "name": "Ferrari F2007 Kimi Räikkönen - Australian GP",
+        "description": "Réplica del Ferrari F2007 de Kimi Räikkönen en su configuración especial del Gran Premio de Australia 2007, inicio de la temporada en que el Iceman conquistó el Campeonato del Mundo con Ferrari en la última vuelta de la última carrera.",
+        "categories": [
+            "ferrari",
+            "championship",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/97_ferrari_f2007_raikkonen_australiangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración especial del GP de Australia",
+            "Monoplaza campeón del mundo 2007",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2007,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Kimi Räikkönen"
+    },
+    {
+        "id": 98,
+        "name": "McLaren MP4/8 Ayrton Senna",
+        "description": "Réplica del McLaren MP4/8 de Ayrton Senna en la temporada 1993, el último año completo del legendario piloto brasileño con McLaren. Senna logró cinco victorias a pesar de la superioridad del Williams-Renault, en una muestra de su maestría al volante.",
+        "categories": [
+            "mclaren",
+            "senna",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/98_mclaren_mp48_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Último año completo de Senna con McLaren",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1993,
+        "team": "McLaren",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 99,
+        "name": "Red Bull RB14 Daniel Ricciardo",
+        "description": "Réplica oficial del Red Bull RB14 de Daniel Ricciardo en la temporada 2018, el último año del carismático australiano con Red Bull Racing. Ricciardo logró dos victorias ese año antes de iniciar una nueva etapa en su carrera.",
+        "categories": [
+            "red-bull",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/99_redbull_rb14_ricciardo/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Último año de Ricciardo en Red Bull",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2018,
+        "team": "Red Bull Racing",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Daniel Ricciardo"
+    },
+    {
+        "id": 100,
+        "name": "Mercedes W08 Lewis Hamilton",
+        "description": "Réplica del Mercedes W08 EQ Power+ de Lewis Hamilton, el monoplaza con el que conquistó su cuarto Campeonato del Mundo en 2017, dominando la temporada con el equipo de Brackley y consolidando su posición entre los grandes de la historia.",
+        "categories": [
+            "mercedes",
+            "championship",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/100_mercedes_w08_hamilton/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza campeón del mundo 2017",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2017,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
+    },
+    {
+        "id": 101,
+        "name": "Brabham BT44 Carlos Reutemann",
+        "description": "Réplica del Brabham BT44 de Carlos Reutemann en la temporada 1974, uno de los monoplazas con los que el 'Lole' argentino demostró su enorme velocidad, siendo uno de los pilotos más rápidos del pelotón en los años 70.",
+        "categories": [
+            "brabham",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/101_brabham_bt44_reutemann/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza clásico de los años 70",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1974,
+        "team": "Brabham",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Carlos Reutemann"
+    },
+    {
+        "id": 102,
+        "name": "Hesketh 308B James Hunt",
+        "description": "Réplica del Hesketh 308B de James Hunt en la temporada 1975, el peculiar monoplaza del extravagante equipo Hesketh con el que el futuro campeón del mundo mostró su extraordinario talento al volante antes de fichar por McLaren.",
+        "categories": [
+            "hesketh",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/102_hesketh_308b_hunt/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza del futuro campeón James Hunt",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1975,
+        "team": "Hesketh",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "James Hunt"
+    },
+    {
+        "id": 103,
+        "name": "Brabham BT55 Riccardo Patrese",
+        "description": "Réplica del innovador Brabham BT55, el polémico 'coche plano' diseñado por Gordon Murray para la temporada 1986. Pilotado por Riccardo Patrese, fue uno de los diseños más originales y controvertidos de la era turbo de la Fórmula 1.",
+        "categories": [
+            "brabham",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/103_brabham_bt55_patrese/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "El innovador diseño plano de Gordon Murray",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1986,
+        "team": "Brabham",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Riccardo Patrese"
+    },
+    {
+        "id": 104,
+        "name": "Vanwall 57 Stirling Moss",
+        "description": "Réplica del histórico Vanwall 57 de Stirling Moss, el monoplaza británico que protagonizó la primera victoria de un constructor inglés en la Fórmula 1. Pieza fundamental de la historia de la F1, con Moss como uno de sus protagonistas principales.",
+        "categories": [
+            "vanwall",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/104_vanwall_57_moss/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Pionero del automovilismo británico en F1",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1957,
+        "team": "Vanwall",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Stirling Moss"
+    },
+    {
+        "id": 105,
+        "name": "Honda RA300 John Surtees",
+        "description": "Réplica del Honda RA300 de John Surtees en la temporada 1967, el potente monoplaza japonés equipado con motor V12 pilotado por el único piloto en la historia en ser campeón del mundo tanto en motos como en coches.",
+        "categories": [
+            "honda",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/105_honda_ra300_surtees/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Motor Honda V12 de la era clásica",
+            "Pilotado por el legendario John Surtees",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1967,
+        "team": "Honda",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "John Surtees"
+    },
+    {
+        "id": 106,
+        "name": "Williams FW04 Jacques Laffite",
+        "description": "Réplica del Williams FW04 de Jacques Laffite en la temporada 1975, uno de los primeros monoplazas del equipo creado por Frank Williams en sus inicios en la Fórmula 1, antes de convertirse en uno de los grandes de la historia.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/106_williams_fw04_laffite/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "De los primeros monoplazas de Frank Williams",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1975,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jacques Laffite"
+    },
+    {
+        "id": 107,
+        "name": "Ligier JS21 Raul Boesel",
+        "description": "Réplica del Ligier JS21 de Raul Boesel en la temporada 1983, el monoplaza del histórico equipo francés Ligier fundado por Guy Ligier. Un representante del mítico azul francés en los años de oro de la F1.",
+        "categories": [
+            "ligier",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/107_ligier_js21_boesel/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza del equipo francés Ligier",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1983,
+        "team": "Ligier",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Raul Boesel"
+    },
+    {
+        "id": 108,
+        "name": "Wolf WR1 Jody Scheckter",
+        "description": "Réplica del legendario Wolf WR1 de Jody Scheckter, el monoplaza con el que Walter Wolf Racing debutó ganando en Argentina en 1977, uno de los debuts más exitosos en la historia de la Fórmula 1. Una pieza de colección singular.",
+        "categories": [
+            "wolf",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/108_wolf_wr1_scheckter/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Victoria en el debut del equipo Wolf en Argentina",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1977,
+        "team": "Wolf",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jody Scheckter"
+    },
+    {
+        "id": 109,
+        "name": "March 751 Leila Lombardi",
+        "description": "Réplica del March 751 de Leila Lombardi, la única mujer en la historia de la Fórmula 1 en conseguir puntos en el Campeonato del Mundo. Una pieza histórica e irrepetible de la máxima categoría del automovilismo.",
+        "categories": [
+            "march",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/109_march_751_lombardi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "La única mujer en puntuar en F1",
+            "Pieza histórica única de la Fórmula 1",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1975,
+        "team": "March",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Leila Lombardi"
+    },
+    {
+        "id": 110,
+        "name": "Tyrrell 011 Michele Alboreto",
+        "description": "Réplica del Tyrrell 011 de Michele Alboreto en la temporada 1982, el monoplaza del equipo de Ken Tyrrell con el que el italiano demostró su talento en sus primeras etapas en Fórmula 1, logrando su primera victoria en Las Vegas.",
+        "categories": [
+            "tyrrell",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/110_tyrrell_011_alboreto/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primera victoria de Alboreto en Las Vegas 1982",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1982,
+        "team": "Tyrrell",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michele Alboreto"
+    },
+    {
+        "id": 111,
+        "name": "Lotus 80 Mario Andretti",
+        "description": "Réplica del ambicioso Lotus 80 de Mario Andretti en la temporada 1979, el controvertido sucesor del exitoso Lotus 79 diseñado con el concepto de efecto suelo total por Colin Chapman. Una pieza audaz de la historia de la F1.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/111_lotus_80_andretti/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Diseño de efecto suelo de Colin Chapman",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mario Andretti"
+    },
+    {
+        "id": 112,
+        "name": "Toyota TF104B Jarno Trulli",
+        "description": "Réplica del Toyota TF104B de Jarno Trulli en la segunda parte de la temporada 2004, el monoplaza del fabricante japonés con el que el italiano alcanzó resultados notables, incluyendo su primera victoria en el GP de Mónaco.",
+        "categories": [
+            "toyota",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/112_toyota_tf104b_trulli/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza Toyota de la era 2000",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2004,
+        "team": "Toyota",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jarno Trulli"
+    },
+    {
+        "id": 113,
+        "name": "Lotus 43 Jim Clark",
+        "description": "Réplica del innovador Lotus 43 de Jim Clark en la temporada 1966, el monoplaza de Colin Chapman equipado con el singular motor BRM H16 de 16 cilindros. Un diseño experimental que forma parte de la historia técnica de la Fórmula 1.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/113_lotus_43_clark/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Motor BRM H16 de 16 cilindros",
+            "Pilotado por el legendario Jim Clark",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1966,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jim Clark"
+    },
+    {
+        "id": 114,
+        "name": "March 751 Ronnie Peterson",
+        "description": "Réplica del March 751 de Ronnie Peterson, el veloz piloto sueco conocido como el 'Superswede' que destacó por su extraordinaria velocidad en carrera. Una pieza del equipo March Engineering que representa la esencia del pilotaje agresivo de los años 70.",
+        "categories": [
+            "march",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/114_march_751_peterson/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza del veloz 'Superswede' Peterson",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1976,
+        "team": "March",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ronnie Peterson"
+    },
+    {
+        "id": 115,
+        "name": "Arrows A1B Riccardo Patrese",
+        "description": "Réplica del Arrows A1B de Riccardo Patrese en la temporada 1979, el monoplaza del equipo Arrows en sus primeros años de vida en la Fórmula 1. Patrese iniciaba con este coche su larga y exitosa carrera en la máxima categoría.",
+        "categories": [
+            "arrows",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/115_arrows_a1b_patrese/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza de los inicios del equipo Arrows",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Arrows",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Riccardo Patrese"
+    },
+    {
+        "id": 116,
+        "name": "Ferrari F399 Mika Salo",
+        "description": "Réplica del Ferrari F399 de Mika Salo, el piloto finlandés que sustituyó al lesionado Michael Schumacher en la segunda mitad de la temporada 1999. Salo rindió a un gran nivel, incluyendo un generoso gesto en el GP de Alemania.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/116_ferrari_f399_salo/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Sustituto de Schumacher en Ferrari 1999",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1999,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mika Salo"
+    },
+    {
+        "id": 117,
+        "name": "Alfa Romeo 177 Vittorio Brambilla - Italian GP",
+        "description": "Réplica del Alfa Romeo 177 de Vittorio Brambilla en su configuración especial para el Gran Premio de Italia 1979 en Monza. El equipo Alfa Romeo regresaba entonces como constructor propio a la Fórmula 1, ante su público en casa.",
+        "categories": [
+            "alfa-romeo",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/117_alfa_romeo_177_brambilla_italiangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración especial del GP de Italia",
+            "Regreso de Alfa Romeo como constructor",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1979,
+        "team": "Alfa Romeo",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Vittorio Brambilla"
+    },
+    {
+        "id": 118,
+        "name": "Renault RS01 Jean-Pierre Jabouille",
+        "description": "Réplica del histórico Renault RS01 de Jean-Pierre Jabouille, el primer monoplaza turbo de la historia de la Fórmula 1, que revolucionó la tecnología de los motores. Una pieza fundamental e irrepetible de la historia de la F1 moderna.",
+        "categories": [
+            "renault",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/118_renault_rs01_jabouille/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "El primer turbo de la historia de la F1",
+            "Revolución tecnológica de Renault",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1977,
+        "team": "Renault",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jean-Pierre Jabouille"
+    },
+    {
+        "id": 119,
+        "name": "Arrows A2 Jochen Mass",
+        "description": "Réplica del Arrows A2 de Jochen Mass en la temporada 1979, uno de los primeros diseños del equipo Arrows con el que el veterano piloto alemán continuó su etapa en la Fórmula 1 tras sus años en McLaren y March.",
+        "categories": [
+            "arrows",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/119_arrows_a2_mass/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza del equipo Arrows temporada 1979",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Arrows",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jochen Mass"
+    },
+    {
+        "id": 120,
+        "name": "Penske PC4 John Watson",
+        "description": "Réplica del Penske PC4 de John Watson en la temporada 1976, el monoplaza del equipo americano Penske con el que el piloto norirlandés logró su primera y única victoria en Fórmula 1 en el Gran Premio de Austria.",
+        "categories": [
+            "penske",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/120_penske_pc4_watson/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza ganador del GP de Austria 1976",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1976,
+        "team": "Penske",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "John Watson"
+    },
+    {
+        "id": 121,
+        "name": "Shadow DN9 Jan Lammers",
+        "description": "Réplica del Shadow DN9 de Jan Lammers en la temporada 1979, el monoplaza del equipo americano Shadow con el que el piloto holandés disputó su única temporada completa en la Fórmula 1.",
+        "categories": [
+            "shadow",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/121_shadow_dn9_lammers/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza del equipo Shadow temporada 1979",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Shadow",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jan Lammers"
+    },
+    {
+        "id": 122,
+        "name": "Lotus 100T Nelson Piquet",
+        "description": "Réplica del Lotus 100T de Nelson Piquet en la temporada 1988, el Honda-Lotus con motor turbo con el que el tricampeón del mundo disputó una de sus últimas temporadas de alto nivel en la Fórmula 1 antes de fichar por Benetton.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/122_lotus_100t_piquet/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Motor Honda turbo temporada 1988",
+            "Pilotado por el tricampeón Piquet",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1988,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nelson Piquet"
+    },
+    {
+        "id": 123,
+        "name": "Alfa Romeo 177 Bruno Giacomelli",
+        "description": "Réplica del Alfa Romeo 177 de Bruno Giacomelli en la temporada 1979, el monoplaza del equipo italiano con el que el piloto de Brescia inició su etapa en la Fórmula 1, mostrando una velocidad prometedora con el resurgir de Alfa Romeo.",
+        "categories": [
+            "alfa-romeo",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/123_alfa_romeo_177_giacomelli/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Regreso de Alfa Romeo a la F1 en 1979",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Alfa Romeo",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Bruno Giacomelli"
+    },
+    {
+        "id": 124,
+        "name": "HRT F110 Bruno Senna",
+        "description": "Réplica del HRT F110 de Bruno Senna, el sobrino del legendario Ayrton Senna que regresó a la Fórmula 1 en 2010 con el recién llegado equipo español HRT (Hispania Racing Team). Una pieza que une dos generaciones de la familia Senna.",
+        "categories": [
+            "hrt",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/124_hrt_f110_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Debut del equipo español HRT en F1",
+            "El sobrino de Ayrton Senna al volante",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2010,
+        "team": "HRT",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Bruno Senna"
+    },
+    {
+        "id": 125,
+        "name": "Ferrari 312 B3 Clay Regazzoni - Brazilian GP",
+        "description": "Réplica del Ferrari 312 B3 de Clay Regazzoni en su configuración especial del Gran Premio de Brasil 1975 en Interlagos. El monoplaza del equipo de Maranello en una de las temporadas más emotivas de la Fórmula 1 clásica.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/125_ferrari_312b3_regazzoni_braziliangp/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración especial del GP de Brasil",
+            "Monoplaza Ferrari clásico de los años 70",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1975,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Clay Regazzoni"
+    },
+    {
+        "id": 126,
+        "name": "Shadow DN9 Elio de Angelis",
+        "description": "Réplica del Shadow DN9 de Elio de Angelis en la temporada 1979, el debut del talentoso piloto romano en la Fórmula 1. De Angelis mostraría en los años siguientes con Lotus su brillante talento antes de su trágica muerte en 1986.",
+        "categories": [
+            "shadow",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/126_shadow_dn9_deangelis/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Debut de Elio de Angelis en la F1",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1979,
+        "team": "Shadow",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Elio de Angelis"
+    },
+    {
+        "id": 127,
+        "name": "Hesketh 308B Alan Jones - Monaco GP",
+        "description": "Réplica del Hesketh 308B de Alan Jones en su configuración especial del Gran Premio de Mónaco 1975. El futuro campeón del mundo australiano demostraba su talento con el excéntrico equipo Hesketh en el circuito más icónico de la Fórmula 1.",
+        "categories": [
+            "hesketh",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/127_hesketh_308b_jones_monaco/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración especial del GP de Mónaco",
+            "Futuro campeón Alan Jones al volante",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1975,
+        "team": "Hesketh",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Alan Jones"
+    },
+    {
+        "id": 128,
+        "name": "Ferrari SF70H Sebastian Vettel",
+        "description": "Réplica del Ferrari SF70H de Sebastian Vettel en la temporada 2017, el monoplaza con el que el cuádruple campeón alemán peleó palmo a palmo con Lewis Hamilton por el título mundial, en una de las batallas más emocionantes de la última década.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/128_ferrari_sf70h_vettel/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Monoplaza de la batalla Vettel-Hamilton 2017",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2017,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sebastian Vettel"
+    },
+    {
+        "id": 129,
+        "name": "March 711 Ronnie Peterson - Monaco GP",
+        "description": "Réplica del March 711 de Ronnie Peterson en su configuración especial del Gran Premio de Mónaco 1971. El 'Superswede' era ya una de las promesas más brillantes de la Fórmula 1, deslumbrando por su velocidad en el circuito urbano más exigente.",
+        "categories": [
+            "march",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/129_march_711_peterson_monaco/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Configuración especial del GP de Mónaco",
+            "El talento del 'Superswede' Ronnie Peterson",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1971,
+        "team": "March",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ronnie Peterson"
+    },
+    {
+        "id": 130,
+        "name": "Stewart SF3 Johnny Herbert",
+        "description": "Réplica del Stewart SF3 de Johnny Herbert en la temporada 1999, el monoplaza del equipo fundado por el tricampeón Sir Jackie Stewart. Herbert logró con este coche la victoria en el GP de Europa en el Nürburgring en una carrera caótica.",
+        "categories": [
+            "stewart",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/130_stewart_sf3_herbert/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Ganador del GP de Europa 1999 en Nürburgring",
+            "Equipo fundado por el campeón Jackie Stewart",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1999,
+        "team": "Stewart",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Johnny Herbert"
+    },
+    {
+        "id": 131,
+        "name": "Tecno PA123 Nanni Galli",
+        "description": "Réplica del Tecno PA123 de Nanni Galli en la temporada 1972, el singular monoplaza del equipo italiano Tecno que intentó dar el salto de las monoplazas de Fórmula 2 a la Fórmula 1. Una pieza de colección de gran rareza histórica.",
+        "categories": [
+            "tecno",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/131_tecno_pa123_galli/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Rarísima pieza histórica del equipo Tecno",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1972,
+        "team": "Tecno",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nanni Galli"
+    },
+    {
+        "id": 132,
+        "name": "Mercedes-Benz AMG GT-R Safety Car 2021 - Limited Edition",
+        "description": "Safety Car oficial de la Fórmula 1 temporada 2021. El Mercedes-Benz AMG GT-R manejado por Bernd Mayländer en sus intervenciones en pista durante una de las temporadas más emocionantes de la historia, que acabó con el dramático título de Verstappen en Abu Dhabi. Edición limitada.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 425.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/132_mercedes_sc_maylaender_2021/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada"
+        },
+        "features": [
+            "Safety Car oficial F1 temporada 2021",
+            "Edición limitada de colección",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Bernd Mayländer"
+    },
+    {
+        "id": 133,
+        "name": "Mercedes-Benz AMG GT-R Safety Car 2020 - Red Limited Edition",
+        "description": "Safety Car oficial de la Fórmula 1 temporada 2020 en su exclusiva variante roja. El Mercedes-Benz AMG GT-R manejado por Bernd Mayländer en la histórica temporada dominada por Lewis Hamilton, quien conquistó su séptimo título mundial igualando el récord de Schumacher. Edición limitada en color rojo.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 425.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/133_mercedes_sc_red2020_maylaender/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada roja"
+        },
+        "features": [
+            "Safety Car oficial F1 temporada 2020",
+            "Variante roja exclusiva edición limitada",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2020,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Bernd Mayländer"
+    },
+    {
+        "id": 134,
+        "name": "Mercedes-Benz AMG GT-R Safety Car 2020 - Gray Limited Edition",
+        "description": "Safety Car oficial de la Fórmula 1 temporada 2020 en su exclusiva variante gris. El Mercedes-Benz AMG GT-R manejado por Bernd Mayländer durante la temporada del séptimo título de Lewis Hamilton. Edición limitada en color gris especial para coleccionistas.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 425.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/134_mercedes_sc_gray2020_maylaender/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada gris"
+        },
+        "features": [
+            "Safety Car oficial F1 temporada 2020",
+            "Variante gris exclusiva edición limitada",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2020,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Bernd Mayländer"
+    }
 ]

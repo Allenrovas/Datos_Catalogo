@@ -302,5 +302,122 @@
     "icon": "lucide:flag",
     "type": "team",
     "imagePath": "images/teams/bar.svg"
+  },
+  {
+    "id": "arrows",
+    "name": "Arrows F1 Team",
+    "description": "El equipo británico que compitió en F1 de 1978 a 2002",
+    "variant": "variant-filled-warning",
+    "icon": "lucide:arrow-right",
+    "type": "team",
+    "imagePath": "images/teams/arrows.svg"
+  },
+  {
+    "id": "force-india",
+    "name": "Force India",
+    "description": "El equipo indio-británico que sorprendió a la F1 en los 2010",
+    "variant": "variant-filled-warning",
+    "icon": "lucide:zap",
+    "type": "team",
+    "imagePath": "images/teams/force-india.svg"
+  },
+  {
+    "id": "ats",
+    "name": "ATS (Auto Technisches Spezialzubehör)",
+    "description": "El equipo alemán de los años 70 y 80",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:cog",
+    "type": "team",
+    "imagePath": "images/teams/ats.svg"
+  },
+  {
+    "id": "hesketh",
+    "name": "Hesketh Racing",
+    "description": "El excéntrico equipo privado británico de los años 70",
+    "variant": "variant-filled-error",
+    "icon": "lucide:crown",
+    "type": "team",
+    "imagePath": "images/teams/hesketh.svg"
+  },
+  {
+    "id": "wolf",
+    "name": "Wolf Racing",
+    "description": "El equipo de Walter Wolf que debutó ganando en Argentina 1977",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:triangle",
+    "type": "team",
+    "imagePath": "images/teams/wolf.svg"
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota F1",
+    "description": "El fabricante japonés en la Fórmula 1 de 2002 a 2009",
+    "variant": "variant-filled-error",
+    "icon": "lucide:car",
+    "type": "team",
+    "imagePath": "images/teams/toyota.svg"
+  },
+  {
+    "id": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "description": "La histórica marca italiana con múltiples etapas en la F1",
+    "variant": "variant-filled-error",
+    "icon": "lucide:shield",
+    "type": "team",
+    "imagePath": "images/teams/alfa-romeo.svg"
+  },
+  {
+    "id": "penske",
+    "name": "Penske Racing",
+    "description": "El equipo americano de Roger Penske en la F1 de los años 70",
+    "variant": "variant-filled-primary",
+    "icon": "lucide:flag",
+    "type": "team",
+    "imagePath": "images/teams/penske.svg"
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow Racing Cars",
+    "description": "El equipo americano de Don Nichols en la F1 de los años 70",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:moon",
+    "type": "team",
+    "imagePath": "images/teams/shadow.svg"
+  },
+  {
+    "id": "hrt",
+    "name": "HRT (Hispania Racing Team)",
+    "description": "El equipo español que debutó en la F1 en 2010",
+    "variant": "variant-filled-error",
+    "icon": "lucide:flag",
+    "type": "team",
+    "imagePath": "images/teams/hrt.svg"
+  },
+  {
+    "id": "stewart",
+    "name": "Stewart Grand Prix",
+    "description": "El equipo fundado por el tricampeón Sir Jackie Stewart",
+    "variant": "variant-filled-tertiary",
+    "icon": "lucide:trophy",
+    "type": "team",
+    "imagePath": "images/teams/stewart.svg"
+  },
+  {
+    "id": "tecno",
+    "name": "Tecno",
+    "description": "El singular equipo italiano que participó en F1 en 1972-73",
+    "variant": "variant-filled-surface",
+    "icon": "lucide:wrench",
+    "type": "team",
+    "imagePath": "images/teams/tecno.svg"
+  },
+  {
+    "id": "honda",
+    "name": "Honda Racing",
+    "description": "El fabricante japonés en sus distintas etapas en la Fórmula 1",
+    "variant": "variant-filled-error",
+    "icon": "lucide:zap",
+    "type": "team",
+    "imagePath": "images/teams/honda.svg"
   }
 ]
