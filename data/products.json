@@ -831,9 +831,7 @@
         "images": [
             "1.webp",
             "2.webp",
-            "3.webp",
-            "4.webp",
-            "5.webp"
+            "3.webp"
         ],
         "imageFolder": "images/21_ferrari_312t3_scheckter/",
         "specifications": {
@@ -853,7 +851,7 @@
             "Modelo histórico de Ferrari",
             "Último título Ferrari de los 70"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1979,
         "team": "Ferrari",
@@ -1454,7 +1452,7 @@
             "Temporada histórica de 1982",
             "Único título de Rosberg"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1982,
         "team": "Williams",
@@ -2861,7 +2859,7 @@
             "Modelo histórico",
             "Gran nivel de detalle"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1994,
         "team": "Benetton",
@@ -2964,7 +2962,7 @@
             "Incluye revista coleccionable",
             "Detalles actuales"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2023,
         "team": "Williams",
@@ -2998,7 +2996,7 @@
             "Incluye revista coleccionable",
             "Livery histórico"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2020,
         "team": "Ferrari",
@@ -3121,7 +3119,7 @@
             "Numeración oficial de Leclerc (#16)",
             "Edición especial para tifosi y coleccionistas"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2024,
         "team": "Ferrari",
@@ -3222,7 +3220,7 @@
             "Incluye revista coleccionable oficial",
             "Edición de la colección Salvat"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 2008,
         "team": "Ferrari",
@@ -3289,7 +3287,7 @@
             "Última carrera de Alonso con McLaren",
             "Incluye revista coleccionable oficial"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2018,
         "team": "McLaren",
@@ -3874,40 +3872,6 @@
         "manufacturer": "IXO",
         "scale": "1:43",
         "driver": "Riccardo Patrese"
-    },
-    {
-        "id": 104,
-        "name": "Vanwall 57 Stirling Moss",
-        "description": "Réplica del histórico Vanwall 57 de Stirling Moss, el monoplaza británico que protagonizó la primera victoria de un constructor inglés en la Fórmula 1. Pieza fundamental de la historia de la F1, con Moss como uno de sus protagonistas principales.",
-        "categories": [
-            "vanwall",
-            "scale-1-43",
-            "ixo",
-            "classic"
-        ],
-        "price": 250.0,
-        "images": [
-            "1.webp",
-            "2.webp"
-        ],
-        "imageFolder": "images/104_vanwall_57_moss/",
-        "specifications": {
-            "material": "Metal fundido a presión con detalles en plástico",
-            "scale": "1:43",
-            "packaging": "Caja coleccionista IXO"
-        },
-        "features": [
-            "Pionero del automovilismo británico en F1",
-            "Detalles auténticos del monoplaza original",
-            "Acabados de alta calidad IXO"
-        ],
-        "inStock": false,
-        "limitedEdition": false,
-        "year": 1957,
-        "team": "Vanwall",
-        "manufacturer": "IXO",
-        "scale": "1:43",
-        "driver": "Stirling Moss"
     },
     {
         "id": 105,
@@ -4920,12 +4884,47 @@
             "Variante gris exclusiva edición limitada",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2020,
         "team": "Mercedes",
         "manufacturer": "IXO",
         "scale": "1:43",
         "driver": "Bernd Mayländer"
+    },
+    {
+        "id" : 135,
+        "name": "Ferrari F2002 Michael Schumacher",
+        "description": "Réplica del Ferrari F2002 de Michael Schumacher en la temporada 2002, el monoplaza con el que el piloto alemán dominó la Fórmula 1 de manera aplastante, conquistando su quinto título mundial y estableciendo récords de victorias y poles. Un icono de la era Schumacher en Ferrari.",
+        "categories": [
+            "ferrari",
+            "scale-1-24",
+            "ixo",
+            "championship"
+        ],
+        "price": 550.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/135_ferrari_f2002_schumacher/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:24",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Réplica del Ferrari F2002 de Michael Schumacher",
+            "Edición limitada IXO",
+            "Acabados de alta calidad"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2002,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:24",
+        "driver": "Michael Schumacher"
     }
 ]
