@@ -224,6 +224,14 @@
     "type": "scale"
   },
   {
+  "id": "scale-1-24",
+  "name": "1:24",
+  "description": "Escala de colección popular",
+  "variant": "variant-soft-primary",
+  "icon": "lucide:ruler",
+  "type": "scale"
+  },
+  {
     "id": "senna",
     "name": "Ayrton Senna",
     "description": "El legendario piloto brasileño, tricampeón mundial",
