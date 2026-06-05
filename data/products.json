@@ -4850,7 +4850,7 @@
             "Variante roja exclusiva edición limitada",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2020,
         "team": "Mercedes",
@@ -4884,7 +4884,7 @@
             "Variante gris exclusiva edición limitada",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2020,
         "team": "Mercedes",
