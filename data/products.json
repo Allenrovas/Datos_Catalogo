@@ -3220,7 +3220,7 @@
             "Incluye revista coleccionable oficial",
             "Edición de la colección Salvat"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2008,
         "team": "Ferrari",
