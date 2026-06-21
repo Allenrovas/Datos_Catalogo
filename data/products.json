@@ -489,7 +489,7 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 295.0,
+        "price": 250.0,
         "images": [
             "1.webp",
             "2.webp"
@@ -512,7 +512,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo histórico de campeonato"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 2005,
         "team": "Renault",
@@ -1108,10 +1108,12 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 275.0,
+        "price": 250.0,
         "images": [
             "1.webp",
-            "2.webp"
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/28_mclaren_m23_hunt/",
         "specifications": {
@@ -1130,7 +1132,7 @@
             "Campeonato histórico dramático",
             "Livery Marlboro clásica"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1976,
         "team": "McLaren",
@@ -1310,10 +1312,12 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 275.0,
+        "price": 250.0,
         "images": [
             "1.webp",
-            "2.webp"
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/33_mclaren_m23_villeneuve/",
         "specifications": {
@@ -1332,7 +1336,7 @@
             "Numeración histórica de Villeneuve",
             "Momento icónico de la F1"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1977,
         "team": "McLaren",
@@ -2404,7 +2408,7 @@
             "Ferrari campeón",
             "Piloto legendario"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2001,
         "team": "Ferrari",
@@ -2544,7 +2548,7 @@
             "Campeón mundial",
             "Modelo histórico"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 2014,
         "team": "Mercedes",
@@ -3558,7 +3562,7 @@
             "El McLaren más dominante de la historia",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1988,
         "team": "McLaren",
@@ -4926,5 +4930,675 @@
         "manufacturer": "IXO",
         "scale": "1:24",
         "driver": "Michael Schumacher"
+    },
+    {
+        "id": 136,
+        "name": "Toleman TG184 Ayrton Senna - Portuguese GP",
+        "description": "Réplica del Toleman TG184 de Ayrton Senna en su configuración especial del GP de Portugal 1984, la última carrera del piloto brasileño con el equipo, en la que Senna, ya confirmado para Lotus en 1985, cerró su etapa en Toleman con un meritorio tercer puesto, mientras Niki Lauda se coronaba campeón del mundo por apenas medio punto sobre Alain Prost, el margen más estrecho en la historia de la Fórmula 1.",
+        "categories": [
+            "toleman",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/136_toleman_tg184_senna_portugal/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada"
+        },
+        "features": [
+            "Configuración especial del GP de Portugal 1984",
+            "Último podio de Senna con Toleman",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 1984,
+        "team": "Toleman",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 137,
+        "name": "Ferrari F2002 Michael Schumacher (Escala 1:43)",
+        "description": "Réplica a escala 1:43 del Ferrari F2002 de Michael Schumacher, el monoplaza con el que el piloto alemán dominó la temporada 2002 y conquistó su quinto título mundial, estableciendo récords de victorias y vueltas rápidas en una de las campañas más dominantes de la historia de la Fórmula 1.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "championship"
+        ],
+        "price": 425.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/137_ferrari_f2002_schumacher_143/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Coche campeón del mundo de Michael Schumacher en 2002",
+            "Temporada histórica de dominio absoluto de Ferrari",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2002,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
+    },
+    {
+        "id": 138,
+        "name": "Red Bull RB12 Max Verstappen",
+        "description": "Réplica del Red Bull RB12 de Max Verstappen en la temporada 2016, el monoplaza con el que el piloto neerlandés debutó con el equipo austríaco en el GP de España y ganó la carrera en su primera oportunidad, convirtiéndose en el ganador más joven en la historia de la Fórmula 1 hasta ese momento.",
+        "categories": [
+            "red-bull",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/138_red_bull_rb12_verstappen/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Victoria debut de Max Verstappen en el GP de España 2016",
+            "Ganador más joven de la historia de la F1 en su momento",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2016,
+        "team": "Red Bull",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 139,
+        "name": "Ferrari SF15-T Sebastian Vettel - Malaysia GP",
+        "description": "Réplica del Ferrari SF15-T de Sebastian Vettel en su configuración especial del GP de Malasia 2015, la carrera en la que el piloto alemán logró su primera victoria con Ferrari, rompiendo el dominio inicial de Mercedes en la temporada y devolviendo a la Scuderia a la senda de las victorias.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/139_ferrari_sf15t_vettel_malaysia/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada"
+        },
+        "features": [
+            "Configuración especial del GP de Malasia 2015",
+            "Primera victoria de Vettel con Ferrari",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2015,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sebastian Vettel"
+    },
+    {
+        "id": 140,
+        "name": "Ferrari SF71H Sebastian Vettel",
+        "description": "Réplica del Ferrari SF71H de Sebastian Vettel en la temporada 2018, el monoplaza con el que el piloto alemán inició la campaña como uno de los principales aspirantes al título, sumando victorias en Australia, Baréin, Gran Bretaña y Bélgica antes de que Mercedes y Lewis Hamilton se impusieran en la segunda mitad de temporada.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/140_ferrari_sf71h_vettel/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Cuatro victorias de Vettel en la temporada 2018",
+            "Lucha directa por el título frente a Mercedes",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2018,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sebastian Vettel"
+    },
+    {
+        "id": 141,
+        "name": "Benetton B190 Nelson Piquet",
+        "description": "Réplica del Benetton B190 de Nelson Piquet en la temporada 1990, el monoplaza con el que el bicampeón brasileño cerró el año con victorias en los Gran Premios de Japón y Australia, demostrando que aún conservaba el talento que le había dado tres títulos mundiales.",
+        "categories": [
+            "benetton",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/141_benetton_b190_piquet/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Victorias de Piquet en Japón y Australia 1990",
+            "Regreso a la forma ganadora del tricampeón brasileño",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1990,
+        "team": "Benetton",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nelson Piquet"
+    },
+    {
+        "id": 142,
+        "name": "Williams FW16 Damon Hill",
+        "description": "Réplica del Williams FW16 de Damon Hill en la temporada 1994, el monoplaza con el que el piloto británico asumió el liderazgo del equipo tras los difíciles acontecimientos de Imola y llevó la lucha por el título mundial hasta la última carrera en Adelaide, donde finalmente se impuso Michael Schumacher.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/142_williams_fw16_hill/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Lucha por el título hasta la última carrera de 1994",
+            "Liderazgo de Damon Hill en una temporada histórica",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1994,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Damon Hill"
+    },
+    {
+        "id": 143,
+        "name": "Williams FW34 Pastor Maldonado",
+        "description": "Réplica del Williams FW34 de Pastor Maldonado en la temporada 2012, el monoplaza con el que el piloto venezolano logró la victoria en el GP de España, la única de su carrera en Fórmula 1 y la última de Williams hasta varios años después.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/143_williams_fw34_maldonado/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Única victoria en F1 de Pastor Maldonado",
+            "Triunfo histórico en el GP de España 2012",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2012,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Pastor Maldonado"
+    },
+    {
+        "id": 144,
+        "name": "Lotus 97T Ayrton Senna",
+        "description": "Réplica del Lotus 97T de Ayrton Senna en la temporada 1985, el monoplaza con el que el piloto brasileño logró su primera victoria en la Fórmula 1, en una memorable carrera bajo la lluvia en el GP de Portugal que anunció al mundo la llegada de una futura leyenda.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/144_lotus_97t_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primera victoria en F1 de Ayrton Senna",
+            "Triunfo bajo la lluvia en el GP de Portugal 1985",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1985,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 145,
+        "name": "Ferrari 512 F1 Lorenzo Bandini - Mexican GP",
+        "description": "Réplica del Ferrari 512 F1 de Lorenzo Bandini en su configuración especial del GP de México 1964, la carrera decisiva de la temporada en la que un toque entre Bandini y Graham Hill terminó beneficiando a su compañero John Surtees, quien se coronó campeón del mundo por un solo punto en uno de los desenlaces más dramáticos de la historia de la Fórmula 1.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/145_ferrari_512f1_bandini_mexico/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada"
+        },
+        "features": [
+            "Configuración especial del GP de México 1964",
+            "Episodio clave en el título de John Surtees",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 1964,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Lorenzo Bandini"
+    },
+    {
+        "id": 146,
+        "name": "Mercedes W09 Lewis Hamilton",
+        "description": "Réplica del Mercedes W09 de Lewis Hamilton en la temporada 2018, el monoplaza con el que el piloto británico conquistó su quinto título mundial, igualando a Juan Manuel Fangio en la lista de campeones, en una campaña marcada por una intensa pelea con Sebastian Vettel y Ferrari.",
+        "categories": [
+            "mercedes",
+            "scale-1-43",
+            "ixo",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/146_mercedes_w09_hamilton/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Coche campeón del mundo de Lewis Hamilton en 2018",
+            "Quinto título mundial igualando a Fangio",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2018,
+        "team": "Mercedes",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
+    },
+    {
+        "id": 147,
+        "name": "Toro Rosso STR3 Sebastian Vettel - Italian GP",
+        "description": "Réplica del Toro Rosso STR3 de Sebastian Vettel en su configuración especial del GP de Italia 2008, la histórica carrera en Monza en la que el piloto alemán logró su primera pole y su primera victoria en la Fórmula 1 bajo una intensa lluvia, convirtiéndose, con 21 años, en el ganador más joven en la historia de la categoría.",
+        "categories": [
+            "toro-rosso",
+            "limited",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/147_tororosso_str3_vettel_italy/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO edición limitada"
+        },
+        "features": [
+            "Configuración especial del GP de Italia 2008",
+            "Primera victoria de Vettel, el ganador más joven de la historia hasta entonces",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2008,
+        "team": "Toro Rosso",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Sebastian Vettel"
+    },
+    {
+        "id": 148,
+        "name": "Toleman TG184 Ayrton Senna",
+        "description": "Réplica del Toleman TG184 de Ayrton Senna en la temporada 1984, el monoplaza con el que el joven piloto brasileño debutó en la Fórmula 1 y protagonizó una actuación legendaria bajo la lluvia en el GP de Mónaco, anunciando al mundo el talento que lo convertiría en una leyenda del automovilismo.",
+        "categories": [
+            "toleman",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/148_toleman_tg184_senna/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Debut de Ayrton Senna en la Fórmula 1",
+            "Actuación legendaria bajo la lluvia en Mónaco 1984",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1984,
+        "team": "Toleman",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Ayrton Senna"
+    },
+    {
+        "id": 149,
+        "name": "Ferrari F2004 Rubens Barrichello",
+        "description": "Réplica del Ferrari F2004 de Rubens Barrichello en la temporada 2004, el monoplaza considerado uno de los más dominantes de la historia de la Fórmula 1, con el que el piloto brasileño acompañó a Michael Schumacher en una campaña que terminó con Ferrari arrasando en ambos campeonatos.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/149_ferrari_f2004_barrichello/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Uno de los monoplazas más dominantes de la historia",
+            "Subcampeonato de Rubens Barrichello en 2004",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2004,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Rubens Barrichello"
+    },
+    {
+        "id": 150,
+        "name": "Williams FW26 Juan Pablo Montoya",
+        "description": "Réplica del Williams FW26 de Juan Pablo Montoya en la temporada 2004, el peculiar monoplaza conocido por su distintiva nariz bifurcada, con el que el piloto colombiano logró la victoria en el GP de Brasil en su última temporada con el equipo antes de pasar a McLaren.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/150_williams_fw26_montoya/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Victoria de Montoya en el GP de Brasil 2004",
+            "Diseño distintivo de nariz bifurcada",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2004,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Juan Pablo Montoya"
+    },
+    {
+        "id": 151,
+        "name": "Tyrrell 018 Jean Alesi",
+        "description": "Réplica del Tyrrell 018 de Jean Alesi en la temporada 1989, el monoplaza con el que el piloto francés debutó en la Fórmula 1 y sorprendió al mundo al pelear cara a cara con Ayrton Senna por la victoria en el GP de Francia, anunciando la llegada de un futuro gran piloto.",
+        "categories": [
+            "tyrrell",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/151_tyrrell_018_alesi/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Sensacional debut de Jean Alesi en 1989",
+            "Duelo histórico con Senna en el GP de Francia",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1989,
+        "team": "Tyrrell",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Jean Alesi"
+    },
+    {
+        "id": 152,
+        "name": "Williams FW11B Nelson Piquet",
+        "description": "Réplica del Williams FW11B de Nelson Piquet en la temporada 1987, el monoplaza con el que el piloto brasileño conquistó su tercer y último título mundial, superando a su propio compañero de equipo Nigel Mansell en una de las rivalidades internas más intensas de la historia de la Fórmula 1.",
+        "categories": [
+            "williams",
+            "scale-1-43",
+            "ixo",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/152_williams_fw11b_piquet/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Tercer título mundial de Nelson Piquet",
+            "Intensa rivalidad interna con Nigel Mansell",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1987,
+        "team": "Williams",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Nelson Piquet"
+    },
+    {
+        "id": 153,
+        "name": "Maserati 250F Juan Manuel Fangio",
+        "description": "Réplica del Maserati 250F de Juan Manuel Fangio en la temporada 1957, el legendario monoplaza con el que el piloto argentino conquistó su quinto y último título mundial, consolidando su estatus como uno de los más grandes pilotos de la historia del automovilismo.",
+        "categories": [
+            "maserati",
+            "scale-1-43",
+            "ixo",
+            "championship",
+            "classic"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/153_maserati_250f_fangio/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Quinto y último título mundial de Juan Manuel Fangio",
+            "Icono de la era clásica de la Fórmula 1",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1957,
+        "team": "Maserati",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Juan Manuel Fangio"
+    },
+    {
+        "id": 154,
+        "name": "Lotus E20 Kimi Räikkönen",
+        "description": "Réplica del Lotus E20 de Kimi Räikkönen en la temporada 2012, el monoplaza con el que el piloto finlandés protagonizó un exitoso regreso a la Fórmula 1 tras dos años de ausencia, culminando la temporada con la victoria en el GP de Abu Dabi.",
+        "categories": [
+            "lotus",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/154_lotus_e20_raikkonen/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Regreso triunfal de Kimi Räikkönen a la F1",
+            "Victoria en el GP de Abu Dabi 2012",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2012,
+        "team": "Lotus",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Kimi Räikkönen"
+    },
+    {
+        "id": 155,
+        "name": "Virgin VR-01 Timo Glock",
+        "description": "Réplica del Virgin VR-01 de Timo Glock en la temporada 2010, el monoplaza de uno de los equipos debutantes de la nueva era de la Fórmula 1, una pieza poco común para los coleccionistas interesados en la historia de los equipos modestos de la parrilla.",
+        "categories": [
+            "virgin",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/155_virgin_vr01_glock/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Equipo debutante de la temporada 2010",
+            "Pieza poco común de un equipo modesto de la parrilla",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2010,
+        "team": "Virgin",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Timo Glock"
     }
 ]
