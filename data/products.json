@@ -1336,7 +1336,7 @@
             "Numeración histórica de Villeneuve",
             "Momento icónico de la F1"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1977,
         "team": "McLaren",
@@ -4923,7 +4923,7 @@
             "Edición limitada IXO",
             "Acabados de alta calidad"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2002,
         "team": "Ferrari",
@@ -4991,7 +4991,7 @@
             "Temporada histórica de dominio absoluto de Ferrari",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2002,
         "team": "Ferrari",
