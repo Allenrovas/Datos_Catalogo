@@ -5600,5 +5600,532 @@
         "manufacturer": "IXO",
         "scale": "1:43",
         "driver": "Timo Glock"
+    },
+    {
+        "id": 156,
+        "name": "Ferrari F2012 Fernando Alonso",
+        "description": "Réplica del Ferrari F2012 de Fernando Alonso en la temporada 2012, el monoplaza con el que el piloto español protagonizó una extraordinaria remontada y luchó por el título mundial hasta la última carrera, cayendo por apenas 3 puntos ante Sebastian Vettel.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/156_ferrari_f2012_alonso/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Lucha por el título mundial 2012",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2012,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 157,
+        "name": "Ferrari 375 F1 José Froilán González",
+        "description": "Réplica del clásico Ferrari 375 F1 de José Froilán González en la temporada 1951, el monoplaza con el que el piloto argentino logró la histórica primera victoria de Ferrari en la Fórmula 1, al vencer a Fangio en el Gran Premio de Gran Bretaña.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/157_ferrari_375f1_gonzalez/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primera victoria histórica de Ferrari en F1 (1951)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1951,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "José Froilán González"
+    },
+    {
+        "id": 158,
+        "name": "Ferrari D50 Juan Manuel Fangio",
+        "description": "Réplica del clásico Ferrari D50 de Juan Manuel Fangio en la temporada 1956, el monoplaza con el que el legendario piloto argentino conquistó su cuarto título mundial defendiendo los colores de Ferrari.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/158_ferrari_d50_fangio/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Cuarto título mundial de Juan Manuel Fangio (1956)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1956,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Juan Manuel Fangio"
+    },
+    {
+        "id": 159,
+        "name": "Red Bull RB19 Sergio Pérez",
+        "description": "Réplica del Red Bull RB19 de Sergio Pérez en la temporada 2023, el monoplaza con el que Red Bull Racing dominó el campeonato de constructores, con el piloto mexicano contribuyendo con varias victorias durante la temporada.",
+        "categories": [
+            "red-bull",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/159_red_bull_rb19_perez/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista Bburago"
+        },
+        "features": [
+            "Temporada dominante de Red Bull Racing 2023",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad Bburago"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2023,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Sergio Pérez"
+    },
+    {
+        "id": 160,
+        "name": "Ferrari SF-24 Carlos Sainz - Italian GP",
+        "description": "Réplica oficial del Ferrari SF-24 de Carlos Sainz en su configuración especial para el Gran Premio de Italia 2024 en Monza. Una pieza que rinde homenaje a la carrera de casa de Ferrari frente a los tifosi. Modelo de alta calidad Bburago con acabados premium.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/160_ferrari_sf24_sainz_italy/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Italia"
+        },
+        "features": [
+            "Configuración especial del GP de Italia",
+            "Detalles auténticos del monoplaza original",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Sainz (#55)",
+            "Patrocinadores y logos oficiales",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Carlos Sainz"
+    },
+    {
+        "id": 161,
+        "name": "Ferrari 375 Indianapolis Johnnie Parsons",
+        "description": "Réplica del clásico Ferrari 375 Indianapolis de Johnnie Parsons en 1952, la versión especial que Ferrari desarrolló para competir en las 500 Millas de Indianápolis, entonces puntuables para el campeonato mundial de Fórmula 1.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/161_ferrari_375indianapolis_parsons/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Versión especial para las 500 Millas de Indianápolis 1952",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1952,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Johnnie Parsons"
+    },
+    {
+        "id": 162,
+        "name": "Ferrari F10 Fernando Alonso",
+        "description": "Réplica del Ferrari F10 de Fernando Alonso en la temporada 2010, el monoplaza de su primera campaña con la Scuderia, en la que luchó por el título mundial hasta la última carrera en Abu Dabi.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/162_ferrari_f10_alonso/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primera temporada de Alonso en Ferrari (2010)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2010,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 163,
+        "name": "Ferrari 500 F2 Alberto Ascari",
+        "description": "Réplica del clásico Ferrari 500 F2 de Alberto Ascari en 1952, el monoplaza con el que el piloto italiano conquistó el campeonato mundial, disputado ese año bajo reglamento de Fórmula 2.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
+        ],
+        "imageFolder": "images/163_ferrari_500f2_ascari/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Campeonato mundial de Alberto Ascari (1952)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1952,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Alberto Ascari"
+    },
+    {
+        "id": 164,
+        "name": "Ferrari 312 T Niki Lauda",
+        "description": "Réplica del clásico Ferrari 312 T de Niki Lauda en la temporada 1975, el monoplaza con el que el piloto austriaco conquistó su primer título mundial, el primero de Ferrari desde 1964.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/164_ferrari_312t_lauda/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer título mundial de Niki Lauda (1975)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1975,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Niki Lauda"
+    },
+    {
+        "id": 165,
+        "name": "Ferrari 246 F1 Mike Hawthorn",
+        "description": "Réplica del clásico Ferrari 246 F1 (Dino) de Mike Hawthorn en la temporada 1958, el monoplaza con el que el piloto británico conquistó el primer título mundial de pilotos de la historia de Ferrari.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/165_ferrari_246f1_hawthorn/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer título mundial de pilotos de Ferrari (1958)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1958,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Mike Hawthorn"
+    },
+    {
+        "id": 166,
+        "name": "Ferrari F2004 Michael Schumacher",
+        "description": "Réplica del Ferrari F2004 de Michael Schumacher en la temporada 2004, considerado uno de los monoplazas más dominantes de la historia de la Fórmula 1, con el que el piloto alemán conquistó su séptimo título mundial.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/166_ferrari_f2004_schumacher/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Séptimo título mundial de Michael Schumacher (2004)",
+            "Uno de los monoplazas más dominantes de la historia",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2004,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
+    },
+    {
+        "id": 167,
+        "name": "Ferrari 158 F1 John Surtees - US GP",
+        "description": "Réplica del clásico Ferrari 158 F1 de John Surtees en su configuración especial del Gran Premio de Estados Unidos 1964, temporada en la que el piloto británico conquistó el título mundial, siendo el único campeón mundial tanto en motos como en coches.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/167_ferrari_158f1_surtees_us/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Estados Unidos"
+        },
+        "features": [
+            "Configuración especial del GP de Estados Unidos",
+            "Título mundial de John Surtees (1964)",
+            "Único campeón mundial en motos y coches",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 1964,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "John Surtees"
+    },
+    {
+        "id": 168,
+        "name": "Ferrari 150° Italia Fernando Alonso",
+        "description": "Réplica del Ferrari 150° Italia de Fernando Alonso, pieza de colección de la escudería Ferrari conducida por el piloto español.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/168_ferrari_150italia_alonso/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 2011,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 169,
+        "name": "Ferrari 156 F1 Phil Hill",
+        "description": "Réplica del clásico Ferrari 156 F1 \"Sharknose\" de Phil Hill en la temporada 1961, el monoplaza con el que el piloto estadounidense conquistó el título mundial, convirtiéndose en el primer campeón mundial de F1 nacido en Estados Unidos.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/169_ferrari_156f1_hill/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Primer campeón mundial de F1 nacido en Estados Unidos (1961)",
+            "Detalles auténticos del monoplaza original",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": false,
+        "limitedEdition": false,
+        "year": 1961,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "Phil Hill"
+    },
+    {
+        "id": 170,
+        "name": "Ferrari 158 F1 John Surtees",
+        "description": "Réplica del clásico Ferrari 158 F1 de John Surtees en la temporada 1964, el monoplaza con el que el piloto británico conquistó el título mundial, siendo el único campeón mundial tanto en motos como en coches.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "ixo",
+            "classic"
+        ],
+        "price": 265.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/170_ferrari_158f1_surtees/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista IXO"
+        },
+        "features": [
+            "Título mundial de John Surtees (1964)",
+            "Único campeón mundial en motos y coches",
+            "Acabados de alta calidad IXO"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1964,
+        "team": "Ferrari",
+        "manufacturer": "IXO",
+        "scale": "1:43",
+        "driver": "John Surtees"
     }
 ]
