@@ -2391,7 +2391,7 @@
             "ixo",
             "scale-1-43"
         ],
-        "price": 250.0,
+        "price": 265.0,
         "images": [
             "1.webp",
             "2.webp",
@@ -5258,7 +5258,7 @@
             "Episodio clave en el título de John Surtees",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 1964,
         "team": "Ferrari",
