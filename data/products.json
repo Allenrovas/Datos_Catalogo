@@ -3041,7 +3041,7 @@
             "Numeración oficial de Leclerc (#16)",
             "Edición especial para coleccionistas"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2025,
         "team": "Ferrari",
@@ -6127,5 +6127,810 @@
         "manufacturer": "IXO",
         "scale": "1:43",
         "driver": "John Surtees"
+    },
+    {
+        "id": 171,
+        "name": "Ferrari SF-25 Lewis Hamilton - Miami GP",
+        "description": "Réplica oficial del Ferrari SF-25 de Lewis Hamilton en su configuración especial para el Gran Premio de Miami 2025, la primera temporada del siete veces campeón con la Scuderia. Modelo de alta calidad Bburago con acabados premium y funda protectora incluida.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/171_ferrari_sf25_hamilton_miami/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Miami con funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Miami",
+            "Detalles auténticos del monoplaza original",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Hamilton (#44)",
+            "Incluye funda protectora",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Lewis Hamilton"
+    },
+    {
+        "id": 172,
+        "name": "McLaren MCL39 Lando Norris - British GP",
+        "description": "Réplica oficial del McLaren MCL39 de Lando Norris en su configuración especial para el Gran Premio de Gran Bretaña 2025. Modelo de alta calidad Bburago con acabados premium y funda protectora incluida.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/172_mclaren_mcl39_norris_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña con funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Norris (#4)",
+            "Incluye funda protectora",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "McLaren",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Lando Norris"
+    },
+    {
+        "id": 173,
+        "name": "Ferrari SF-24 Charles Leclerc - Miami GP",
+        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Miami 2024. Modelo Bburago de la temporada 2024 de la Scuderia Ferrari.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/173_ferrari_sf24_leclerc_miami/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Miami"
+        },
+        "features": [
+            "Configuración especial del GP de Miami",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Leclerc (#16)",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": false,
+        "limitedEdition": true,
+        "year": 2024,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
+    },
+    {
+        "id": 174,
+        "name": "Renault R.S.19 Daniel Ricciardo",
+        "description": "Réplica oficial del Renault R.S.19 de Daniel Ricciardo de la temporada 2019, primer año del piloto australiano con el equipo francés. Incluye revista coleccionable con información técnica y la historia del monoplaza, además de funda protectora.",
+        "categories": [
+            "renault",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/174_renault_rs19_ricciardo/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "345+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista y funda protectora"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Ricciardo (#3)",
+            "Incluye funda protectora",
+            "Patrocinadores y logos oficiales de Renault"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2019,
+        "team": "Renault",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Daniel Ricciardo"
+    },
+    {
+        "id": 175,
+        "name": "Renault RE30 Alain Prost",
+        "description": "El histórico Renault RE30 con el que Alain Prost compitió en la temporada 1981, logrando sus primeras victorias en Fórmula 1 con el equipo francés en la era de los motores turbo. Incluye revista coleccionable con la historia del monoplaza y funda protectora.",
+        "categories": [
+            "renault",
+            "classic",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/175_renault_re30_prost/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "310+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista y funda protectora"
+        },
+        "features": [
+            "Diseño pionero de la era turbo",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Incluye funda protectora",
+            "Modelo clásico de 1981",
+            "Primeras victorias de Prost en F1"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1981,
+        "team": "Renault",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Alain Prost"
+    },
+    {
+        "id": 176,
+        "name": "Alpine A521 Fernando Alonso - Saudi Arabian GP",
+        "description": "Réplica oficial del Alpine A521 de Fernando Alonso en su configuración especial para el Gran Premio de Arabia Saudita 2021, temporada del regreso del bicampeón español a la Fórmula 1. Incluye revista coleccionable y funda protectora.",
+        "categories": [
+            "alpine",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/176_alpine_a521_alonso_saudi_arabian/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición Arabia Saudita con revista y funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Arabia Saudita",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Alonso (#14)",
+            "Incluye funda protectora",
+            "Regreso de Alonso a la F1"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "Alpine",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 177,
+        "name": "Lambo 291 Nicola Larini",
+        "description": "El Lambo 291 con el que Nicola Larini compitió en la temporada 1991 bajo la escudería Modena Team, el equipo de Fórmula 1 propiedad de Lamborghini. Incluye revista coleccionable con la historia de la aventura de Lamborghini en la máxima categoría y funda protectora.",
+        "categories": [
+            "modena-team",
+            "classic",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/177_lambo291_larini/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "320+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista y funda protectora"
+        },
+        "features": [
+            "Único equipo de F1 propiedad de Lamborghini",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Incluye funda protectora",
+            "Modelo clásico de 1991",
+            "Rareza de colección"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 1991,
+        "team": "Modena Team",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Nicola Larini"
+    },
+    {
+        "id": 178,
+        "name": "Ferrari 248 F1 Michael Schumacher",
+        "description": "El Ferrari 248 F1 con el que Michael Schumacher compitió en la temporada 2006, su última campaña con la Scuderia antes de su primer retiro. Incluye revista coleccionable con la historia del legendario piloto alemán y funda protectora.",
+        "categories": [
+            "ferrari",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/178_ferrari_248f1_schumacher/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con revista y funda protectora"
+        },
+        "features": [
+            "Última temporada de Schumacher con Ferrari",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Schumacher (#5)",
+            "Incluye funda protectora",
+            "Patrocinadores y logos oficiales"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2006,
+        "team": "Ferrari",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Michael Schumacher"
+    },
+    {
+        "id": 179,
+        "name": "McLaren MCL60 Oscar Piastri - Qatar GP",
+        "description": "Réplica oficial del McLaren MCL60 de Oscar Piastri en su configuración especial para el Gran Premio de Qatar 2023, primera temporada completa del piloto australiano en la Fórmula 1. Incluye revista coleccionable y funda protectora.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "salvat-collection"
+        ],
+        "price": 295.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "imageFolder": "images/179_mclaren_mcl60_piastri_qatar/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición Qatar con revista y funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Qatar",
+            "Incluye revista coleccionable",
+            "Acabados en acrílico de alta calidad",
+            "Numeración oficial de Piastri (#81)",
+            "Incluye funda protectora",
+            "Primera temporada completa de Piastri"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2023,
+        "team": "McLaren",
+        "manufacturer": "Salvat",
+        "scale": "1:43",
+        "driver": "Oscar Piastri"
+    },
+    {
+        "id": 180,
+        "name": "Mercedes W16 Kimi Antonelli - British GP",
+        "description": "Réplica oficial del Mercedes W16 de Kimi Antonelli en su configuración especial para el Gran Premio de Gran Bretaña 2025, temporada de debut del joven piloto italiano en la Fórmula 1.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/180_mercedes_w16_antonelli_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Antonelli (#12)",
+            "Debut de Antonelli en la F1",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Mercedes",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Kimi Antonelli"
+    },
+    {
+        "id": 181,
+        "name": "Mercedes W16 George Russell - British GP",
+        "description": "Réplica oficial del Mercedes W16 de George Russell en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "categories": [
+            "mercedes",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/181_mercedes_w16_russell_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Russell (#63)",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Mercedes",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "George Russell"
+    },
+    {
+        "id": 182,
+        "name": "Red Bull RB16B Max Verstappen - Turkish GP",
+        "description": "Réplica oficial del Red Bull RB16B de Max Verstappen en su configuración especial para el Gran Premio de Turquía 2021, temporada en la que conquistó su primer título mundial.",
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/182_rb16b_verstappen_turkish/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Turquía"
+        },
+        "features": [
+            "Configuración especial del GP de Turquía",
+            "Detalles auténticos del monoplaza campeón",
+            "Numeración oficial de Verstappen (#33)",
+            "Primer título mundial de Verstappen",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 183,
+        "name": "Ferrari SF-25 Charles Leclerc - Italian GP",
+        "description": "Réplica oficial del Ferrari SF-25 de Charles Leclerc en su configuración especial para el Gran Premio de Italia 2025, carrera disputada en Monza ante la afición local de la Scuderia.",
+        "categories": [
+            "ferrari",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/183_ferrari_sf25_leclerc_italy/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "370+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Italia"
+        },
+        "features": [
+            "Configuración especial del GP de Italia",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Leclerc (#16)",
+            "Carrera en el histórico circuito de Monza",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Ferrari",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Charles Leclerc"
+    },
+    {
+        "id": 184,
+        "name": "Red Bull RB21 Max Verstappen - Japanese GP",
+        "description": "Réplica oficial del Red Bull RB21 de Max Verstappen en su configuración especial para el Gran Premio de Japón 2025.",
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/184_rb21_verstappen_japan/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Japón"
+        },
+        "features": [
+            "Configuración especial del GP de Japón",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Verstappen (#1)",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 185,
+        "name": "Red Bull RB19 Max Verstappen - Las Vegas GP",
+        "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Las Vegas 2023, temporada de su tercer título mundial consecutivo.",
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/185_rb19_verstappen_las_vegas/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición Las Vegas"
+        },
+        "features": [
+            "Configuración especial del GP de Las Vegas",
+            "Detalles auténticos del monoplaza campeón",
+            "Numeración oficial de Verstappen (#1)",
+            "Tercer título consecutivo de Verstappen",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2023,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 186,
+        "name": "McLaren MCL39 Lando Norris - British GP",
+        "description": "Réplica oficial del McLaren MCL39 de Lando Norris en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/186_mclaren_mcl39_norris_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Norris (#4)",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "McLaren",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Lando Norris"
+    },
+    {
+        "id": 187,
+        "name": "McLaren MCL39 Oscar Piastri - British GP",
+        "description": "Réplica oficial del McLaren MCL39 de Oscar Piastri en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 150.0,
+        "images": [
+            "1.webp",
+            "2.webp"
+        ],
+        "imageFolder": "images/187_mclaren_mcl39_piastri_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Piastri (#81)",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "McLaren",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Oscar Piastri"
+    },
+    {
+        "id": 188,
+        "name": "Red Bull RB16B Max Verstappen - Turkish GP",
+        "description": "Réplica oficial del Red Bull RB16B de Max Verstappen en su configuración especial para el Gran Premio de Turquía 2021, edición premium con acabados adicionales y funda protectora, temporada de su primer título mundial.",
+        "categories": [
+            "red-bull",
+            "limited",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
+        ],
+        "imageFolder": "images/188_rb16b_verstappen_turkish/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Turquía con funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Turquía",
+            "Detalles auténticos del monoplaza campeón",
+            "Numeración oficial de Verstappen (#33)",
+            "Incluye funda protectora",
+            "Primer título mundial de Verstappen",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2021,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
+    },
+    {
+        "id": 189,
+        "name": "McLaren MCL39 Oscar Piastri - British GP",
+        "description": "Réplica oficial del McLaren MCL39 de Oscar Piastri en su configuración especial para el Gran Premio de Gran Bretaña 2025, edición premium con acabados adicionales y funda protectora.",
+        "categories": [
+            "mclaren",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "imageFolder": "images/189_mclaren_mcl39_piastri_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "360+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista edición especial Gran Bretaña con funda protectora"
+        },
+        "features": [
+            "Configuración especial del GP de Gran Bretaña",
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Piastri (#81)",
+            "Incluye funda protectora",
+            "Edición especial conmemorativa"
+        ],
+        "inStock": true,
+        "limitedEdition": true,
+        "year": 2025,
+        "team": "McLaren",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Oscar Piastri"
+    },
+    {
+        "id": 190,
+        "name": "Aston Martin AMR25 Fernando Alonso",
+        "description": "Réplica oficial del Aston Martin AMR25 de Fernando Alonso. Modelo Bburago con acabados premium y funda protectora incluida.",
+        "categories": [
+            "aston-martin",
+            "limited",
+            "scale-1-43",
+            "bburago"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp"
+        ],
+        "imageFolder": "images/190_aston_martin_amr25_alonso_british/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "350+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con funda protectora"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza original",
+            "Numeración oficial de Alonso (#14)",
+            "Incluye funda protectora"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2025,
+        "team": "Aston Martin",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Fernando Alonso"
+    },
+    {
+        "id": 191,
+        "name": "Red Bull RB20 Max Verstappen",
+        "description": "Réplica oficial del Red Bull RB20 de Max Verstappen de la temporada 2024, con el que el neerlandés conquistó su cuarto título mundial consecutivo. Modelo Bburago con acabados premium y funda protectora incluida.",
+        "categories": [
+            "red-bull",
+            "scale-1-43",
+            "bburago",
+            "championship"
+        ],
+        "price": 250.0,
+        "images": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp"
+        ],
+        "imageFolder": "images/191_rb20_verstappen/",
+        "specifications": {
+            "material": "Metal fundido a presión con detalles en plástico",
+            "topSpeed": "365+ km/h",
+            "scale": "1:43",
+            "packaging": "Caja coleccionista con funda protectora"
+        },
+        "features": [
+            "Detalles auténticos del monoplaza campeón",
+            "Numeración oficial de Verstappen (#1)",
+            "Incluye funda protectora",
+            "Cuarto título consecutivo de Verstappen",
+            "Acabados en acrílico de alta calidad"
+        ],
+        "inStock": true,
+        "limitedEdition": false,
+        "year": 2024,
+        "team": "Red Bull",
+        "manufacturer": "Bburago",
+        "scale": "1:43",
+        "driver": "Max Verstappen"
     }
 ]
