@@ -4582,7 +4582,7 @@
             "Monoplaza Ferrari clásico de los años 70",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 1975,
         "team": "Ferrari",
