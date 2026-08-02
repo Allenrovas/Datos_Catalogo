@@ -347,7 +347,7 @@
             "Patrocinadores y logos oficiales",
             "Edición especial conmemorativa"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2023,
         "team": "Red Bull",
