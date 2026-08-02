@@ -2722,7 +2722,7 @@
             "Tecnología activa",
             "Modelo legendario"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1993,
         "team": "Williams",
