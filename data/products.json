@@ -6212,8 +6212,8 @@
     },
     {
         "id": 173,
-        "name": "Ferrari SF-24 Charles Leclerc - Miami GP",
-        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Miami 2024. Modelo Bburago de la temporada 2024 de la Scuderia Ferrari.",
+        "name": "Ferrari SF-24 Charles Leclerc - Miami GP (Versión Estándar)",
+        "description": "Réplica oficial del Ferrari SF-24 de Charles Leclerc en su configuración especial para el Gran Premio de Miami 2024. Modelo Bburago de la temporada 2024 de la Scuderia Ferrari. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "ferrari",
             "limited",
@@ -6225,17 +6225,18 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/173_ferrari_sf24_leclerc_miami/",
+        "imageFolder": "images/173_ferrari_sf24_leclerc_miami_estandar/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "370+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Miami"
+            "packaging": "Caja estándar edición especial Miami (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Miami",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Leclerc (#16)",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": false,
@@ -6481,8 +6482,8 @@
     },
     {
         "id": 180,
-        "name": "Mercedes W16 Kimi Antonelli - British GP",
-        "description": "Réplica oficial del Mercedes W16 de Kimi Antonelli en su configuración especial para el Gran Premio de Gran Bretaña 2025, temporada de debut del joven piloto italiano en la Fórmula 1.",
+        "name": "Mercedes W16 Kimi Antonelli - British GP (Versión Estándar)",
+        "description": "Réplica oficial del Mercedes W16 de Kimi Antonelli en su configuración especial para el Gran Premio de Gran Bretaña 2025, temporada de debut del joven piloto italiano en la Fórmula 1. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "mercedes",
             "limited",
@@ -6499,13 +6500,14 @@
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "370+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+            "packaging": "Caja estándar edición especial Gran Bretaña (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Gran Bretaña",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Antonelli (#12)",
             "Debut de Antonelli en la F1",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6518,8 +6520,8 @@
     },
     {
         "id": 181,
-        "name": "Mercedes W16 George Russell - British GP",
-        "description": "Réplica oficial del Mercedes W16 de George Russell en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "name": "Mercedes W16 George Russell - British GP (Versión Estándar)",
+        "description": "Réplica oficial del Mercedes W16 de George Russell en su configuración especial para el Gran Premio de Gran Bretaña 2025. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "mercedes",
             "limited",
@@ -6536,12 +6538,13 @@
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "370+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+            "packaging": "Caja estándar edición especial Gran Bretaña (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Gran Bretaña",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Russell (#63)",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6554,8 +6557,8 @@
     },
     {
         "id": 182,
-        "name": "Red Bull RB16B Max Verstappen - Turkish GP",
-        "description": "Réplica oficial del Red Bull RB16B de Max Verstappen en su configuración especial para el Gran Premio de Turquía 2021, temporada en la que conquistó su primer título mundial.",
+        "name": "Red Bull RB16B Max Verstappen - Turkish GP (Versión Estándar)",
+        "description": "Réplica oficial del Red Bull RB16B de Max Verstappen en su configuración especial para el Gran Premio de Turquía 2021, temporada en la que conquistó su primer título mundial. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "red-bull",
             "limited",
@@ -6568,18 +6571,19 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/182_rb16b_verstappen_turkish/",
+        "imageFolder": "images/182_rb16b_verstappen_turkish_estandar/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "365+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Turquía"
+            "packaging": "Caja estándar edición especial Turquía (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Turquía",
             "Detalles auténticos del monoplaza campeón",
             "Numeración oficial de Verstappen (#33)",
             "Primer título mundial de Verstappen",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6592,8 +6596,8 @@
     },
     {
         "id": 183,
-        "name": "Ferrari SF-25 Charles Leclerc - Italian GP",
-        "description": "Réplica oficial del Ferrari SF-25 de Charles Leclerc en su configuración especial para el Gran Premio de Italia 2025, carrera disputada en Monza ante la afición local de la Scuderia.",
+        "name": "Ferrari SF-25 Charles Leclerc - Italian GP (Versión Estándar)",
+        "description": "Réplica oficial del Ferrari SF-25 de Charles Leclerc en su configuración especial para el Gran Premio de Italia 2025, carrera disputada en Monza ante la afición local de la Scuderia. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "ferrari",
             "limited",
@@ -6610,13 +6614,14 @@
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "370+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Italia"
+            "packaging": "Caja estándar edición especial Italia (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Italia",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Leclerc (#16)",
             "Carrera en el histórico circuito de Monza",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6629,8 +6634,8 @@
     },
     {
         "id": 184,
-        "name": "Red Bull RB21 Max Verstappen - Japanese GP",
-        "description": "Réplica oficial del Red Bull RB21 de Max Verstappen en su configuración especial para el Gran Premio de Japón 2025.",
+        "name": "Red Bull RB21 Max Verstappen - Japanese GP (Versión Estándar)",
+        "description": "Réplica oficial del Red Bull RB21 de Max Verstappen en su configuración especial para el Gran Premio de Japón 2025. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "red-bull",
             "limited",
@@ -6647,12 +6652,13 @@
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "365+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Japón"
+            "packaging": "Caja estándar edición especial Japón (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Japón",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Verstappen (#1)",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6665,8 +6671,8 @@
     },
     {
         "id": 185,
-        "name": "Red Bull RB19 Max Verstappen - Las Vegas GP",
-        "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Las Vegas 2023, temporada de su tercer título mundial consecutivo.",
+        "name": "Red Bull RB19 Max Verstappen - Las Vegas GP (Versión Estándar)",
+        "description": "Réplica oficial del Red Bull RB19 de Max Verstappen en su configuración especial para el Gran Premio de Las Vegas 2023, temporada de su tercer título mundial consecutivo. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "red-bull",
             "limited",
@@ -6679,18 +6685,19 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/185_rb19_verstappen_las_vegas/",
+        "imageFolder": "images/185_rb19_verstappen_las_vegas_estandar/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "365+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición Las Vegas"
+            "packaging": "Caja estándar edición Las Vegas (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Las Vegas",
             "Detalles auténticos del monoplaza campeón",
             "Numeración oficial de Verstappen (#1)",
             "Tercer título consecutivo de Verstappen",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6703,8 +6710,8 @@
     },
     {
         "id": 186,
-        "name": "McLaren MCL39 Lando Norris - British GP",
-        "description": "Réplica oficial del McLaren MCL39 de Lando Norris en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "name": "McLaren MCL39 Lando Norris - British GP (Versión Estándar)",
+        "description": "Réplica oficial del McLaren MCL39 de Lando Norris en su configuración especial para el Gran Premio de Gran Bretaña 2025. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "mclaren",
             "limited",
@@ -6716,17 +6723,18 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/186_mclaren_mcl39_norris_british/",
+        "imageFolder": "images/186_mclaren_mcl39_norris_british_estandar/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "360+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+            "packaging": "Caja estándar edición especial Gran Bretaña (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Gran Bretaña",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Norris (#4)",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
@@ -6739,8 +6747,8 @@
     },
     {
         "id": 187,
-        "name": "McLaren MCL39 Oscar Piastri - British GP",
-        "description": "Réplica oficial del McLaren MCL39 de Oscar Piastri en su configuración especial para el Gran Premio de Gran Bretaña 2025.",
+        "name": "McLaren MCL39 Oscar Piastri - British GP (Versión Estándar)",
+        "description": "Réplica oficial del McLaren MCL39 de Oscar Piastri en su configuración especial para el Gran Premio de Gran Bretaña 2025. Versión estándar: no incluye base de exhibición acrílica ni figura de piloto.",
         "categories": [
             "mclaren",
             "limited",
@@ -6752,17 +6760,18 @@
             "1.webp",
             "2.webp"
         ],
-        "imageFolder": "images/187_mclaren_mcl39_piastri_british/",
+        "imageFolder": "images/187_mclaren_mcl39_piastri_british_estandar/",
         "specifications": {
             "material": "Metal fundido a presión con detalles en plástico",
             "topSpeed": "360+ km/h",
             "scale": "1:43",
-            "packaging": "Caja coleccionista edición especial Gran Bretaña"
+            "packaging": "Caja estándar edición especial Gran Bretaña (sin base acrílica ni figura de piloto)"
         },
         "features": [
             "Configuración especial del GP de Gran Bretaña",
             "Detalles auténticos del monoplaza original",
             "Numeración oficial de Piastri (#81)",
+            "Versión estándar sin base acrílica ni figura de piloto",
             "Edición especial conmemorativa"
         ],
         "inStock": true,
