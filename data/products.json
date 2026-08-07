@@ -1254,7 +1254,7 @@
             "Numeración histórica de Pace",
             "Livery Martini Racing clásica"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1975,
         "team": "Brabham",
@@ -1294,7 +1294,7 @@
             "Numeración histórica de Brambilla",
             "Momento histórico de March"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1975,
         "team": "March",
@@ -1914,7 +1914,9 @@
         "price": 250.0,
         "images": [
             "1.webp",
-            "2.webp"
+            "2.webp",
+            "3.webp",
+            "4.webp"
         ],
         "imageFolder": "images/48_redbull_rb21_verstappen_japan/",
         "specifications": {
@@ -1932,7 +1934,7 @@
             "Patrocinadores y logos oficiales",
             "Edición especial conmemorativa"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 2025,
         "team": "Red Bull Racing",
@@ -2009,7 +2011,7 @@
             "Patrocinadores y logos oficiales",
             "Modelo temporada 2025"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2025,
         "team": "McLaren",
@@ -2792,7 +2794,7 @@
             "Era Cosworth",
             "Diseño clásico"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1981,
         "team": "Brabham",
@@ -5326,7 +5328,7 @@
             "Primera victoria de Vettel, el ganador más joven de la historia hasta entonces",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": true,
         "year": 2008,
         "team": "Toro Rosso",
@@ -6940,5 +6942,124 @@
         "manufacturer": "Bburago",
         "scale": "1:43",
         "driver": "Max Verstappen"
-    }
+    },
+    {
+    "id": 192,
+    "name": "Ferrari SF-25 Lewis Hamilton - Monza GP",
+    "description": "Réplica oficial del Ferrari SF-25 de Lewis Hamilton con la decoración especial del Gran Premio de Monza 2025. Esta edición de Bburago reproduce la exclusiva livery inspirada en el legendario Ferrari 312 T de 1975. Incluye base de cuero, número de serie individual y una producción limitada a solo 10,008 unidades en todo el mundo.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 265.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp"
+    ],
+    "imageFolder": "images/192_sf25_hamilton_monza/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "topSpeed": "355+ km/h",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con base de cuero y número de serie"
+    },
+    "features": [
+        "Livery especial Monza 2025",
+        "Inspirada en el Ferrari 312 T de 1975",
+        "Base premium de cuero",
+        "Número de serie individual",
+        "Limitado a 10,008 unidades"
+    ],
+    "inStock": true,
+    "limitedEdition": true,
+    "year": 2025,
+    "team": "Ferrari",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Lewis Hamilton"
+},
+{
+    "id": 193,
+    "name": "Ferrari SF-25 Charles Leclerc - Monza GP",
+    "description": "Réplica oficial del Ferrari SF-25 de Charles Leclerc con la decoración especial del Gran Premio de Monza 2025. Esta edición de Bburago reproduce la exclusiva livery inspirada en el legendario Ferrari 312 T de 1975. Incluye base de cuero, número de serie individual y una producción limitada a solo 10,008 unidades en todo el mundo.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 265.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp"
+    ],
+    "imageFolder": "images/193_sf25_leclerc_monza/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "topSpeed": "355+ km/h",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con base de cuero y número de serie"
+    },
+    "features": [
+        "Livery especial Monza 2025",
+        "Inspirada en el Ferrari 312 T de 1975",
+        "Base premium de cuero",
+        "Número de serie individual",
+        "Limitado a 10,008 unidades"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2025,
+    "team": "Ferrari",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Charles Leclerc"
+},
+{
+    "id": 194,
+    "name": "Jordan 191 Michael Schumacher - Belgian GP",
+    "description": "Réplica a escala 1:43 del legendario Jordan 191 pilotado por Michael Schumacher en el Gran Premio de Bélgica de 1991. Este modelo conmemora el debut del siete veces campeón del mundo en la Fórmula 1, una de las apariciones más icónicas de la historia del automovilismo.",
+    "categories": [
+        "jordan",
+        "ixo",
+        "scale-1-43",
+        "debut"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/194_jordan_191_schumacher/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Conmemora el debut de Michael Schumacher en Fórmula 1",
+        "Detalles fieles al Jordan 191 del GP de Bélgica 1991",
+        "Incluye funda protectora"
+    ],
+    "inStock": true,
+    "limitedEdition": false,
+    "year": 1991,
+    "team": "Jordan",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Michael Schumacher"
+}
 ]
