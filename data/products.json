@@ -4908,7 +4908,8 @@
             "ixo",
             "championship"
         ],
-        "price": 550.0,
+        "price": 500.0,
+        "originalPrice": 550.00,
         "images": [
             "1.webp",
             "2.webp",
