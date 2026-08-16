@@ -6122,7 +6122,7 @@
             "Único campeón mundial en motos y coches",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 1964,
         "team": "Ferrari",
