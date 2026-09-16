@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Red Bull RB19 Max Verstappen - Austin GP",
+    "price": 250.0
+  },
+  {
+    "name": "McLaren MCL38 Lando Norris - Monaco GP",
+    "price": 250.0
+  },
+  {
+    "name": "Ferrari 312 T3 Jody Scheckter",
+    "price": 250.0
+  },
+  {
+    "name": "Lotus 99T Ayrton Senna",
+    "price": 285.0
+  },
+  {
+    "name": "Red Bull RB21 Max Verstappen - Edición Especial Japón",
+    "price": 250.0
+  },
+  {
+    "name": "McLaren MCL39 Oscar Piastri",
+    "price": 250.0
+  },
+  {
+    "name": "Ferrari F2001 Michael Schumacher - Italian GP",
+    "price": 265.0
+  },
+  {
+    "name": "Mercedes W05 Lewis Hamilton",
+    "price": 250.0
+  },
+  {
+    "name": "Williams FW15C Alain Prost",
+    "price": 250.0
+  },
+  {
+    "name": "Brabham BT49 Nelson Piquet",
+    "price": 250.0
+  },
+  {
+    "name": "Williams FW45 Alex Albon - Singapore GP",
+    "price": 285.0
+  },
+  {
+    "name": "Ferrari SF-25 Charles Leclerc - Miami GP",
+    "price": 250.0
+  },
+  {
+    "name": "McLaren MCL33 Fernando Alonso - Abu Dhabi GP",
+    "price": 285.0
+  },
+  {
+    "name": "Ferrari F2002 Michael Schumacher",
+    "price": 500.0
+  },
+  {
+    "name": "Ferrari SF71H Sebastian Vettel",
+    "price": 250.0
+  },
+  {
+    "name": "Red Bull RB19 Sergio Pérez",
+    "price": 250.0
+  },
+  {
+    "name": "Ferrari SF-24 Carlos Sainz - Italian GP",
+    "price": 265.0
+  },
+  {
+    "name": "Ferrari F10 Fernando Alonso",
+    "price": 265.0
+  },
+  {
+    "name": "Ferrari 158 F1 John Surtees - US GP",
+    "price": 265.0
+  },
+  {
+    "name": "Ferrari SF-25 Lewis Hamilton - Miami GP",
+    "price": 250.0
+  },
+  {
+    "name": "McLaren MCL39 Lando Norris - British GP",
+    "price": 250.0
+  },
+  {
+    "name": "Renault R.S.19 Daniel Ricciardo",
+    "price": 295.0
+  },
+  {
+    "name": "Renault RE30 Alain Prost",
+    "price": 295.0
+  },
+  {
+    "name": "Alpine A521 Fernando Alonso - Saudi Arabian GP",
+    "price": 295.0
+  },
+  {
+    "name": "Lambo 291 Nicola Larini",
+    "price": 295.0
+  },
+  {
+    "name": "Ferrari 248 F1 Michael Schumacher",
+    "price": 295.0
+  },
+  {
+    "name": "Mercedes W16 Kimi Antonelli - British GP",
+    "price": 150.0
+  },
+  {
+    "name": "Mercedes W16 George Russell - British GP",
+    "price": 150.0
+  },
+  {
+    "name": "Red Bull RB16B Max Verstappen - Turkish GP",
+    "price": 150.0
+  },
+  {
+    "name": "Ferrari SF-25 Charles Leclerc - Italian GP",
+    "price": 150.0
+  },
+  {
+    "name": "Red Bull RB21 Max Verstappen - Japanese GP",
+    "price": 150.0
+  },
+  {
+    "name": "Red Bull RB19 Max Verstappen - Las Vegas GP",
+    "price": 150.0
+  },
+  {
+    "name": "McLaren MCL39 Lando Norris - British GP",
+    "price": 150.0
+  },
+  {
+    "name": "McLaren MCL39 Oscar Piastri - British GP",
+    "price": 150.0
+  },
+  {
+    "name": "Red Bull RB16B Max Verstappen - Turkish GP",
+    "price": 250.0
+  },
+  {
+    "name": "McLaren MCL39 Oscar Piastri - British GP",
+    "price": 250.0
+  },
+  {
+    "name": "Aston Martin AMR25 Fernando Alonso",
+    "price": 250.0
+  },
+  {
+    "name": "Red Bull RB20 Max Verstappen",
+    "price": 250.0
+  },
+  {
+    "name": "Ferrari SF-25 Charles Leclerc - Monza GP",
+    "price": 265.0
+  }
+]

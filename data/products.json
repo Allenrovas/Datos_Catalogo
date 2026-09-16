@@ -7062,5 +7062,866 @@
     "manufacturer": "IXO",
     "scale": "1:43",
     "driver": "Michael Schumacher"
+},
+{
+    "id": 195,
+    "name": "Ferrari F2002 Michael Schumacher",
+    "description": "Réplica del Ferrari F2002 de Michael Schumacher en la temporada 2002, el monoplaza con el que el piloto alemán dominó la Fórmula 1 conquistando su quinto título mundial. Edición IXO a escala 1:43 con funda protectora incluida.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo",
+        "championship"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp"
+    ],
+    "imageFolder": "images/195_ferrari_f2002_schumacher_ixo/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Réplica del Ferrari F2002 de Michael Schumacher",
+        "Coche campeón del mundo de la temporada 2002",
+        "Incluye funda protectora",
+        "Acabados de alta calidad IXO"
+    ],
+    "inStock": true,
+    "limitedEdition": false,
+    "year": 2002,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Michael Schumacher"
+},
+{
+    "id": 196,
+    "name": "Casco Ferrari SF-23 Carlos Sainz - Italian GP",
+    "description": "Réplica del casco de Carlos Sainz utilizado junto al Ferrari SF-23 en el Gran Premio de Italia 2023. Pieza de colección ideal para acompañar la exhibición del monoplaza, con los colores y detalles oficiales del piloto español.",
+    "categories": [
+        "ferrari",
+        "scale-1-5",
+        "ixo",
+        "helmet",
+        "limited"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp"
+    ],
+    "imageFolder": "images/196_ferrari_sf23_sainz_italy_helmet/",
+    "specifications": {
+        "material": "Resina con acabados en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Réplica oficial del casco de Carlos Sainz",
+        "Edición especial del GP de Italia 2023",
+        "Complemento ideal para el Ferrari SF-23 a escala",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2023,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Carlos Sainz"
+},
+{
+    "id": 197,
+    "name": "Sauber C23 Felipe Massa",
+    "description": "Réplica del Sauber C23 pilotado por Felipe Massa durante la temporada 2004, año de su regreso a la Fórmula 1 tras su etapa como piloto de pruebas en Ferrari, junto a su compañero Giancarlo Fisichella.",
+    "categories": [
+        "sauber",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/197_sauber_c23_massa/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Regreso de Felipe Massa a la Fórmula 1 en 2004",
+        "Detalles fieles al monoplaza original",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 2004,
+    "team": "Sauber",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Felipe Massa"
+},
+{
+    "id": 198,
+    "name": "Mercedes F1 W07 Hybrid Nico Rosberg",
+    "description": "Réplica del Mercedes F1 W07 Hybrid, el monoplaza con el que Nico Rosberg conquistó el campeonato mundial de pilotos de 2016, poniendo fin a una intensa rivalidad interna con su compañero Lewis Hamilton. Edición conmemorativa del título.",
+    "categories": [
+        "mercedes",
+        "scale-1-43",
+        "ixo",
+        "championship",
+        "limited"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/198_mercedes_w07_hybrid_rosberg/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Campeón mundial de pilotos 2016",
+        "Edición conmemorativa del título",
+        "Incluye funda protectora"
+    ],
+    "inStock": true,
+    "limitedEdition": true,
+    "year": 2016,
+    "team": "Mercedes",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Nico Rosberg"
+},
+{
+    "id": 199,
+    "name": "Tyrrell 008 Patrick Depailler",
+    "description": "Réplica del Tyrrell 008 pilotado por Patrick Depailler durante la temporada 1978, monoplaza con el que el piloto francés logró su primera victoria en Fórmula 1 en el Gran Premio de Mónaco de ese año.",
+    "categories": [
+        "tyrrell",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/199_tyrrell_008_depailler/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Primera victoria de Patrick Depailler en F1",
+        "Detalles fieles al monoplaza de 1978",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1978,
+    "team": "Tyrrell",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Patrick Depailler"
+},
+{
+    "id": 200,
+    "name": "Ferrari SF-23 Carlos Sainz - Italian GP",
+    "description": "Réplica oficial del Ferrari SF-23 de Carlos Sainz en su configuración especial para el Gran Premio de Italia 2023, disputado en el histórico circuito de Monza. Modelo de alta calidad Bburago con acabados premium.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 200.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "imageFolder": "images/200_ferrari_sf23_sainz_italy/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con funda protectora"
+    },
+    "features": [
+        "Configuración especial del GP de Italia 2023",
+        "Detalles auténticos del monoplaza original",
+        "Numeración oficial de Sainz (#55)",
+        "Incluye funda protectora"
+    ],
+    "inStock": true,
+    "limitedEdition": true,
+    "year": 2023,
+    "team": "Ferrari",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Carlos Sainz"
+},
+{
+    "id": 201,
+    "name": "Jaguar R4 Mark Webber",
+    "description": "Réplica del Jaguar R4 pilotado por Mark Webber en la temporada 2003, año en el que el australiano logró sus primeros podios en Fórmula 1 con el equipo británico.",
+    "categories": [
+        "jaguar",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/201_jaguar_r4_webber/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Primeros podios de Mark Webber en F1",
+        "Detalles fieles al monoplaza de 2003",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 2003,
+    "team": "Jaguar",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Mark Webber"
+},
+{
+    "id": 202,
+    "name": "Ligier JS43 Olivier Panis",
+    "description": "Réplica del Ligier JS43 pilotado por Olivier Panis en la temporada 1996, monoplaza con el que el piloto francés logró una histórica victoria en el caótico Gran Premio de Mónaco de ese año.",
+    "categories": [
+        "ligier",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/202_ligier_js43_panis/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Victoria histórica en el GP de Mónaco 1996",
+        "Detalles fieles al monoplaza original",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1996,
+    "team": "Ligier",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Olivier Panis"
+},
+{
+    "id": 203,
+    "name": "Eagle Mk1 Bruce McLaren",
+    "description": "Réplica del Eagle Mk1, uno de los monoplazas más elegantes de la era clásica de la Fórmula 1, en la configuración pilotada por Bruce McLaren durante la temporada 1967.",
+    "categories": [
+        "eagle",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/203_eagle_mk1_bruce_mclaren/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Diseño icónico de la era clásica de la F1",
+        "Detalles fieles al monoplaza de 1967",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1967,
+    "team": "Eagle",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Bruce McLaren"
+},
+{
+    "id": 204,
+    "name": "Toyota GR010 Hybrid - Conway/Kobayashi/de Vries",
+    "description": "Réplica del Toyota GR010 Hybrid, el prototipo con el que el trío formado por Mike Conway, Kamui Kobayashi y Nyck de Vries compitió en el Campeonato Mundial de Resistencia (WEC) durante la temporada 2024.",
+    "categories": [
+        "toyota",
+        "wec",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 200.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp"
+    ],
+    "imageFolder": "images/204_toyota_gr010_hybrid_wec/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con funda protectora"
+    },
+    "features": [
+        "Prototipo del Campeonato Mundial de Resistencia (WEC)",
+        "Tripulación formada por Conway, Kobayashi y de Vries",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2024,
+    "team": "Toyota",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Mike Conway / Kamui Kobayashi / Nyck de Vries"
+},
+{
+    "id": 205,
+    "name": "McLaren MCL39 Oscar Piastri - Monaco GP",
+    "description": "Réplica oficial del McLaren MCL39 de Oscar Piastri en su configuración especial para el Gran Premio de Mónaco 2025. Modelo de alta calidad Bburago con acabados premium.",
+    "categories": [
+        "mclaren",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "imageFolder": "images/205_mclaren_mcl39_piastri_monaco/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con funda protectora"
+    },
+    "features": [
+        "Configuración especial del GP de Mónaco 2025",
+        "Detalles auténticos del monoplaza original",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2025,
+    "team": "McLaren",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Oscar Piastri"
+},
+{
+    "id": 206,
+    "name": "Ferrari 312 B2 Clay Regazzoni",
+    "description": "Réplica del Ferrari 312 B2 pilotado por Clay Regazzoni durante la temporada 1971, monoplaza con el que el piloto suizo compitió para la Scuderia Ferrari.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/206_ferrari_312b2_regazzoni/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Monoplaza clásico de la Scuderia Ferrari",
+        "Detalles fieles al 312 B2 de 1971",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1971,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Clay Regazzoni"
+},
+{
+    "id": 207,
+    "name": "Ferrari 555 F1 Eugenio Castellotti",
+    "description": "Réplica del Ferrari 555 F1, apodado 'Squalo' (Tiburón), en la configuración pilotada por Eugenio Castellotti durante la temporada 1955, uno de los pilotos italianos más prometedores de su generación.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp"
+    ],
+    "imageFolder": "images/207_ferrari_555f1_castellotti/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Apodado 'Squalo' por su carrocería característica",
+        "Detalles fieles al monoplaza de 1955",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1955,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Eugenio Castellotti"
+},
+{
+    "id": 208,
+    "name": "Ferrari F60 Giancarlo Fisichella",
+    "description": "Réplica del Ferrari F60 en la configuración pilotada por Giancarlo Fisichella durante la temporada 2009, cuando el italiano fue convocado por la Scuderia para sustituir a Luca Badoer, logrando un meritorio segundo puesto en el Gran Premio de Bélgica.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp"
+    ],
+    "imageFolder": "images/208_ferrari_f60_fisichella/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Segundo puesto en el GP de Bélgica 2009",
+        "Sustitución de última hora de Luca Badoer",
+        "Incluye funda protectora"
+    ],
+    "inStock": true,
+    "limitedEdition": false,
+    "year": 2009,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Giancarlo Fisichella"
+},
+{
+    "id": 209,
+    "name": "Ferrari 312 B3 Arturo Merzario",
+    "description": "Réplica del Ferrari 312 B3 pilotado por Arturo Merzario durante la temporada 1973, año en el que el piloto italiano compitió para la Scuderia Ferrari en una campaña de reconstrucción del equipo.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/209_ferrari_312b3_merzario/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Temporada de reconstrucción de la Scuderia Ferrari",
+        "Detalles fieles al 312 B3 de 1973",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1973,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Arturo Merzario"
+},
+{
+    "id": 210,
+    "name": "Ferrari F2003-GA Michael Schumacher",
+    "description": "Réplica del Ferrari F2003-GA de Michael Schumacher, el monoplaza con el que el piloto alemán conquistó su sexto título mundial en la temporada 2003, en una de las luchas más reñidas de su carrera frente a Kimi Räikkönen y Juan Pablo Montoya.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo",
+        "championship"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/210_ferrari_f2003ga_schumacher/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Sexto título mundial de Michael Schumacher",
+        "Reñida lucha por el campeonato 2003",
+        "Incluye funda protectora"
+    ],
+    "inStock": true,
+    "limitedEdition": false,
+    "year": 2003,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Michael Schumacher"
+},
+{
+    "id": 211,
+    "name": "Ferrari 312 T5 Gilles Villeneuve",
+    "description": "Réplica del Ferrari 312 T5 pilotado por Gilles Villeneuve durante la temporada 1980, uno de los años más complicados de la Scuderia Ferrari, en el que el piloto canadiense destacó por su tenacidad al volante de un monoplaza poco competitivo.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/211_ferrari_312t5_villeneuve/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Tenacidad de Villeneuve en una temporada complicada",
+        "Detalles fieles al 312 T5 de 1980",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1980,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Gilles Villeneuve"
+},
+{
+    "id": 212,
+    "name": "Ferrari 512 F1 Pedro Rodríguez",
+    "description": "Réplica del Ferrari 512 F1 pilotado por Pedro Rodríguez durante la temporada 1965, monoplaza con motor de 12 cilindros con el que el piloto mexicano compitió para la Scuderia Ferrari.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/212_ferrari_512f1_rodriguez/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Motor V12 de la Scuderia Ferrari",
+        "Detalles fieles al monoplaza de 1965",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1965,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Pedro Rodríguez"
+},
+{
+    "id": 213,
+    "name": "Ferrari 312 F1-69 Pedro Rodríguez",
+    "description": "Réplica del Ferrari 312 F1-69 pilotado por Pedro Rodríguez durante la temporada 1969, en la que el piloto mexicano formó parte de la escudería italiana.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/213_ferrari_312f169_rodriguez/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Piloto mexicano en la Scuderia Ferrari",
+        "Detalles fieles al monoplaza de 1969",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1969,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Pedro Rodríguez"
+},
+{
+    "id": 214,
+    "name": "Ferrari F1/87 Gerhard Berger",
+    "description": "Réplica del Ferrari F1/87 pilotado por Gerhard Berger durante la temporada 1987, monoplaza con el que el piloto austriaco logró victorias en los Grandes Premios de Japón y Australia para cerrar la temporada.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "ixo"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp",
+        "2.webp"
+    ],
+    "imageFolder": "images/214_ferrari_f187_berger/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista IXO con funda protectora"
+    },
+    "features": [
+        "Doble victoria para cerrar la temporada 1987",
+        "Detalles fieles al monoplaza original",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 1987,
+    "team": "Ferrari",
+    "manufacturer": "IXO",
+    "scale": "1:43",
+    "driver": "Gerhard Berger"
+},
+{
+    "id": 215,
+    "name": "McLaren MCL39 Lando Norris - Monaco GP",
+    "description": "Réplica oficial del McLaren MCL39 de Lando Norris en su configuración especial para el Gran Premio de Mónaco 2025. Modelo de alta calidad Bburago con acabados premium.",
+    "categories": [
+        "mclaren",
+        "scale-1-43",
+        "bburago",
+        "limited"
+    ],
+    "price": 265.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp"
+    ],
+    "imageFolder": "images/215_mclaren_mcl39_norris_monaco/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con funda protectora"
+    },
+    "features": [
+        "Configuración especial del GP de Mónaco 2025",
+        "Detalles auténticos del monoplaza original",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2025,
+    "team": "McLaren",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Lando Norris"
+},
+{
+    "id": 216,
+    "name": "Red Bull RB20 Max Verstappen - British GP",
+    "description": "Réplica oficial del Red Bull RB20 de Max Verstappen en su configuración especial para el Gran Premio de Gran Bretaña 2024, con el que el neerlandés conquistó su cuarto título mundial consecutivo.",
+    "categories": [
+        "red-bull",
+        "scale-1-43",
+        "bburago",
+        "limited",
+        "championship"
+    ],
+    "price": 265.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+    ],
+    "imageFolder": "images/216_redbull_rb20_verstappen_british/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista con funda protectora"
+    },
+    "features": [
+        "Configuración especial del GP de Gran Bretaña 2024",
+        "Cuarto título consecutivo de Verstappen",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2024,
+    "team": "Red Bull",
+    "manufacturer": "Bburago",
+    "scale": "1:43",
+    "driver": "Max Verstappen"
+},
+{
+    "id": 217,
+    "name": "Williams FW22 Ralf Schumacher",
+    "description": "Réplica del Williams FW22 pilotado por Ralf Schumacher durante la temporada 2000, primer año de la asociación entre Williams y BMW, que marcó el resurgimiento del equipo británico en la Fórmula 1. Edición especial Hot Wheels.",
+    "categories": [
+        "williams",
+        "scale-1-43",
+        "hotwheels",
+        "limited"
+    ],
+    "price": 295.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp"
+    ],
+    "imageFolder": "images/217_williams_fw22_rschumacher_hotwheels/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista Hot Wheels edición especial"
+    },
+    "features": [
+        "Primer año de la asociación Williams-BMW",
+        "Detalles fieles al monoplaza de 2000",
+        "Edición especial Hot Wheels"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2000,
+    "team": "Williams",
+    "manufacturer": "Hotwheels",
+    "scale": "1:43",
+    "driver": "Ralf Schumacher"
+},
+{
+    "id": 218,
+    "name": "Ferrari F2004 Michael Schumacher - Hot Wheels",
+    "description": "Réplica del Ferrari F2004 de Michael Schumacher, edición especial Hot Wheels de uno de los monoplazas más dominantes de la historia de la Fórmula 1, con el que el piloto alemán conquistó su séptimo título mundial en la temporada 2004.",
+    "categories": [
+        "ferrari",
+        "scale-1-43",
+        "hotwheels",
+        "championship",
+        "limited"
+    ],
+    "price": 295.0,
+    "images": [
+        "1.webp",
+        "2.webp",
+        "3.webp"
+    ],
+    "imageFolder": "images/218_ferrari_f2004_schumacher_hotwheels/",
+    "specifications": {
+        "material": "Metal fundido a presión con detalles en plástico",
+        "scale": "1:43",
+        "packaging": "Caja coleccionista Hot Wheels con funda protectora"
+    },
+    "features": [
+        "Séptimo título mundial de Michael Schumacher (2004)",
+        "Edición especial Hot Wheels",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": true,
+    "year": 2004,
+    "team": "Ferrari",
+    "manufacturer": "Hotwheels",
+    "scale": "1:43",
+    "driver": "Michael Schumacher"
+},
+{
+    "id": 219,
+    "name": "Casco Ferrari SF-24 Carlos Sainz",
+    "description": "Réplica oficial a escala 1:5 del casco de Carlos Sainz utilizado con el Ferrari SF-24 en la temporada 2024. Pieza de colección de gran formato fabricada por Ferrari, ideal para exhibición junto al monoplaza.",
+    "categories": [
+        "ferrari",
+        "scale-1-5",
+        "helmet"
+    ],
+    "price": 250.0,
+    "images": [
+        "1.webp"
+    ],
+    "imageFolder": "images/219_ferrari_sf24_sainz_helmet/",
+    "specifications": {
+        "material": "Fibra de carbono y resina",
+        "scale": "1:5",
+        "packaging": "Caja coleccionista Ferrari con funda protectora"
+    },
+    "features": [
+        "Réplica oficial del casco de Carlos Sainz",
+        "Escala 1:5 de gran formato y detalle",
+        "Incluye funda protectora"
+    ],
+    "inStock": false,
+    "limitedEdition": false,
+    "year": 2024,
+    "team": "Ferrari",
+    "manufacturer": "Ferrari",
+    "scale": "1:5",
+    "driver": "Carlos Sainz"
 }
 ]
