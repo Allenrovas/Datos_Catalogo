@@ -2900,7 +2900,7 @@
             "Piloto legendario",
             "Modelo clásico Ferrari"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": true,
         "year": 1977,
         "team": "Ferrari",
@@ -5094,7 +5094,7 @@
             "Lucha directa por el título frente a Mercedes",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": true,
+        "inStock": false,
         "limitedEdition": false,
         "year": 2018,
         "team": "Ferrari",
@@ -5863,7 +5863,7 @@
             "ixo",
             "classic"
         ],
-        "price": 265.0,
+        "price": 250.0,
         "images": [
             "1.webp",
             "2.webp",
@@ -5881,7 +5881,7 @@
             "Detalles auténticos del monoplaza original",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1952,
         "team": "Ferrari",
@@ -5933,7 +5933,7 @@
             "ixo",
             "classic"
         ],
-        "price": 265.0,
+        "price": 250.0,
         "images": [
             "1.webp",
             "2.webp",
@@ -5950,7 +5950,7 @@
             "Detalles auténticos del monoplaza original",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1958,
         "team": "Ferrari",
@@ -5967,7 +5967,7 @@
             "scale-1-43",
             "ixo"
         ],
-        "price": 265.0,
+        "price": 250.0,
         "images": [
             "1.webp",
             "2.webp",
@@ -5984,7 +5984,7 @@
             "Uno de los monoplazas más dominantes de la historia",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 2004,
         "team": "Ferrari",
@@ -6089,7 +6089,7 @@
             "Detalles auténticos del monoplaza original",
             "Acabados de alta calidad IXO"
         ],
-        "inStock": false,
+        "inStock": true,
         "limitedEdition": false,
         "year": 1961,
         "team": "Ferrari",
@@ -6962,8 +6962,7 @@
         "4.webp",
         "5.webp",
         "6.webp",
-        "7.webp",
-        "8.webp"
+        "7.webp"
     ],
     "imageFolder": "images/192_sf25_hamilton_monza/",
     "specifications": {
@@ -6979,7 +6978,7 @@
         "Número de serie individual",
         "Limitado a 10,008 unidades"
     ],
-    "inStock": false,
+    "inStock": true,
     "limitedEdition": true,
     "year": 2025,
     "team": "Ferrari",
